@@ -1,0 +1,39 @@
+Policy 615: Policy on Use of Unmanned Aircraft Systems (UAS) a.k.a. "Drones"
+
+
+This policy addresses the potential use for any reason of unmanned aircrafts systems, also known as unmanned aerial vehicles and drones, on University property, including for educational/research, recreational or commercial purposes. Not only is drone use regulated by the Federal Aviation Administration, but also it presents the potential for property damage, personal injury, invasion of privacy and other violations of law, in addition to general safety concerns.
+This Policy applies to all Covered Persons who conduct and/or propose to conduct any operation of a UAS for any university activity or on any University Property.
+
+For purposes of this Policy,
+Covered Person means any faculty or staff member, employee, student, visitor, and/or third party who receives or uses university funds or other resources or participates in university-administered research.
+Unmanned Aircraft Systems (UAS) (or Unmanned Air Vehicles (UAVs), as they are referred to in Canada) means aircraft that are operated without the possibility of direct human intervention from within or on the aircraft and includes associated elements (including communication links and the components that control the unmanned aircraft). It includes, without limitation, any device commonly referred to as a drone, quadcopter, model aircraft, model rocket, unmanned aerial vehicle (UAV), remotely-operated aircraft (ROA) or remotely-piloted aircraft (RPA), and also includes weather or other high-altitude balloons.
+UAS Review Board (UASRB) refers to the university board established to review, advise and approve proposed uses of UAS by Covered Persons for university activities or at university campuses. The UASRB has representatives from the faculty, ORAF, the Office of Risk Services, Compliance, OGC, NUPD and the research community, among others.
+University Property includes all areas owned, leased or used for university activities.
+
+UAS use for any university activity or on any university campus is not permitted, except with the prior written consent of the university in accordance with this policy.
+Any Covered Person proposing to use a UAS for university purposes or on University Property, including for a UAS-dedicated research facility that will be used by multiple researchers, must submit a request for approval in writing to the UASRB in the form and substance designated by the UASRB.
+The UASRB will review submissions and, if necessary, consult with other relevant areas, to determine whether the use of the UAS by a Covered Person may for such activity be carried out safely and in compliance with applicable laws. It may approve proposed use of a UAS in accordance with the parameters in the application, and/or may impose specific conditions (for example time limitations) with its approval, or may deny approval. A denial of approval of an application does not prohibit a Covered Person from re-submitting an application with supplemental or alternative proposed parameters from the denied application.
+Approved uses of a UAS may be subject to specific restrictions due to applicable laws and/or university policies or procedures. Approval of UAS use may be restricted to a particular defined area, device weight, timeframe, altitude and/or other parameters. Any approved use of a UAS weighing less than 55 pounds, must also comply with the university’s Small Unmanned Aircraft Systems (sUAS) Guidelines and Use Restrictions, which can be found on the UAS website.
+The Covered Person remains responsible for any injury, damage or fines incurred or asserted against the Covered Person because of the use of UAS. Covered Persons who violate this policy may be subject to discipline up to and including disciplinary procedures for students, separation or termination for faculty and staff, or termination of any applicable contract for a third party contractor.
+
+Operators intending to apply for approval for their proposed use of a UAS on University Property should be aware that most university campuses, including Boston, Seattle, San Jose, Burlington, Dedham and Nahant, are within five miles of an airport and/or FAA-registered heliport, and that the Federal Aviation Administration (FAA) severely restricts and may prohibit use of UAS in such controlled airspace.
+Any approved operation of a UAS or Model Aircraft must comply with all applicable Federal State and local laws, including state privacy laws and laws that apply to audio and video recordings. Under FAA regulations announced in December 2015, all drones weighing more than 0.55 pounds (250 grams) and less than 55 pounds (approx. 25 kilograms) must be registered with the FAA through a web-based system located on the FAA website: http://www.faa.gov/uas/registration/.
+In addition to compliance with this policy, proposed use of unmanned air vehicles (UAVs) in Canada for university purposes or on university property, must comply with applicable Canadian federal acts and regulations, including Canadian Aviation Regulations (CARs), applicable standards issued by Transport Canada for UAVs, and the Criminal Code, as well as all municipal, provincial, and territorial laws regarding trespassing and privacy and, if applicable, must obtain a special flight operations certificate (SFOC).
+Further information on federal regulations governing use of drones may be found at the FAA’s website: https://www.faa.gov/uas/.
+
+General questions should be directed to the UASRB at UASRB@northeastern.edu.
+Visit the UAS website for more information.
+To report a suspected violation of this policy, contact NUPD, 617-373-2121. In an emergency, call 617-373-3333 (or 911).
+Responsible Office/Department(s)
+Office of Risk Services
+
+Related Policies
+Related Procedures
+N/A
+Supersedes
+
+Keywords
+Drones; Unmanned Aerial Vehicles; Model Aircraft; Model Airplace; Unmanned Aircraft System; Remote-Control Aircraft; Unpiloted Aircraft
+Version History
+Last Revision Date: N/A
+Issued: September 13, 2017

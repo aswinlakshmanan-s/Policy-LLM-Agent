@@ -1,0 +1,55 @@
+Policy 125: Policy on the Use of Artificial Intelligence Systems
+
+
+Artificial Intelligence (“AI”) offers opportunities for enhancing invention, creativity, discovery, effectiveness and efficiency in teaching, research, and administration (“University Operations”) as well as faculty outside professional activities in which an affiliation with the university is referenced (“Outside Professional Activities”). As a relatively new technology, we must also use AI in a manner that is consistent with university policies and applicable laws, protects our confidential information, personal information, and restricted research data, and appropriately addresses any resulting risks to the university and our community.
+The purpose of this policy is to establish core requirements applicable to Northeastern’s use of AI Systems in University Operations and Outside Professional Activities. This policy applies to faculty and staff as follows:
+• All requirements set forth in Section III below apply to University Operations. • The first three requirements of Section III below apply to Outside Professional Activities.
+Operational components within the university may elect to publish more detailed standards implementing this policy, and are referenced in section IV below.
+
+For purposes of this policy:
+AI System means an engineered or machine-based system or functionality that is designed, for a given set of objectives, to generate outputs such as text, images, predictions, or to make recommendations or decisions influencing human action, or real or virtual environments. AI Systems are also designed to operate with varying levels of autonomy.
+Confidential Information means information for which access, use, or disclosure is subject to restrictions under contract terms, applicable law or university policy. This includes without limitation Restricted Research Data; student records; personnel records; the Personal Information of students, parents, alumni, employees, contractors, partners and vendors; health information; alumni and donor information; university financial information; computer passwords; and any other proprietary, nonpublic university information. Please refer to the Policy on the Confidentiality of University Records and Information for further guidance.
+Personal Information means any information relating to an individual that identifies or can reasonably be used to identify an individual, directly or indirectly (including in combination with other data), by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the identity of an individual. Personal information includes information that has been de-identified but could reasonably be re-associated with an individual including through the use of AI systems.
+Restricted Research Data means any information or data used for university research that is subject to restriction on its access, use or disclosure under contract terms, applicable law or university policy.
+
+
+Any faculty or staff member seeking to incorporate the use of an AI System in University Operations or Outside Professional Activities must:
+1. Provide appropriate attribution when using an AI System to generate content that is included in a scholarly publication, or submitted to any body, publication or other organization that requires attribution of content authorship. 2. Regularly check the AI System’s output for accuracy and appropriateness for the required purpose, and revise/update the output as appropriate. 3. If the AI System involves the processing of Personal Information or takes actions that may impact the legal rights or physical safety of an individual, validate that it is regularly tested to confirm that its results are not biased or discriminatory in violation of applicable law.
+Any faculty or staff member seeking to incorporate the use of an AI system in University Operations must also:
+4. If the AI System either (i) involves the processing of Confidential Information, Personal Information, or Restricted Research Data or (ii) takes actions that may impact the legal rights or physical safety of an individual:
+o Submit the AI System and its use case for approval by the AI Review Committee (“AIRC”); and o Submit the AI System and its use case for approval by the Office of Information Security review process for either vendor or internal systems (as applicable).
+
+
+A. Standards Implementing This Policy
+The following university functions / operational components have published more detailed standards implementing this Policy:
+• Standards for the Use of Generative AI in Administrative Work • Standards for the Use of AI in Research at Northeastern • Standards for the Use of Generative AI in Teaching
+B. AI Systems Approved by the AIRC
+A current list of the AI Systems and use cases (if applicable) that have been approved by the AIRC, along with any approval conditions, is available here.
+C. Frequently Asked Questions
+A set of frequently asked questions and responses thereto is available here.
+
+AI Review Committee: AI_Review_Commitee@northeastern.edu
+Office of the Provost: 617-373-2170
+Office of Information Security: OIS@northeastern.edu
+Office of the General Counsel: 617-373-2157
+Responsible Office/Department(s)
+Office of the Provost
+Office of the General Counsel
+Office of Information Security
+Related Policies
+Academic Integrity Policy
+Code of Ethical Conduct
+Faculty Handbook
+Policy on Appropriate Use of Computer and Network Resources
+Policy on Confidentiality of University Records and Information
+Policy on Professional Standards and Business Conduct
+Student Code of Conduct
+Related Procedures
+AI Review Committee review form
+Supersedes
+N/A
+Keywords
+Artificial Intelligence; Confidential Information; Personal Information; Restricted Research Data
+Version History
+Last Revised:
+Issued: March 31, 2025

@@ -1,0 +1,95 @@
+Policy 122: Policy on Digital Accessibility
+
+
+Northeastern University is committed to providing equal and effective access to its information technology in accordance with applicable laws. The university recognizes the importance of deploying electronic and information technology that has been designed, developed, or procured to be accessible to people with disabilities. To assist the university in meeting these commitments, this policy, together with the Northeastern University Digital Accessibility Procedures (the procedures) sets forth the requirements for accessibility to Northeastern University websites and other technological resources.
+This policy and the procedures apply to Northeastern University academic and administrative units that procure, create, develop and maintain websites, web-based applications, and other electronic and information technology used in the programs and activities of the university. Individuals and entities, including employees and external vendors, who procure, create or maintain electronic information and technology on behalf of the university shall comply with this policy and the procedures.
+II. Definitions
+
+For purposes of this policy:
+
+A. Academic Unit
+A college, school or academic department within the university.
+
+B. Accessibility Standards
+Refer to official university conventions, norms or requirements intended to provide access to an environment, product, or service, particularly by people with disabilities.
+
+C. Accessible
+Means a person with a disability is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services as a person without a disability in an equally effective and equally inclusive manner, with substantially equivalent ease of use.
+
+D. Alternative Formats
+Means information presented in Braille, in large print, via audio recording, or in an electronic format that can be accessed by people with disabilities. The alternative format must make the same content available and provide an equivalent level of access to the content by people with disabilities that is available to others in the original document.
+
+E. Central Administrative Unit
+A unit that serves the entire university community in an administrative role.
+
+
+F. Electronic Content
+Includes, but is not limited to: content that is public facing; websites or web-based applications owned or controlled by the university and used in the programs or activities of the university; content that is broadly disseminated within the university; emergency notifications; formal acknowledgements; and any public educational and training materials.
+
+G. Electronic and Information Technology (EIT)
+Refers to any information technology, equipment, or interconnected system or subsystem of equipment for which the principal function is the creation, conversion, duplication, automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, reception, or broadcast of data or information. Examples of EIT include Electronic Content, computers, software, databases, learning management systems, and classroom technology and multimedia.
+H. Level AA
+Refers to the intermediate level of conformance that a website must satisfy having met all of the Level A and level AA success criteria in terms of the WCAG guidelines, or a Level AA conforming alternate version is provided.
+
+I. Minimum Web Accessibility Standards (MWAS)
+Refers to the university’s internal standards for EIT accessibility based on the WCAG 2.0 Level AA guidelines.
+
+J. Official Website
+Means a website that has been created or sponsored by the university, its colleges, schools, departments, academic units, or other administrative offices and that is used in the process of conducting official university business. In addition, web applications – both developed in-house and those purchased from outside vendors – are considered official.
+
+K. Unit
+Refers to a college, school, department, program, research center, business service center, office or other operating unit.
+
+L. Web-based Application
+Is any software that delivers dynamically generated content intended to be rendered in a web browser.
+
+M. Web Content Accessibility Guidelines (WCAG) 2.0
+Refers to the web standard developed by the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
+
+N. Web Page
+Is a (web) document rendered by a markup language, (e.g., xhtml, html), independent of its transmission protocol (e.g., http) and user agent (browser/reader).
+
+O. Website
+Is any collection of Web pages residing under a single domain and whose content is centered around a single organizational unit or workgroup, a university course, a research or business activity, or an area of academic content.
+
+P. Website Redesign
+Is any phase during the development or maintenance of a website in which significant alteration or update is made to the visual design, institutional branding, information architecture, or technical functionality of the site. Minor content updates are not considered website redesign projects.
+
+A. General
+
+EIT developed, maintained, or used in carrying out university activities must be compliant with applicable federal, state and local laws as well as related university policies and procedures. To this end, academic and administrative units are required to adhere to university accessibility standards, as outlined in this policy and the procedures, when creating or maintaining EIT. The university reserves the right to remove or suspend distribution of, or access to, EIT found to be in nonconformance with this policy and the procedures.
+The university will follow the Web Content Accessibility Guidelines (WCAG) 2.0 developed by the W3C for guidance in meeting its accessibility commitments, including the use of alternative formats. Please refer to the procedures for detailed information about the university’s minimum web accessibility standards (MWAS).
+Employees responsible for existing university EIT must use good faith efforts, subject to the requirements and exceptions of this policy and the procedures, to make EIT accessible. This includes bringing web-based content into conformance with MWAS.
+Unless qualifying for an exception as defined below, newly procured, created, developed and maintained EIT used in the programs and activities of the university and controlled by the university, must conform to MWAS. Website Redesigns should also conform to MWAS.
+
+B. The Following Areas of the University’s EIT Are Required to Comply with MWAS:
+
+1. Official Websites – Official websites (see Definitions section above) including central administrative unit websites and academic unit websites controlled by the university and used for official university business.
+2. Teaching – Course sites; course collaboration tools; pages created by students to fulfill academic requirements only if they fall within one or more categories of Official website.
+3. Research – Research results presented to the public online; sites created for the purpose of conducting research by collecting data from human participants (except for those listed below).
+Some areas of the university’s EIT are not required to comply with MWAS. Please consult the Procedure.
+
+
+C. Exceptions
+
+Where conformance with this policy is not possible, exceptions may be granted by the university based on the guidelines for exceptions outlined in the procedures. Requests for exceptions must be documented on the form located on the digital accessibility website and submitted to the university’s Digital Accessibility Specialist for consideration. Exceptions are detailed in the procedures. Circumstances under which exceptions may be granted are detailed in the procedures.
+
+
+NU Student groups who would like to make their sites accessible may do so by contacting digital-accessibility@northeastern.edu.
+
+digital-accessibility@northeastern.edu
+Responsible Office/Department(s)
+Information Technology Services
+
+Related Policies
+Policy on Equal Opportunity
+Policy on Reasonable Accommodation
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+Digital Accessibility; Website; Web-based Applications
+Version History
+Last Revision Date: August 11, 2023
+Issued: December 13, 2019

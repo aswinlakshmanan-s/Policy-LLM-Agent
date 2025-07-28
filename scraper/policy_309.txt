@@ -1,0 +1,50 @@
+Policy 309: Policy on Research Grant Close Out
+
+
+The purpose of this policy is to establish guidelines for closing out remaining balances on research grants after all invoices have been paid, journal vouchers posted and all encumbrances have been liquidated. As part of the research grant close-out process, all balances remaining within these funds must be resolved prior to final termination. Detailed procedures on the close-out process can be found at
+https://research.northeastern.edu/nu-res/lifecycle-management/closeout-project/
+
+Deficit – the amount by which expenditures exceed a sponsored agreements authorized budget
+No cost extension – additional time requested and granted by sponsor to complete the project
+Non-sponsored account – an account that resides in ledgers 2,3, 6 or 7
+Residual funds – the cash or unobligated balance remaining after the project end date and after all appropriate expenditures have been charged to the grant
+
+1.0 Roles and Responsibilities
+The principal investigator (hereafter “PI”) is the primary individual responsible for the proper management of sponsored projects including grants, contracts, cooperative and other agreements. Throughout the life of the grant, PI’s and administrative officials with budgetary and expenditure responsibility are expected to manage expenses and grant deadlines to ensure that the financial outlook for their accounts is in conformity with approved budget plans. As the parties responsible for the effective administration of the department, the PI’s department unit head and designated department official are also expected to ensure that all charges to projects in their unit are disbursed within the guidelines set forth in the sponsor’s terms and conditions, and within university policies and business practices. Research Administration and Finance will follow-up with the PI and department unit head and designated department officials to ensure the successful and timely resolution of sponsored project overdrafts.
+2.0 Spending in Excess of Budget
+In the event where spending on a research grant or contract exceeds the authorized budget and where no extension is in place, the PI is responsible to identify a non-research fund to fund the amount over budget. All balances on research grants must be resolved before the grant can be closed. PI’s should work with their NU-RES Research Finance Analyst to coordinate the necessary accounting once decisions have been made on deficit resolution.
+3.0 Spending Less than Budget
+The disposition of any balances remaining in a sponsored research account is generally stipulated in the grant or contract document. The first step in determining appropriate use of unexpended funds is to carefully review specific terms and conditions of the grant or contract. In addition, the originally proposed budget and scope of work must be reviewed to make sure the obligations of the grant or contract have been met for fixed price agreements. In instances where the sponsor terms regarding unexpended funds are unclear, please contact Northeastern University Research Enterprise Services (NU-RES) for assistance. In all cases, NU-RES reserves the right to evaluate the circumstances of a particular situation and make a determination about the appropriate disposition of funds.
+4.0 Balance Resolution Process
+Sixty days prior to the Project End Date (hereafter “PED”), NU-RES Post-award will send a notification of grant termination to the PI and administrator to alert them to begin the close out process. A close-out checklist will be included in this notification and should be used as a guide for action steps to be taken for a timely and complete close-out. During the time period sixty days prior to and sixty days after the PED, NU-RES will work with the PI and administrator to resolve deficit balances. Sixty days after the PED, NU-RES will send a notification to the College Dean if the deficit is not resolved. Ninety days after the PED, NU-RES will send a notification to the Office of the Provost if the deficit is not resolved.
+5.0 Possible Actions for Unspent Funds
+5.1 Retain Funds by Requesting a No-Cost Extension
+If funds remain because the PI did not have enough time to expend them, a no-cost extension may be possible. Sponsors typically provide a mechanism to request a no-cost extension to continue work on a grant or contract beyond the original awarded end date. Requests for no-cost extensions should be initiated by the PI and then approved by NU-RES. Some requests may require an additional approval by the sponsor.
+5.2 Return Funds to Sponsor
+Terms of the grant or contract may stipulate that any unspent funds must be returned to the sponsor. In this case NU-RES will be responsible for sending the refund check to the sponsor after the close out process has been completed in full.
+5.3 Transfer Funds
+Grants & Contracts performed on a fixed price basis where payments are based upon specific milestones or deliverables, may allow for retention of funds without sponsor approval. The PI should review the project and the account status to ensure that deliverables have been met and all costs have been expensed and paid and all encumbrances liquidated. NU-RES will verify that all payments have been received.
+Unexpended balances may be transferred to a non-sponsored account provided that the faculty member has no other funds that are in a deficit position. The distribution to a non-sponsored account will only include the direct cost balance.
+
+Include any caveats or reservation of rights. Include enforcement information, where appropriate, such as the consequences for failure to comply.
+Please see link below for Research Policies & Guidelines
+https://research.northeastern.edu/nu-res/policies-guidelines/
+
+Associate Director, NU-RES Finance, or research_finance@northeastern.edu
+
+Responsible Office/Department(s)
+Controller’s Office
+NU-RES Administrative Officials in Units With Financial Responsibility
+Office of the SVP for Finance and Treasurer
+
+Related Policies
+Research Policies and Guidelines
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+Deficit; Closeout; Unexpected; Unspent Funds; Spending in Excess; Residual; Overdraft; Overspent
+Version History
+Last Revision Date: April 5, 2018
+Issued: November 25, 2013

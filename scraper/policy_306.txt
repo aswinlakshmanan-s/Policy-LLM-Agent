@@ -1,0 +1,117 @@
+Policy 306: Policy on Travel & Expense Reimbursement
+
+
+This Policy defines the requirements and procedures for making travel arrangements, reporting expenses incurred while on University business, and approving requests for reimbursement. The Policy applies to all expenses incurred in relation to travel for university business for which university payment or reimbursement is sought.
+
+For purposes of this Policy,
+Concur refers to the electronic expense reconciliation tool used by full-time university employees
+Next Level Supervisor means the individual that is the superior in the reporting relationship and who also has the authority to expend funds for the cost center being charged.
+NUCard means the credit card issued to employees by the University to pay for business-related expenses.
+Authorized Travelers refers to individuals who have prior approval to make travel-related purchases at the expense of the University.
+
+1. General
+It is the policy of Northeastern University to pay or reimburse faculty, staff, and other authorized travelers for expenses incurred in the conduct of University business. In order to qualify for reimbursement, expenditures shall be made using the most cost effective method possible. The University will reimburse for actual expenditures incurred, and not for a per diem of any amount. This Policy, and good business practices, require that all expenditures be clearly and correctly recorded.
+Finally, this policy is intended to reasonably ensure that reimbursements/ reconciliations comply with IRS accountable-plan rules. Accordingly, under the university’s expense reconciliation process, for expenses incurred by university employees to be reimbursable:
+1. expenses must have a business connection—that is, the employee must have paid or incurred deductible expenses while performing services as an employee of the university
+2. employees must adequately account to the university for these expenses within a reasonable period of time
+3. The employee must return any excess reimbursement or allowance within a reasonable period of time.
+In order to comply with these rules, expenses must be adequately accounted for within 60 days after they were paid or incurred and any excess reimbursements must be returned within 120 days after they were paid or incurred (any extensions to these time limits are by exception only).
+Divisions that elect to adopt and enforce a set of requirements more stringent than the University policy may do so at their discretion. Enforcement of and such requirements would be at the divisional level only; no additional requirements may contradict or conflict with the standards set by this policy at the University level.
+Authorization of expense reimbursement is the responsibility of an employee’s Next Level Supervisor, as defined in this Policy and as recorded in the university’s Banner HRM database. By approving the reimbursement, the next level supervisor is certifying that the expense was necessary to accomplish the University’s objectives and that the request for reimbursement is in accordance with University policy.
+For your reference, below are examples of the hierarchy of authorized signatories for academic and administrative areas:
+Academic
+Center Director
+Department Chair
+Associate Dean
+Dean
+Vice President
+Vice Provost
+
+
+Administrative
+Support Staff/Administrator
+Coordinator
+Manager
+2. Advance Authorization
+Domestic Travel
+It is strongly recommended that the employee provide a business purpose for the travel and an emergency contact number to their next level supervisor prior to departure.
+International Travel
+Please review the university’s policy on International Travel prior to booking any arrangements. It is highly recommended that all faculty traveling internationally provide their itinerary and accommodations by enrolling in NU’s Travel Registry. Administrators and staff going on university-sponsored travel are required under the policy to register their travel plans.
+3. Procedures for Making Travel Arrangements
+Procurement Services has negotiated contracts with special rates and services for employees who travel on University business. Contracts are in place with travel agencies, airlines, car rental agencies, and hotels. Please book all travel arrangements in Concur where the negotiated rates are preloaded.
+Out of Pocket Expenses
+Any employee traveling on University business is highly encouraged to use their NUCard or the Concur Travel reservation system for airfare and lodging. Any exceptions (e.g. NUCard is not accepted, reservation booked directly from airline) should be noted in Concur to support the out of pocket expense.
+When making air travel arrangements it is important to allow as much lead time as possible prior to departure so that savings can be maximized.
+Cancelled Trips
+It is the responsibility of the employee to cancel all reservations and contact the appropriate agency or organization for refunds of any expenditure prepaid by the University (e.g. conference fees, airfare, etc.) In addition, the employee must also advise his/her budget administrator of the cancellations and the status of any refunds. All refunds must be returned to the University for proper credit. Employees are not allowed to use credit from business trip cancellations for personal use.
+Personal Vacation Travel
+Many of our vendors, including airline, rail and hotels, allow discounts or use of our negotiated contracts for personal travel. You may be required to prove affiliation with the University (e.g., Husky Card) to receive the discount. Vendor relationships are subject to change at any time; it is advisable to check the website prior to personal or business travel to confirm discount eligibility. Any personal travel must be paid by the traveler.
+4. International Travel
+Using Sponsored Funds for Air Travel: Fly America Act (FAA) and Open Skies Agreement (OSA): In accordance with the Fly America Act of 1974, commercial air travel and movement of cargo on Federally funded grants must comply with the requirement that U.S. flag air carriers be used to the maximum extent possible when traveling between the U.S. and a foreign country or between foreign countries. The OSA, however, allows for the use of foreign air carriers under certain circumstances. All travelers using sponsor-funds must comply with the FAA unless exceptions in the OSA pertain. For more information on international considerations, please contact the Office Research Administration and Finance.
+International Currency: For payments made with a NUCard, Concur will electronically convert foreign currency to US Dollars via an embedded formula based upon the date and the geography where the transaction occurred. It is highly recommended that employees use the same conversion tool (OANDA) as Concur for out of pocket foreign currency transactions. Ultimately, all transactions submitted in a Concur report must be in US Dollars. In addition, transaction details must be provided in English for all receipts printed in a foreign language. For expense reports submitted on a paper expense voucher, documentation supporting the exchange rate used must be attached to the expense report.
+Mobile Communications Usage: Mobile device tips for traveling abroad:
+Each individual is responsible for contacting their assigned cellular service provider to activate or deactivate international voice and data service plans.
+Please review tips on Technology Guidelines for travel to destinations with heightened cybersecurity risks.
+Please refer to the Policy on Mobile Devices for additional details.
+5. Travel and Expense Reimbursements
+Full-Time, Benefits Eligible Employees and/or Employees with NUCards
+Travel and Expense reconciliations must be processed through the Concur system within 60 days of the transaction date. Each line item must include:
+A business purpose for each expense
+Itemized receipts are required for all expenditures ≥ $75.00. However, receipts are strongly recommended for all expenditures
+For business meals, a list of attendees for parties under 10 is required
+Other Travelers (Non full-time Employees w/out NUCards, Students and University Guests) Authorized for Reimbursement
+Travel and Expense reconciliations must be processed using the Expense Reimbursement voucher. The report must include:
+The name and home address of the person requesting reimbursement
+A justification (when/why/where?) for the expenses
+Itemized receipts are required for all expenditures ≥ $75.00. However, receipts are strongly recommended for all expenditures
+The necessary Banner Indexes and Account Codes to be charged
+The signature of an authorized budget approver of the sponsoring unit o If any of the line items are being expensed against a Research grant (5XXXXX), then the signature of a NU-RES staff member
+The University is exempt from state sales/use tax in a number of states. This exemption does not extend to taxes of other types (e.g., meal tax, hotel tax, tourism taxes, etc.)
+It is the employee’s responsibility to obtain the point of contact at the supplier and to submit a tax exemption certificate. The University will not reimburse employees for state sales tax paid on the purchase of goods with personal funds.
+6. Other Reimbursable and Unsuitable Expenses listing
+7. Business Meals
+Employees are expected to exercise good judgment when ordering meals when traveling on University business. Recognizing that there are regional differences in meal costs, specific dollar guidelines have not been provided in this policy. It is the responsibility of the next level supervisor to review these charges for reasonableness prior to granting approval of the request.
+The purchase of alcohol, while not specifically prohibited by University policy must always comply with all funding requirements and in all circumstances must be limited to reasonable and responsible consumption.
+8. Air Travel
+All personnel should travel Economy (or on special reduced fares, when available), except for the following situations:
+For Research grants (5xxxxx Fund/index) please consult the regulations of your funding organization. In most cases, first class/ business travel is not allowed except in special circumstances. Please contact your representative in NU-RES for additional assistance.
+First Class Travel (and Business Class in the case of international flights) is not reimbursable unless authorized in advance by the President and/or the responsible member of the Senior Leadership team. Travelers with medical conditions that require the next class of service above Economy must have documentation from a physician certifying the condition. The approval documentation must be submitted along with the receipt for travel at time of reimbursement. Documentation of the nature of the condition is not required, to preserve employee confidentiality.
+Business trips which also include travel for personal reasons will be reimbursed only for the business portion of the trip, based on accommodations actually used for business purposes. Legible copies of the itinerary covering the routing of both the personal and business portions of the trip must be submitted.
+9. Automobile Rentals
+The University has entered into a number of preferred supplier relationships for auto rentals and recommends that these agencies are utilized whenever possible.
+Collision Insurance – When traveling on University business (Domestic or International), the university requires that all auto rentals are covered with Collision Insurance. Arrangements for the university to cover the cost of this insurance have been established in the following scenarios:
+The rental is paid using a university-issued green corporate NUCard (Amex) – Domestic AND International
+The rental is booked with a preferred vendor: Avis – Domestic AND International Budget, Enterprise/National – Domestic ONLY
+Avis – Domestic AND International
+Budget, Enterprise/National – Domestic ONLY
+If you book a rental via either of the scenarios listed directly above, then please do not select the insurance option on the contract. Otherwise, the university will be billed twice for the same insurance.
+For auto rentals not secured in one of the two scenarios above, please accept and pay for the collision insurance on the contract. The university will reimburse for this expense if appropriate.
+Renting a vehicle for personal use under NU’s preferred rates is acceptable. These costs are not reimbursable by the University, but they are significantly lower than what the employee can expect to receive on their own. Please note that for personal use under the University’s contract, insurance is not included. It is up to the employee to secure this coverage on their own, if desired.
+10. Personal Automobiles
+Concur will use the miles traveled and the current reimbursement rate to calculate the allowed reimbursement. The number of miles reimbursed is equal to actual miles driven. Employees will not be reimbursed for travel to and from work.
+11. Rail
+The University has negotiated discounted rail fares that are only available when making reservations through Concur Travel.
+12. Lodging
+Accommodations should be at a reasonable cost, comfortable and convenient to the place of business. The hotel folio that details day-by-day charges (e.g., lodging, meals, taxes, incidentals) and that indicates proof of payment must be submitted (if available) in Concur. For extended residence, the employee should attempt to obtain accommodations on a weekly or monthly basis at reduced rates.
+
+As set forth in the Professional Standards and Business Conduct Policy, the use of University assets, funds, facilities, personnel or other resources for a personal, unlawful or improper purposes is strictly prohibited. Fiscal misconduct may lead to employment sanctions up to and including termination, and may subject the individual to civil liability and/or criminal prosecution.
+
+For Concur, NUCard and reimbursement questions, please contact the Card Services and Systems Training Coordinator at paymentoperations@northeastern.edu. For procurement or preferred supplier relationship questions, please contact the Lead Strategic Procurement at procurementoperations@northeastern.edu.
+The university recognizes that there may be instances when exceptions to this policy are necessary. Please contact one of the above units if a legitimate exception needs to be considered.
+
+Responsible Office/Department(s)
+Office of the SVP for Finance and Treasurer
+Related Policies
+Policy on Mobile Devices
+Policy on International Travel
+Policy on use of University Funds
+NU Procard Manual; ORAF Travel Guidelines
+Related Procedures
+Procedure Supporting the Policy on Mobile Devices
+Supersedes
+October 2015 version of NU Travel Policies & Procedures
+Keywords
+Travel Reimbursement; NUCard; (American Express); Concur; NU-RES
+Version History
+Last Revision Date: March 9, 2024
+Issued: October 30, 2013

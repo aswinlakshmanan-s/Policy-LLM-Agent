@@ -1,0 +1,44 @@
+Policy 509: Policy on Costs for Sponsored Agreements
+
+
+This policy reflects Northeastern’s commitment to compliance with applicable sponsored research regulations, including cost principles, and provides guidance for the appropriate budgeting and expenditure of costs on sponsored projects. Sponsored programs incur costs in support of the sponsored research, instruction or other activity that is carried out under the program. The university maintains policies, systems, internal controls and procedures intended to confirm that direct costs and associated indirect costs, consisting of and referred to as Facilities & Administrative (F&A) costs, are documented, presented appropriately in proposal budgets and charged consistently.
+This policy applies to all funding for sponsored research accepted by the Office of Research Administration and Finance (ORAF) on behalf of Northeastern University.
+
+For purposes of this Policy,
+Uniform Guidance refers to the Uniform Administrative Requirements, Cost principles and Audit Requirements for Federal Awards, 2 CFR Chapter I, Chapter II, Part 200 s. Uniform Guidance defines the federal cost principles that must be applied uniformly to all federal awards and must be consistent with policies and procedures that apply to both federal awards and other activities of the university, including non-federally supported programs.
+Cost Accounting Standards (CAS) refers to mandatory standards applied to federal awards intended to achieve uniform and consistent cost accounting practices.
+Direct Costs as identified in Uniform Guidance refer to ” those costs that can be identified specifically with a particular final cost objective, such as a Federal award, or other internally or externally funded activity, or that can be directly assigned to such activities relatively easily with a high degree of accuracy.”
+Facilities & Administrative (Indirect) Costs (F&A) as defined in Uniform Guidance refers to “those costs incurred for a common or joint purpose benefitting more than one cost objective, and not readily assignable to the cost objectives specifically benefitted, without effort disproportionate to the results achieved.” At educational institutions such costs normally are classified under the following F&A categories: Depreciation and use allowances, general administration and general expenses, sponsored projects administration expenses, operation and maintenance expenses, library expenses, departmental administration expenses, and student administration and services.
+
+Principal Investigators (PIs) are responsible for award expenditures, and that such expenditures are allowable and compliant with this policy. Direct costs charged to a sponsored program must be necessary, reasonable, and allocable to the particular research program or project, and must also be incurred within the limitations set out by the notice of award, sponsored award document and/or sponsor specific requirements, which may include seeking approval prior to charging certain costs to the award.
+F&A cost cannot be directly charged to a federally funded sponsored program unless certain conditions are met and prior sponsor approval is obtained.
+Costs that are normally recovered under F&A may be charged as a direct cost on non-federally sponsored program if permitted by the sponsor’s policies, award terms and conditions, or that are otherwise approved by the sponsor in writing.
+Costs that are proposed or incurred as mandatory or voluntary committed cost-share in support of the sponsored program must also follow these cost principles. (See Policy on Cost Sharing).
+The programmatic lead of the sponsored program or PI is responsible for establishing adequate internal controls at the sponsored activity level to promote the appropriate expenditure of funds associated with the sponsored program, consistent with this policy. Costs determined to be unallowable, through the audit process, by the sponsor, by the pass-through entity, by post-award compliance monitoring, or other body with oversight regarding sponsored program expenditures, become the responsibility of the PI, who will be responsible for payment of such costs from alternative sources. The PI may also face additional sanctions for failing to comply with sponsor requirements. This policy and associated procedures are consistent with the Cost Accounting Standards (CAS) as disclosed on the University’s Disclosure Statement (DS-2), which describes the University’s cost accounting practices.
+
+Cost principles are those factors that are used to assess allowability of costs. These principles state that costs must be necessary, reasonable and allocable, and conform to limitations set out by regulation and the award itself. Additionally, costs must be treated consistently. For example, a cost may not be assigned to a federal award as a direct cost if any other cost incurred for the same purpose in like circumstances has been allocated to the Federal award as an indirect cost (F&A).
+As §200.412 of the Uniform Guidance states, “There is no universal rule for classifying certain costs as either direct or indirect (F&A) under every accounting system. A cost may be direct with respect to some specific service or function, but indirect with respect to the federal award or other final cost objective. Therefore, it is essential that each item of cost incurred for the same purpose be treated consistently in like circumstances as a direct or indirect (F&A) cost in order to avoid double-charging of federal awards.”
+See Research related policies.
+See Research procedures and guidelines
+Consequences for violations of this policy, and related laws, regulations, or award requirements can include disciplinary action, up to and including termination or separation from the University; termination of a funded project and/or loss of funding; and/or civil or criminal actions, fines, and penalties.
+
+For questions about proposal budgets and budget justifications please contact your ORAF Grants Officer. 490 RP http://www.northeastern.edu/research/raf/
+For questions about allowable expenditures on awards, please find the appropriate Single Point of Contact here: http://www.northeastern.edu/research/raf/contact/
+
+320 RP Office of Research Administration and Finance
+To anonymously report a suspected violation, you may use the University Compliance Hotline: https://secure.ethicspoint.com/domain/media/en/gui/32115/index.html
+Responsible Office/Department(s)
+Research Enterprise Services Finance Office
+Related Policies
+Policy on Cost Sharing
+Policy on Travel & Expense Reimbursement
+Whistleblower Policy
+Related Procedures
+N/A
+Supersedes
+Costing Policy
+Keywords
+Cost Compliance; Cost Principles; Allowability of Costs
+Version History
+Last Revision Date: January 4, 2024
+Issued: July 24, 2009

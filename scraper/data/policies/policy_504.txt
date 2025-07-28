@@ -1,0 +1,60 @@
+Policy 504: Policy on Classroom Research Involving Human Subjects
+
+
+The purpose of this policy is to clarify when student research must be reviewed by the Northeastern University Institutional Review Board (IRB), or if it is deemed to be Student Research, who is responsible for reviewing that research. The IRB distinguishes between research conducted in a classroom as part of the learning experience (“Student Research”) from research conducted to add to generalizable knowledge or a professional body of knowledge (clinical research, thesis, or dissertation work).
+This policy applies to all research conducted by students as part of their coursework at the University. It also applies to both student researchers and faculty supervisors.
+Clinical research, thesis and dissertation projects involving human subjects do not fall under this policy and require review by the IRB under the Policy on Human Subjects Research.
+
+For the purposes of this policy:
+Dissemination means the distribution of research findings and includes, but is not limited to, masters and doctoral theses/dissertations, presentation at a scientific meeting or conference, submission to or publication (paper or electronic) in a scientific journal, and posting on the Internet.
+Human subject, as defined under federal regulations, means “a living individual about whom an investigator (whether professional or student) conducting research obtains 1) data through intervention or interaction with the individual, or 2) identifiable private information.” 45 C.F.R. § 46.102.
+Minimal risk means that the probability and magnitude of harm or discomfort anticipated in the research are not greater in and of themselves than those ordinarily encountered in daily life or during the performance of routine physical or psychological examinations or tests of healthy individuals.
+Student Research means any observation or intervention, including administration or survey or interview questions, by a student as part of a course which is designed to develop or contribute to student learning or class discussion, but which will not lead to generalizable knowledge or publication/dissemination of findings outside of the classroom.
+Student Researcher means any student enrolled in a course at the University who conducts research on human subjects as an assignment or project within a course, excluding that conducted for a master’s or doctoral theses research, which must be under IRB procedures.
+
+Research conducted by students, graduate or undergraduate, as a part of classroom assignments does not usually fall under the federal regulation of research because it is not intended to or likely to lead to generalizable results. Rather, the activities are resources of teaching which facilitate learning of concepts and the opportunity to practice various procedures, including research methods (interviewing, observation and survey techniques, as well as data analysis). In such cases, the classroom project does not require IRB submission and approval.
+A. Research not subject to IRB review. Student research projects that meet all of the conditions stated below may be conducted under the supervision of the faculty member without submitting a protocol to the IRB. Projects that do not meet all of these conditions fall within the Policy on Human Subjects Research, and must be submitted to the IRB for review. The project must be one which:
+is a normal part of the student’s coursework;
+is supervised by a faculty member;
+has as its primary purposes the development of the student’s research skills;
+does not present more than minimal risk to participants or to the student investigator;
+does not include any persons as research subjects under the age of 18;
+does not include any persons as research subjects who are classified as part of a vulnerable population, according to federal regulations (see Section C, below);
+does not include sensitive information regarding its research subjects (see Section C, below); and
+is not “genuine research” that is expected to result in publication or some other form of public dissemination.
+B. Additional requirement. Student research projects must meet all the criteria for an Expedited Review as defined in the Federal Regulations: http://www.hhs.gov/ohrp/policy/expedited98.html. If the faculty member has concerns or doubts, he/she should consult with the Office of Human Subjects Research.
+C. Sensitive information and special populations are excepted. Even if the intent is not to produce generalizable knowledge, if a special population or sensitive topic area is part of the project, the student’s project cannot qualify for general approval and, therefore, falls within the Policy on Human Subjects Research and must be submitted to IRB for review and approval. Categories of sensitive information include but are not limited to:
+Relating to sexual attitudes, preferences or practices;
+Relating to use of alcohol, drugs or other addictive products;
+Pertaining to illegal conduct;
+That if released could reasonably damage an individual’s financial standing, employability, or reputation within the community;
+That would normally be recorded in a patient’s medical record and the disclosure of which could reasonably lead to social stigmatization or discrimination;
+Pertaining to an individual’s psychological well-being or mental health;
+Genetic Information.
+Categories of special subject population include but are not limited to:
+Minors (under eighteen years of age).
+Fetuses or products of labor and delivery;
+Pregnant women (in studies that may influence maternal health);
+Prisoners;
+Individuals with a diminished capacity to give informed consent.
+D. Protection of Human Subjects. Faculty teaching research methods and overseeing student research projects are expected to understand the philosophy, ethics and practice of protecting human subjects in research; to adhere to these principles during the conduct and supervision of classroom research projects; and to teach these practices and principles to students. Faculty will be responsible for ensuring that all student research projects are conducted in accordance with federal regulations and principles regarding protection of human subjects in research.
+
+Faculty who will be Principal Investigators on classroom research projects must complete the NIH Computer-Based Training module which may be found at the following address:
+http://phrp.nihtraining.com/users/login.php
+
+Department of Human Research at (617) 373-4588
+https://dhr.research.northeastern.edu/
+Responsible Office/Department(s)
+Department of Human Research
+
+Related Policies
+Policy on Human Subjects Research
+Related Procedures
+N/A
+Supersedes
+Policy on Classroom Research
+Keywords
+Student Research; Coursework; Assigned Research; Surveys; Human Subjects Research by Students; Faculty-supervised Research; Sensitive Topics; Special Populations
+Version History
+Last Revision Date: November 21, 2016
+Issued: November 2, 2010

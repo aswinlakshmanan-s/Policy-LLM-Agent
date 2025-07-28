@@ -1,0 +1,56 @@
+Policy 304: Policy on Procure to Pay (P2P)
+
+
+The purpose of this Policy is to support the efficient, timely and cost-effective acquisition of goods and services, and to promote proper transaction documentation/reconciliation, fiscal responsibility, ethical behavior and compliance with applicable policies, laws and regulations, including the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (“Uniform Guidance”).1
+This Policy applies to all purchases of goods and services and to any transaction completed in US currency. It applies to all employees who make purchases or place orders on behalf of the university.
+___________________________________________________________________________________
+
+For purposes of this Policy,
+Procure to Pay (P2P) refers to an end-to-end financial process that begins with identifying a need for procuring goods or services, using an approved purchasing method and ends with the disbursement of funds to the supplier.
+myMarketplace means the University’s business-to-business and electronic procurement system that facilitates the procurement and payment process for preferred suppliers.
+Preferred Supplier means a supplier that has been awarded a university-wide agreement by the P2P Team in return for discounted pricing or preferential terms from the supplier.
+Purchase Order (PO) refers to a document that authorizes a purchasing transaction. When accepted by the seller, it becomes a contract which binds both parties. A purchase order establishes the descriptions, quantities, prices, discounts payment terms, date of performance or shipment, other associated terms and conditions, and identifies a specific supplier.
+Corporate/ Procurement Credit Card (NUCard) refers to university-issued credit cards intended for the acquisition of goods and services necessary to conduct University business. Issuance of the NUCard is a privilege which empowers the cardholder to make purchases on behalf of the university and requires that the cardholder will exercise sound business judgment and adhere to university policy.
+Direct Pay is a request for a disbursement where a purchase order or NUCard is not required/accepted.
+
+The procurement of and payment for goods and services on behalf of the University must be conducted in an open and competitive environment to ensure that prices paid are fair and reasonable. All purchases of goods and services must be made in accordance with university policies and the Procure to Pay procedures set out in the P2P Guide.
+Purchasing activities are conducted in central P2P Team as well as by academic and administrative departmental employees. Only those employees with budget authorization from their local unit management may spend University funds. It is the responsibility of each faculty and staff member who participates in the procurement of goods and services for the university to avoid purchase commitments that could result in a conflict of interest.
+Purchasers must confirm the availability of funds prior to committing to or making a purchase.
+For export control purposes, potential suppliers must be screened prior to entering into a financial relationship with the University. Due to their critical nature the purchase of hazardous materials may only be ordered with the guidance of Environmental Health and Safety (EHS).
+MyMarketplace is the preferred and most efficient method used to order commonly purchased goods available from suppliers in the portal. The NU Card is used to directly purchase goods and services from suppliers (excluding individuals)2 that are not available through myMarketplace. Requisitions and Purchase Orders are used when purchasing goods and services from all other University suppliers unless the Direct Pay method is allowed.3
+___________________________________________________________________________________
+
+
+This Policy covers all purchases regardless of funding sources. However, there are additional policies and guidelines for all purchases funded by federally awarded grants established under the OMB’s Uniform Guidance.
+The University requires standard contract templates for the following types of suppliers:
+Performers
+Independent consultants
+Photographers/Videographers
+Service Providers
+A full list of contract templates and the gatekeeper process checklist can be found at the OGC website. All non-template contracts must be reviewed by the Office of General Counsel and must follow the Contract Gatekeeper process.
+The use of University assets, funds, facilities, personnel or other resources for personal, unlawful or improper purposes is strictly prohibited. Fiscal misconduct will lead to corrective actions and/or employment sanctions up to and including termination, and may subject the individual to civil liability and/or criminal prosecution.
+Requests for purchases inconsistent with this policy will be returned to the responsible unit. Non-compliance with this policy will result in purchasing suspension/revocation at the discretion of the unit level Dean/Vice President.
+
+For questions about disbursements for all nonpayroll expenditures please contact the Accounts Payable department at:
+Phone: 617-373-2652; Email: ap@northeastern.edu
+For questions about any University purchasing method or any other question regarding acquiring a good or service for the University please contact the P2P Team at
+Phone: 617-373-2135 Email: Procurement@northeastern.edu
+Responsible Office/Department(s)
+Office of the SVP for Finance and Treasurer
+
+Related Policies
+Policy on Conflict of Interest and Commitment
+Policy on Use of University Funds
+Policy on the Classification of Independent Contractors
+Policy on Computer Procurement
+Policy on Signature Authority
+Code of Ethical Conduct
+Related Procedures
+Procure to Pay (P2P) Guide
+Supersedes
+N/A
+Keywords
+Accounts Payable; Direct Pay (DPAY); NU Card; myMarketplace; Requisitions; Purchase Orders; Centralized Billing
+Version History
+Last Revision Date: 2022-10-26
+Issued: 2018-01-02

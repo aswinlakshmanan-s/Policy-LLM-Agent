@@ -1,0 +1,89 @@
+Policy 707-CAN: Policy on Personal Information (CAN)
+
+
+The university is committed to protecting the privacy of the personal information of applicants, students, parents, and other individuals from whom it collects, uses, discloses, and maintains personal information in its operations.
+This policy applies to the university’s handling of personal information collected from such individuals in Canada and reiterates the university’s commitment to maintaining the privacy of personal information. It does not apply to employee information, which is covered by the university’s Policy on Privacy for Employees, Job Applicants, Contractors, and Others Working with the University.
+For purposes of this policy, personal information means:
+Information about an identifiable individual (which may include but is not limited to name, age, home address and phone number, social insurance number, marital status, education, and employment information).
+
+This definition does not include business contact information such as an individual’s name, title, business address, business telephone number or business e-mail address.
+
+
+A. Collecting Personal Information
+
+Northeastern collects Personal Information that is necessary for operating its business, including Personal Information needed to:
+Process applications for admission to Northeastern’s undergraduate and graduate programs and enrollment in courses and programs;
+Administer and assess educational programs;
+Fulfill public safety obligations;
+Deliver and administer education, record the details of studies (including any placements with external organizations for co-op or academic coursework taken at another institution), and determine/confirm academic achievements (e.g. results, prizes);
+Administer the financial aspects of the relationship between Northeastern, its students and any funding agencies or lenders;
+Provide facilities (e.g. IT, sport, libraries, accommodation);
+Operate security, governance, disciplinary, complaint, audit and quality assurance processes and arrangements;
+Support training, medical, safety and welfare requirements;
+Compile aggregated data for historical descriptive analysis of enrollment trends, required regulatory reporting, and accreditation purposes;
+Notify designated emergency contact(s) of an emergency or crisis;
+Prevent fraud or criminal activity, misuse of products or services, and protect the security of IT systems, architecture and networks; and
+Meet legal and regulatory requirements.
+In general, Northeastern only collects Personal Information directly from the individuals to whom the information applies. However, Northeastern may collect information from other people with the consent of the individuals to whom the information applies, or as authorized by law.
+
+B. Consent
+
+The university will ask for consent to collect, use or disclose personal information, except: a. For the purposes set forth above in section III.A, or b. In circumstances other than those set forth in section III.A and where collection, use or disclosure of personal information without consent is authorized or required by law.
+In certain cases and subject to important exceptions (e.g. most of the purposes set forth in section III.A), an individual may withhold or withdraw their consent for the university to use or disclose their personal information. Withholding or withdrawing consent to the use or disclosure of personal information may restrict the university’s ability to provide certain products or services if it does not have the necessary personal information.
+
+C. Using and Disclosing Personal Information
+
+1. Northeastern will only use or disclose personal information for purposes consistent with this policy or other purposes for which the information was collected and specified at the time of collection, except as authorized or required by law. If the university wishes to use or disclose personal information for any additional purpose not covered by the prior sentence, the university will ask for consent unless consent is not required by law.
+2. The university may, from time to time, transfer personal information to university systems or third-party service providers located in the United States. Such entities may receive, process and handle personal information for the purposes described in this policy and will provide a level of protection for personal information that is comparable to that provided by Northeastern.
+3. The university will endeavor to ensure that its contracts with third-party service providers limit the retention, use and disclosure of personal information by the third-party service providers solely for purposes consistent with carrying out the contracted services and provide a level of protection for personal information that is comparable to that provided by the university.
+
+D. Retaining Personal Information
+
+The university will retain personal information for as long as is reasonable to fulfill the purposes for which the information was collected, or as required for legal, compliance or business purposes. Unless otherwise noted in this policy, all personal information will be retained in accordance with the Policy on Retention and Disposition of University Records and Information and its corresponding schedule.
+
+E. Accuracy of Personal Information
+
+The university will make reasonable efforts to maintain the accuracy of the personal information used and disclosed.
+Individuals may request a correction if there is an error or omission in their personal information. An individual must make a request in writing to correct their personal information, which request must provide sufficient detail to identify the personal information and the correction being sought.
+For students:
+Updating personal information: https://registrar.northeastern.edu/article/updating-personal-information/
+Amending educational records: https://policies.northeastern.edu/policy106/
+For all other requests please contact the privacy@northeastern.edu account.
+If personal information is demonstrated to be inaccurate or incomplete, the university will correct the information to the extent required and send the corrected information to any organization to which it disclosed the personal information in the previous year. If the university decides not to correct the personal information, the university will note that a correction was requested but not made in the file.
+
+F. Securing Personal Information
+
+The university will protect personal information in a manner appropriate to the sensitivity of the information in accordance with the Policy on Confidentiality of University Records and Information and the corresponding Data Classification Guidelines. The university will make reasonable efforts to prevent loss, misuse, disclosure, copying, modification, disposal or destruction of personal information or any unauthorized access to personal information. Employee access to personal information is limited to those employees who require such personal information to carry out their responsibilities.
+Northeastern continually reviews and updates its security policies and controls as technology changes to promote ongoing Personal Information security.
+
+G. Access to Personal Information
+
+Individuals may access their own personal information in the university’s custody or control, subject to certain exceptions. In such cases where exceptions to access apply, the university may withhold that information and provide the remainder of the information.
+Except as otherwise covered in the Policy on Student Rights Under the Family Educational Rights and Privacy Act, a request to access personal information must be made in writing to privacy@northeastern.edu. The request should provide sufficient detail to identify the personal information being sought. Individuals may also request information about the university’s use of their personal information and any disclosure of that information to persons outside the university.
+The university will respond to an individual’s request within the time limits specified by applicable laws and will indicate whether the individual is entitled to access the information. If access is refused, in whole or in part, the university will provide reasons for the refusal, the name of the person who can answer questions about the request and advise of the right to have the decision reviewed by the Privacy Commissioner of British Columbia or the Privacy Commissioner of Canada.
+The university may charge a minimal fee for providing access to personal information. Where a fee will apply, the university will provide the individual making the access request with an estimate of the fee before providing access.
+
+
+
+The university will only use personal information to provide marketing information, including but not limited to updates and information about new programs and services, upcoming events or other promotions or news, if the individual has consented to Northeastern doing so. Individuals may opt out of receiving marketing communications at any time by emailing Northeastern at privacy@northeastern.edu.
+Any inquiry or complaint about this policy or the collection, use and disclosure of Personal Information by Northeastern should be directed in writing to:
+Chief Privacy Officer privacy@northeastern.edu 716 Columbus Place Suite 301 Boston, MA 02120 United States of America
+If an individual is not satisfied with a response or has a complaint, the individual may contact the Privacy Commissioner of British Columbia or the Privacy Commissioner of Canada.
+Responsible Office/Department(s)
+Office of the General Counsel
+Related Policies
+Policy on Confidentiality of University Records and Information
+Records Retention Schedule (Requires a Northeastern Office365 Account)
+Policy on Data Access
+Policy on the Confidentiality of University Records and Information
+Policy on Student Rights Under the Family Educational Rights and Privacy Act
+Related Procedures
+Data Classification Guidelines (Requires a Northeastern Office365 Account)
+Updating Personal Information (Students)
+Supersedes
+N/A
+Keywords
+Personal Information; Personal Data
+Version History
+Last Revision Date: May 30, 2024
+Issued: January 28, 2019

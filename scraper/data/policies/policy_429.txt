@@ -1,0 +1,117 @@
+Policy 429: Policy on Global Mobility for Faculty
+
+
+As a global university, Northeastern University must comply with international labor standards, immigration, tax, and other laws and regulations in foreign jurisdictions. The purpose of this policy is to provide a framework for global compliance, and to promote consistent and efficient execution across the university’s global network. This policy governs global assignments for eligible faculty, professional services agreements with international contractors and suppliers, and/or the hiring of international workers.
+This policy applies to all faculty and agents performing services on behalf of the university.
+
+A. Global Assignment
+
+Employment that Northeastern University initiates within and outside of the United States.
+
+B. Global Mobility Program Office (“GMPO”)
+
+In Human Resources, the office that oversees global mobility needs for the university network.
+
+C. Transfer – temporary or permanent
+
+Existing full-time faculty relocating from current campus location to another campus permanently or for a specific period. Transfer refers to faculty teaching a semester or longer in the UK or any campus outside the US or Canada. Transfers can be:
+Short term assignments – 6 months or less; Long term assignments – 6 months to 2 years; or Permanent
+Short term assignments – 6 months or less; Long term assignments – 6 months to 2 years; or Permanent
+Short term assignments – 6 months or less; Long term assignments – 6 months to 2 years; or Permanent
+Short term assignments – 6 months or less;
+Long term assignments – 6 months to 2 years; or
+Permanent
+Faculty relocating to another campus while on sabbatical are not considered transfers.
+
+
+D. Professional Employer Organization (“PEO”)
+
+An organization used for international hires on limited term; staff working a foreign country where the university does not have a legal entity. An individual working under a PEO arrangement is not an employee of the university and becomes an employee of the PEO.
+
+E. Professional Services Agreement (“PSA”)
+
+A contract used to hire international “field experts,” independent contractors, and suppliers, consistent with applicable local law, who deliver services to Northeastern University on a short-term basis. Individuals providing services to the university pursuant to a PSA are not employees of the university.
+
+F. Temporary Remote Request
+
+Faculty who work remotely for a limited period of time outside of their home-based campus location and tax residency country. Must be approved by the dean, based upon the needs of the department/college.
+
+G. Direct Hire
+
+A traditional hire handled through the Human Resources Talent Acquisition Office.
+
+A. Recognized Categories of Mobility
+
+The University recognizes five categories of mobility: (seems like it would be clearer to list these in the same order as they are listed in Definitions, and then discuss them in that order to parallel the Definitions section)
+1. Transfer
+2. Professional Employer Organization (PEO)
+3. Professional Service Agreement (PSA)
+4. Temporary Remote Requests
+5. Direct Hires (handled through Human Resources Talent Acquisition Office)
+
+B. Transfer/Relocation of Current Employees
+
+1. Faculty on a short-term, long-term, or permanent transfer assignment to a campus outside of the US or Canada, in partnership with the Dean’s and Provost’s office, should work with the Global Mobility Program Office to ensure compliance with any work authorization, taxation, employment law and/or relocation requirements.
+2. During their assignment faculty must follow the calendar and holiday schedule of the local campus transferred to. More information about campus specific schedules can be found here.
+3. Prior to the transfer, faculty must consult with ITS – CISO (Chief Information Security Office) to identify any cyber security and data privacy risks of the host country. Faculty to work with ITS to put security measures in place if needed.
+4. Faculty must follow the law of the country in which they will be working as well as all university policies unless those policies violate the law of the country where the faculty member is located.
+5. Faculty members conducting research outside of the United States during their transfer period are subject to Policy 112 – Policy on External International Engagements and are required to consult with NU-RES Research Compliance prior to departing the United States.
+
+C. Use of PEOs for Global Mobility
+
+The university partners with a PEO that administers global employment required to fulfill specific university business needs.
+1. The PEO serves as the employer of record for international workers who provide services to Northeastern University on a temporary basis.
+2. The PEO administers the employment relationship according to the local and applicable international labor standards.
+3. Hiring through the PEO is a temporary solution to address an urgent business need in a jurisdiction where the university currently does not have a legal presence to employ the individual.
+4. The university may be able to support PEO hirings for an initial period of up to twelve (12) months. PEO arrangements that extend (or are renewed) beyond the initial twelve (12) month period will be subject to additional review and approval by the department/division head, as well as the GMPO.
+5. International workers who perform services on behalf of Northeastern University are expected to adhere to university policies and procedures while acting on behalf of the university.
+
+D. Use of PSAs for Global Mobility
+
+1. The university may use PSAs to support international hiring of consultants, freelancers, and/or vendors on a contractual basis.
+2. Contractors, freelancers, and vendors hired through a PSA are subject to background checks in accordance with Policy 608 – Policy on Background Checks for Contractors and Vendors.
+Any PSA here total compensation to be paid for the services exceeds $1,500.00 USD must be reviewed by the GMPO prior to going through the contract review and approval process as defined in Policy 113 – Policy on the Review and Approval of Proposed Contracts.
+
+E. Policy on Temporary Remote Requests
+
+1. The university may grant a faculty’s request to work remotely on a temporary basis outside of their affiliated NU campus and country of tax residence if a unique, personal need arises. A request must be submitted to the GMPO in conjunction with the Dean and Department chair of the school or college Request to the GMPO office should be submitted through the HR Service Center.
+2. The GMPO works with legal, tax and mobility teams to review the circumstances of any request submitted.
+3. Remote work requests require approval of the dean and department chair of the school or college.
+4. Employees with temporary remote appointments are subject to the conditions listed in Section III Subsection B, Bullets b – e of this policy.
+
+F. Policy For Faculty on Sabbatical
+
+Faculty traveling outside the country for the duration of their sabbatical should submit a temporary remote request intake form to the GMPO for advice and consultation on work authorization requirements, taxation, and any other country specific rules/regulations. The intake form can be found here.
+
+N/A
+
+Contact the Global Program Mobility Office for general questions regarding global mobility, process for requesting mobility, PEOs, PSAs for global mobility, etc.: globalhires@northeastern.edu
+Contact the Chief Information Security Officer for questions regarding IT device, systems access and security while traveling outside of the United States: ois@northeastern.edu
+Contact the Global Safety Office for traveler safety and travel registgration related matters: (617) 373-2121; mytravelplans@northeastern.edu
+Contact the Export Control Officer (NU-RES) for questions regarding export control regulations: exportcontrol@northeastern.edu
+Contact the Office of General Counsel for questions regarding contract process: ogccontracts@northeastern.edu
+Responsible Office/Department(s)
+Human Resources – Global Mobility Program Office (GMPO)
+Related Policies
+613 – Policy on Travel to High-Risk and Sanctioned Destinations
+612 – Policy on Requiring Registration of University Travel
+701 – Policy on Computers and Mobile Devices for Travel to Destinations with Heightened Cybersecurity Risk
+308 – Policy on Mobile Devices
+110 – Policy on Export Control
+700 – Policy on Appropriate Use of Computer and Network Resources
+702 – Policy on Confidentiality of University Records and Information
+104 – Policy on Sexual and Gender-Based Harassment and Title IX
+113 – Policy on Review and Approval of Proposed Contracts
+114 – Policy on Signature Authority
+614 – Policy on Use of Vehicles for University Purposes
+424 – Policy on Paid Time Off
+Related Procedures
+Human Resources Global Mobility Guidelines and Procedures
+Global Mobility Intake Forms
+Supersedes
+N/A
+Keywords
+Direct Hire; Transfer/Relocation; PEO; PSA; Temporary Remote; Work Remotely; Remote Work, Global; Working abroad, Mobility; International Hire
+Version History
+Last Revision Date: N/A
+Issued: December 20, 2023

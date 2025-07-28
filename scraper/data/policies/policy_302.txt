@@ -1,0 +1,120 @@
+Policy 302: Policy on Capital Assets
+
+
+Northeastern University acquires and uses capital assets in carrying out its mission and is responsible for the stewardship of and recordkeeping for those assets. This policy establishes requirements for university management of capital assets over the asset lifecycle through disposal. This policy applies to any faculty or staff who purchase, take custody of, or dispose of capital assets, and to all capital assets purchased or otherwise transferred to the University regardless of funding source.
+
+For purposes of this Policy,
+
+A. Capital Assets are purchases that have a useful life greater than one year where the cost is depreciated over the useful life rather than expensed in the year of acquisition.
+
+B. Federal Capital Assets are capital assets purchased with federal grant funds. For equipment acquired under a federal grant, the university manages and disposes of these assets in accordance with 2 CFR Part 200 Uniform Administrative Requirements, Cost Principles, and Requirements for Federal Awards
+
+C. Movable Equipment is an article of non-expendable, tangible, free standing personal property.
+
+D. Depreciation is an accounting method of allocating the cost of a tangible asset over its useful life.
+
+E. Asset Useful Life is the expected number of years an asset will be in service for its intended purpose.
+
+F. Gift-in-kind is a non-cash gift of goods, services or property.
+
+G. Property Custodian is the individual who has stewardship responsibility for capital assets under their control.
+
+H. Property Liaison is the person in the unit who has been assigned the responsibility for capital asset control including tracking at the unit level and coordinating with the Controller’s Office during all inventories and audits. Units are responsible for designating a property liaison.
+
+I. Bill of Sale is a university document that is prepared by the seller (university) to the purchaser, for transfer of title of ownership of a specific item of property which is the legal property of the university to the purchaser in exchange for financial consideration or a value determined by the University. The Bill of Sale must be prepared by the Procurement Services Department.
+
+J. Asset+ is the university’s electronic form that initiates the asset disposition process and promotes proper asset disposition through review and approval controls. This form is also used to record the movement of the physical location of capital assets for tracking in the university property system.
+
+K. Special collections are works of art, historical and other treasures, or similar assets that meet all of the following criteria: (a) they are held for public exhibition, education, or research in furtherance of public service rather than financial gain, (b) they are protected, kept unencumbered, cared for, and preserved, and (c) they are subject to an organizational policy that requires the proceeds of items that are sold to be used to acquire other items for collections.
+
+The university is responsible for safeguarding, maintaining, disposing of and accounting for capital assets in accordance with Generally Accepted Accounting Principles and in compliance with all applicable laws and regulations, and university policy.
+The Controller’s Office is responsible for the recordkeeping, physical tagging and conducting of university-wide physical inventories for all capital assets. Units are responsible for stewardship and oversight of all university assets within their control. Research equipment purchased with federal funds must comply with federal law. For more information refer to 2 CFR Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards.
+
+A. Responsibilities
+1. Controller’s Office
+a. Review accounting records for purchases and/or donations within the capitalization criteria and determine proper accounting treatment including assigning useful life and recording annual depreciation;
+b. Record relevant asset information in the university property system;
+c. Affix inventory tag to capital equipment when deemed appropriate by the Controller’s Office;
+d. Coordinate annual physical inventory with units;
+e. Coordinate and conduct physical inventory with external auditors; and
+f. Manage asset disposition process
+2. Units
+a. Identify unit level property liaison;
+b. Establish unit level controls to support proper usage for capital assets with intended purpose;
+c. Establish unit level controls to support proper maintenance, safeguarding and security of capital assets;
+d. Coordinate with Controller’s Office to maintain proper capital asset records;
+e. At least annually, review and validate accuracy of unit level inventory records provided by the Controller’s Office;
+f. Authorize unit level requests for asset disposition, transfer, trade-in, sale, and/or notify Controller’s Office of theft or loss of capitalized equipment; and
+g. Coordinate with the Controller’s Office during internal or external inventory audits
+
+B. Capitalization
+Assets that are tangible non-expendable personal property owned or under custody of the university having a useful life of more than one year and a unit cost greater than or equal to $5,000 are capitalized and depreciated over the asset’s useful life.
+Capital Assets acquired or purchased are categorized as follows:
+1. Land/Land improvements– All land purchases are capitalized regardless of cost. Land improvements costing greater than or equal to $5,000 are capitalized.
+2. Building or Leasehold Improvement– New construction costs include all identifiable direct expenses, including labor, materials, professional services, insurance and capitalized interest. Costs incurred as part of a building or leasehold improvements are capitalized when they extend the useful life the building.
+3. Equipment Fixed– any equipment purchase that will become a component of and is physically attached to an existing building.
+4. Equipment Fabricated– any equipment that is constructed by combining parts and/or materials that will be assembled into one specific useable capital asset.
+5. Equipment Moveable– is an article of non-expendable, tangible, free standing personal property
+6. Gifts-in-Kind– Gifts of noncash assets are recorded at their fair market value at the date of contribution.
+7. Rare Book and Art Collections – Special collections are a subset of capital assets. In accordance with FASB guidelines, the university records its collections as long-lived assets. Regardless of cost, these items are recorded as capital assets.
+The Controller’s Office is responsible for affixing a university barcode tag on equipment, as appropriate, and for maintaining accurate equipment records in the SAGE property database.
+The barcode tag assigned to a piece of equipment serves as the central mechanism for establishing a unit record in the property database. This inventory control system is used to manage depreciation, support compliance with Federal regulations, and track asset records used for departmental reporting. Capital asset guidelines are provided to the property liaison to explain the specific categories of information to be captured and maintained in the property database.
+A capital asset received as a gift-in-kind through University Advancement will be recorded and tagged with the assistance of the recipient’s department head. The necessary information required for the inventory records will be determined by Advancement and the department.
+
+C. Non-Capital Assets
+Non-capital assets, purchases less than $5,000, are expensed in the fiscal year of purchase and are not recorded in the University property system. Costs incurred to keep a capital asset in normal operating condition but do not extend the useful life of the asset are not capitalized. These costs are expensed as service repairs or maintenance.
+Expenditures for maintenance and repairs are charged to operations as incurred; significant renewals and betterments are capitalized.
+
+D. Depreciation
+Depreciation is a method to allocate the cost of capital assets over the assets estimated useful life. The University assigns useful life based on the asset classes shown below:
+1. Building – 50 years 2. Building – Improvements 30 years 3. Furniture, equipment and books – 5-20 years 4. Systems software – 4-7 years 5. Rare Book & Art Collections – Not applicable
+The university records depreciation using the straight-line method with half year convention with the exception of cost on certain university-wide software systems which are depreciated beginning with the date of implementation. Depreciation is recorded for building construction costs once placed in service. Special collections are not depreciated due to the extraordinarily long estimated useful lives.
+E. Physical Inventory
+Physical inventories are conducted to verify the existence, location and condition of the asset. The university is required by federal regulations to conduct physical inventory at least every two years. As best business practice the university conducts an annual inventory to maintain accurate and current records.
+
+F. Asset Disposition and Other Changes
+All capital equipment transferred, stolen, scrapped, traded in, donated or otherwise disposed of must be reported to the Controller’s Office at the time of the event by the custodian unit. An Asset+ form must be initiated for this purpose. The Principal Investigator (“PI”), department, office or other organizational unit is responsible for disposing of the assets under its control, with consideration for applicable laws and regulations; environmental, health and safety concerns; information security; and any contractual obligations for sponsored research. Any university employee who is the custodian of capital equipment must dispose of any and all university assets covered by this policy in accordance with university procedures.
+Equipment owned by the university may be removed from campus for loan only with the written authorization of the department head. Equipment taken off campus must remain under the control and supervision of an employee of the university. An Asset+ form must be completed prior to removing or returning equipment.
+Disposition of all computer equipment must comply with the additional procedures described on Asset+. Please to the Policy on Appropriate Use of Computer and Network Resources.
+
+G. Interdepartmental Transfers
+Unit Property Liaisons are responsible for tracking capital moveable equipment assigned to their unit. All interdepartmental transfer requests, including new campus location and equipment custodian, must be initiated through the unit Property Liaison using Asset+.
+Departments are required to promptly report to the Accounting Department and Public Safety any damaged, stolen or missing items as soon as the problem is discovered. For stolen computers, tablets and smart phones an Information Security Officer signature is required when submitting the stolen item report on Asset+ to Accounting. An Information Security Officer can be contacted by email at OIS@northeastern.edu, where a ticket will be filled through the help desk and the signature for the form will be completed through the proper channels.
+
+H. Federally Funded Equipment
+The Principal Investigator (“PI”) on each federal grant is responsible for the care and maintenance of university equipment acquired with federal funds. The Controller’s Office maintains an asset database of all capital items on federal grant equipment and is required to perform a biennial inventory. The PI is responsible for notifying the NU-Research Finance Office on any movement, disposal or sale of equipment and ensuring an Asset+ form is completed. If a grant requires additional reporting or management procedures, the PI accepts responsibility for monitoring adherence to these additional requirements under the terms and conditions of the award.
+Before using federally funded equipment for other activities, disposing of the equipment, or transferring equipment to another institution, please contact the Director of Research Finance, who will inform the Commodity Specialist in the Procurement Services Department. Once the Asset+ form is completed and approvals are verified, the information will be processed in the asset database.
+When transferring equipment to another institution or disposing of assets acquired through federal funds, PIs are responsible to comply with federal regulation 2 CFR 200 Uniform Guidance sections 200.313. For more information refer to the .
+Department heads are required to approve the removal of any equipment. Equipment value must be reviewed and approved by Procurement Services, which will work with the university department and other sources as needed. Federal agencies differ in specific guidelines and the university will follow the specific guidelines of the grant.
+Disposal of electronic equipment (including desktop computers, laptops, printers, smartphones and tablets) requires that a user complete an Asset+ form.
+
+A. Expired Grants
+On completion of a federal grant/sponsored project, capital equipment in some circumstances may become University property. Please refer to A-110, 2 CFR 200.313 and contact NU-Research Finance Office for information regarding the process for reclassifying federal equipment.
+
+B. Failure to Comply
+Failure to comply with this policy may result in disciplinary action up to and including termination.
+
+Accounting Department: accounting@northeastern.edu – For general questions, Asset+ status, accounting policy and capital asset definition.
+Procurement Services, Commodity Specialist: procurement@northeastern.edu – For questions on bill of sale, valuation of asset.
+Facilities Division, Recycling and Solid Waste Management: recycle@northeastern.edu – For questions coordinating pick-up of disposal items.
+Facilities Division, Transportation Department: facilitiescustomerservice@northeastern.edu – For questions regarding transferring assets to another location or utilizing warehouse storage.
+Environmental Compliance and Ocupational Safety: ecos@northeastern.edu – For questions on proper disposal of hazardous pollutants.
+NU-Research Finance Office: nu-res@northeastern.edu – For questions on assets purchased with federal grant money or assets being brought into the university through the hire of a Northeastern University faculty member.
+Responsible Office/Department(s)
+Controller’s Office
+Related Policies
+Policy on Costs for Sponsored Agreements
+Code of Ethical Conduct
+Policy on Procure to Pay (P2P)
+Policy on Use of University Funds
+Policy on Professional Standards and Business Conduct
+Policy on Appropriate Use of Computer and Network Resources
+Related Procedures
+N/A
+Supersedes
+Policy on Asset Disposition
+Keywords
+Capital Assets; Property; Property Custodian; Property Liaison; Equipment; Uniform Guidance; Asset Disposition; Inventory; Depreciation
+Version History
+Last Revision Date: December 15, 2023
+Issued: May 25, 2018

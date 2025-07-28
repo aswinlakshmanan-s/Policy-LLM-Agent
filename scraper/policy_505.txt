@@ -1,0 +1,42 @@
+Policy 505: Policy on Human Subjects Research
+
+
+Northeastern University (“Northeastern” or “university”) is committed to the ethical conduct of research and adheres to high standards for the protection of human subjects consistent with the principles of the Nuremberg Code and the Belmont Report. Accordingly, the university has established the Department of Human Research (DHR), which provides administrative support to the university’s Institutional Review Board (IRB). The IRB provides a procedural framework for meeting the ethical and legal requirements that the rights and welfare of human subjects receive adequate protection.
+This policy applies to all research involving human subjects conducted by faculty, staff, and/or students at the university regardless of funding source, except that research conducted or assigned as part of coursework is governed by the Policy on Classroom Research Involving Human Subjects.
+
+For the purposes of this policy:
+Research means a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. Activities that meet this definition constitute research for the purposes of this policy, whether or not they are conducted or supported under a program that is considered research for other purposes. For example, some demonstration and service programs may include research activities.
+Human Subject means “a living individual about whom an investigator (whether faculty, staff, or student) conducting research obtains 1) data through intervention or interaction with the individual or 2) identifiable private information.”
+Investigator or Principal Investigator means any individual involved in conducting human subjects research, including without limitation those performing various tasks related to the conduct of human subjects research activities, such as obtaining informed consent from subjects, interacting with subjects, and communicating with the IRB.
+
+No activity involving human subjects may be undertaken until it has been reviewed and approved by the university’s IRB. Accordingly, all proposals for university research involving human subjects must first be submitted to the DHR for IRB review and approval.
+Northeastern requires completion of training on the protection of human subjects and the ethical principles of research for all human subjects research, regardless of whether investigators have received funding to support their project. This training is mandatory for all faculty, staff, and students who conduct or supervise research involving human subjects whether on-campus or off-campus, funded or unfunded.
+The Principal Investigator is responsible for the protection of participants in human subjects research. Safeguarding participants from undue risk is the ethical responsibility of each person involved, either directly or indirectly, in conducting research at Northeastern. Principal Investigators must require that each member of the research team implements all research procedures in accordance with ethical principles of research.
+Northeastern faculty may not recruit students from their classes for their own research projects unless prior approval or exemption determinations for the project have been obtained from the DHR. Information regarding approval procedures and other necessary guidelines for human research at the university can be found on the DHR website. Investigators are responsible for reviewing these guidelines prior to submitting an application for review.
+Northeastern’s IRB has the authority to suspend or terminate research that is not being conducted in accordance with IRB requirements or that has been associated with harm to subjects. Investigators whose research does not comply with university policy may not obtain an IRB exemption or IRB approval for other human subjects research activities for themselves or their students until their compliance issues have been cleared.
+Any violation of research guidelines by the university or one of its investigators jeopardizes the DHR’s Federalwide Assurance (FWA), a U.S. Department of Health and Human Services (DHHS)-approved assurance of compliance with U.S. regulations for the protection of human subjects in federally funded research. Such a violation could threaten the university’s ability to receive U.S. government funding. A project conducted without IRB approval is subject to termination and/or other action by the university, and those involved may be subject to disciplinary action up to and including termination or separation, and/or criminal or civil legal action.
+
+Human subjects research at Northeastern adheres to policies and regulations of the DHHS (e.g., the Common Rule) as well as the U.S. Food and Drug Administration (IRB requirements, informed consent, etc.). The FWA is approved by the DHHS’s Office for Human Research Protections for federal-wide use, which means other U.S. government departments and agencies that have adopted the Common Rule may rely on Northeastern’s FWA for the research they conduct or support.
+Instructors who seek to recruit their own students for their research must review, understand, and adhere to Guidance: Recruiting and Enrolling Your Students, which can be found on the DHR website under the Forms & Guidance tab.
+
+Research participants with questions may contact Northeastern’s Department of Human Research via e-mail (IRBreview@northeastern.edu).
+For information about human subjects research and the procedures for applying for IRB review, visit the DHR website or e-mail IRBreview@northeastern.edu.
+Responsible Office/Department(s)
+Department of Human Research
+
+Related Policies
+Code of Ethical Conduct
+Policy on Research Misconduct
+Policy on Responsible Conduct of Research
+Policy on Classroom Research Involving Human Subjects
+Related Procedures
+Protocol Application Form (e.g., recruitment procedures and study procedures)
+Reportable New Information, Incident, or Adverse Event Form (e.g., Corrective Action Plan)
+Protocol Closure Form
+Supersedes
+N/A
+Keywords
+Human Subject; Institutional Review; IRB
+Version History
+Last Revision Date: May 16, 2025
+Issued: October 15, 2014

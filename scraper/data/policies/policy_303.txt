@@ -1,0 +1,33 @@
+Policy 303: Policy on Computer Procurement
+
+
+Northeastern University strives to provide a quality technology environment with responsive support service and security for its students, faculty and staff in an efficient, effective and economical manner.
+The University has specific standards on the type of technology it will support and how such technology is configured. These standards are designed to assist the university in maintaining high levels of support and protect its computer systems.
+This policy applies to all computer purchases using university funds and to any other computers that faculty and staff propose to join to the NUNET computer domain, networked drives or print queues. It does not apply to mobile devices.
+
+Computer Domain – is a group of computers linked in a network that works based on a specific set of rules. At Northeastern, the NUNET domain enables the standardized management of computers, including the use of standardized login credentials and desktop application distribution.
+Software image – is a collection of operating system and locally installed software application files and user settings that can be packaged and electronically installed on a computer. The NUNET image is Northeastern’s software collection that is built and tested to support Northeastern’s desktop and laptop standards.
+
+The University has established standards for purchasing desktop and laptop computers for university business in order to provide quality computing services and to minimize the costs of acquisition and use. The University will only support hardware and software that conforms to standards that allow it to continue to provide high level of computing services in an efficient, effective and economical manner.
+Purchases that do not conform to University standards may not be a member of the NUNET domain, will not be supported by a NUNET software image, will not have access to NUNET print queues, applications or departmental network shares (Q/R/S drives), and may not be used for university business. There must be no expectation that computers which are not University-approved will be able to run network-based software applications.
+To obtain specific information and computer specifications contact the P2P Team.
+
+Standards are reviewed on an ongoing basis. The university reserves the right to change its standards from time to time, but will endeavor to support, within reason, legacy systems already in use, for a period of time as determined by the university’s ITS Department.
+
+P2P Team: (617) 373-2135
+Information Technology Services, Service Desk (617) 373-4357 , help@northeastern.edu
+Responsible Office/Department(s)
+P2P Team
+
+Related Policies
+Policy on Appropriate Use of Computer and Network Resources
+Policy on Enterprise Passwords
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+Personal Computer; Laptop; Desktop; PCs; MacIntosh; Mobile
+Version History
+Last Revision Date: 2022-10-26
+Issued: 2007-01-01

@@ -1,0 +1,38 @@
+Policy 508: Policy on the Cost Transfer
+
+
+The university has a stewardship responsibility for all sponsored funds. Proper management of sponsored project expenditures is essential to meet this obligation. This policy applies to all after-the-fact reallocations of expenses and will be consistently applied to all sponsored project agreements. It does not apply to the allocation of expenses to a sponsored account from a central clearing account or an allocated cost center such as service centers or Accounts Payable uploads.
+
+For purposes of this policy,
+Original Charge means the first posting of a cost to the general ledger, initiated by payroll charges, purchase orders or check requests (and the purchasing card).
+Cost Transfer means an after-the-fact transfer of an expense, either salary or non-salary, from one cost center to a sponsored account.
+
+The university recognizes that cost transfers are sometimes necessary to correct bookkeeping or clerical errors and to allocate closely related work that may support more than one project. In accordance with 2 CFR Part 200: Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (The Uniform Guidance) cost transfers must be supported by documentation that explain the correctness of the new charge onto the sponsored account and must be completed in a timely fashion.
+Under this policy the Principal Investigator (PI) is expected to review expenditure activity regularly for allow ability under the terms of a sponsored agreement. Allowable costs are defined in Uniform Guidance Subpart E- Cost Principles, in the sponsor’s published guidelines, and in the sponsored agreement itself. If it is determined that a transaction has been charged to a sponsored project in error, the PI or designee must prepare and sign a Journal Voucher and Cost Transfer Form and submit it to the NU-RES office for review. All transfer requests must contain sufficient supporting documentation, explain why the error was made and describe why the expenditure is appropriate for the project to be charged. Cost transfers should be processed within the earlier of 120 days of the date of the original transaction or 90 days of the discovery of the error.
+Frequent, late, and inadequately explained transfers – especially those involving projects with cost overruns or unexpended balances – raise serious questions about the propriety of the transfers and call internal fiduciary controls into question. This may result in audit disallowances and monetary paybacks including penalties and fines.
+Original charges should be directed to the appropriate benefiting sponsored project. If it is necessary to request a cost transfer that involves a sponsored project, requests should be made promptly using the Cost Transfer Form, and must contain supporting documentation and justification sufficient to stand the test of a formal audit. Under no circumstances may costs that benefit one sponsored project be charged temporarily to another sponsored project. Sponsored project costs that cannot be immediately charged to the appropriate project for any reason may be charged to a non-sponsored cost center and transferred to the appropriate sponsored project at the earliest opportunity. Failure to adhere to this policy will result in improper financial reporting to and inappropriate reimbursement from the sponsor.
+Auditors and sponsors will flag as suspicious cost transfers with the following characteristics:
+– Costs transferred long after the original charges were recorded – Transfers supported by inadequate documentation or justification – Transfers made at the end of a project that relieve cost overruns or spend out a project
+
+Salary Transfers
+Transfers of salary are a form of cost transfer, however they are completed through the Payroll Distribution Change form (PDC) process and do not require a cost transfer form or a Journal Voucher. PDC forms require sufficient justification in order to stand the test of a formal audit and must describe how the salary redistribution affects effort applied on the research funds as described in the award. Adjustments made to salaries on a closed effort reporting period, included in a financial report/final invoice or a closed fund may require additional approvals.
+
+Exceptions to this policy may be made with the prior approval of the Senior Vice Provost for Research (or designee), who will designate an appropriate structure for administrative support and oversight for any non-faculty Principal Investigators. Requests for exceptions may only be referred to the Senior Vice Provost for Research (or designee), by the Dean of the College in which an award will be housed.
+
+Director, Research Finance Northeastern University- Research Enterprise Services 617-373-5600
+
+Responsible Office/Department(s)
+Research Enterprise Services
+
+Related Policies
+Policy on Costs for Sponsored Agreements
+
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+Principal; Investigator; Eligibility; Allowable Costs; Original Charge; Cost Overrun
+Version History
+Last Revision Date: February 25, 2019
+Issued: June 1, 2009

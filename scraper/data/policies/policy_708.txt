@@ -1,0 +1,72 @@
+Policy 708: Policy Requiring Protection of Controlled Unclassified Information (CUI)
+
+
+In keeping with its core mission as a global academic research institution that is dedicated to applying use-inspired research to areas of critical global need, Northeastern University is committed to sound stewardship of the private and governmental resources supporting its research endeavors, and to conducting its activities according to the highest standards of excellence, transparency, and adherence to regulatory requirements.
+In connection with some of its activities, operations, and sponsored research projects, the university may receive or create Controlled Unclassified Information (“CUI”), which requires compliance with safeguards and / or dissemination controls. This policy sets forth the requirements, expectations and guidance for CUI compliance. It applies to all CUI handlers, as defined below, including faculty, staff, students and affiliates or agents who, on behalf of the university, may use, create, or process CUI in any way, including marking, safeguarding, transporting, disseminating, re-using, or disposing of the information.
+
+For the purposes of this policy,
+
+A. Controlled Unclassified Information (CUI)
+
+Refers to information defined by federal regulation, 32 C.F.R. § 2002.4(h), and by Presidential Executive Order 13556 as information that the U.S government creates or possesses, or that an entity creates or possess for or on behalf of the federal government, that a law, regulation, or Federal Government–wide policy requires or permits an agency to handle using safeguarding or dissemination controls. CUI does not include classified information or information a non-executive branch entity possesses and maintains in its own systems that did not come from, or was not created or possessed by or for, an executive branch agency or an entity acting for an agency.
+
+B. CUI Handlers
+
+Means any faculty, staff or students, who may handle, possess, use, share, create, or receive CUI, and includes any affiliates, contractors, or agents of the university who may need to be given access to or engage with CUI on behalf of the university or in connection with university research projects.
+
+C. CUI Registry
+
+Refers to the Government-wide online repository for Federal-level guidance regarding CUI policy and practice maintained by The National Archives and Records Administration (NARA). The NARA provided a CUI Registry List which includes multiple categories and subcategories, some of which will overlap with export control regulations, two of the categories that most often intersection with these regulations are:
+
+1. Controlled Defense Information (CDI)
+Controlled Defense Information is a category of CUI. CDI is a specific term used by the DoD to describe information that requires safeguarding under the DFARS Clause 252.204-7012 it is defined as:
+Controlled Technical Information (CTI)
+DoD Critical Infrastructure Security Information
+Naval Nuclear Propulsion Information
+Unclassified Controlled Nuclear Information (UCNI) – Defense
+2. Export Control Information
+Is a category of CUI. It refers to unclassified information concerning certain items, commodities, technology, software, or other information whose export could reasonably be expected to adversely affect the United States national security and nonproliferation objectives export controlled information. This includes dual use as they appear on the Commerce Control List in Export Administration Regulations; items that fall under the International Traffic in Arms Regulations and the US Munitions List; License applications and other sensitive nuclear information. There are other categories of CUI that are common in a university setting and which also require safeguarding, for example: Patent, Privacy, Financial, International Agreements, Immigration, Procurements & Acquisition.
+
+3. National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171 (NIST SP 800-171)
+Outlines the guidelines and requirements for “Protecting Controlled Unclassified Information CUI in Nonfederal Systems and Organizations.” The requirements apply to all components of nonfederal information systems and organizations that process, store, transmit CUI, or provide security protection for such components.
+
+4. Cybersecurity Maturity Model Certification (CMMC)
+The CMMC is a program established by the United States Department of Defense (DoD) to standardize security practices and processes intended to protect Federal Contract Information (FCI) and Controlled Unclassified Information (CUI).
+
+A. General Policy
+
+Northeastern University is committed to executing its operations and research mission in a secure and consistent manner in accordance with relevant laws and regulations. Specifically, the University requires compliance with all applicable cybersecurity standards prescribed by Northeastern or the CUI Registry, and all applicable contract terms and conditions.
+
+B. CUI Handler Requirements
+
+CUI Handlers are responsible for taking the following steps prior to creating or accessing CUI:
+Complete any required trainings
+Submit a request for access to the IT Service Desk (allowing at least two weeks for processing)
+Sign the CUI Agreement
+Complete any required audit or review
+CUI Handlers must undergo a compliance assessment for compliance with this policy prior to handling CUI. Any noncompliant findings identified in the compliance assessment must be remediated before any handling of CUI. Such compliance assessments will be repeated on a regular basis.
+
+C. CDI and Export Controls
+
+CDI and Export Controls are two specific category of CUI, which are also covered in the Policy on Export Controls.
+
+D. CUI Authority
+
+The CUI authority is the Chief Information Security Information (CISO). The CISO is responsible for setting forth detailed practices and procedures, including establishing requirements for training and compliance. The practices and procedures promulgated by the CISO related to CUI are mandatory for the handling of CUI at Northeastern. For exceptional circumstances, Appeals related to CUI practices and procedures may be approved by the Senior VP of Global Network and Strategy, and the Office of General Counsel. No appeal will be granted that will violate the law or the terms of any grant or contract.
+
+Noncompliance may result disciplinary action up to and including termination, and also in fines or the inability to continue receiving Federal funds associated with the use of this data whether directly received from the government or indirectly through associated covered contracts and contractors.
+
+Office of Information Security: OIS@northeastern.edu
+Responsible Office/Department(s)
+Office of Information Security
+Related Policies
+Policy on Export Control
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+CUI; CDI; NARA; CMMC; NIST;Export Control; Controlled Unclassified Information; Covered Defense Information
+Version History
+Last Revision Date: N/A
+Issued: January 25, 2024

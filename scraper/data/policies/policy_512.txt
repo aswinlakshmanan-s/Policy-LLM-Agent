@@ -1,0 +1,69 @@
+Policy 512: Policy on Shared Research Facilities
+
+
+The purpose of this policy is to provide guidance on establishing, maintaining and accounting for Shared Research Facilities in accordance with Northeastern University policy and federal regulations. The intended audience is faculty, students, and staff at Northeastern University involved in the operation of a Shared Research Facility.
+
+A. Shared Research Facilities (SRFs)
+SRFs are operating units within Northeastern academic units or institutes that provide goods or services for a fee based on a rate schedule that directly support the university’s research or academic mission and recover costs through charges to internal and external users. SRFs generally have dedicated personnel, equipment, and space for operations and are sometimes referred to as Cores. Any SRFs having a total operating expense of $100,000 or more per year must comply with this policy.
+Examples of SRFs include the Chemical Imaging of Living Systems (CILS) and the Boston Electron Microscopy Center (BEMC).
+
+B. Specialized Service Facilities (SSFs)
+SSFs provide highly complex or specialized services or annual operating expenses of more than $1 million. These centers’ billing rates are based on their direct operating costs and an allocated portion of indirect costs. SSFs should include all associated indirect costs into their shared facilities rates. See 2 CFR 200 Uniform Guidance, Subpart E §200.468.
+C. Department User/Resource Facilities
+Single instruments or small groups of instruments physically located within an academic unit or institute that provide goods or services for a fee based on a published rate schedule, have annual operating costs less than $100,000, and are directly administered by the local academic unit. Department User/Resource Facilities are not covered by this policy.
+D. Internal Users
+Investigators within Northeastern University who pay for goods or services through internal billing using a Northeastern index and account code.
+E. External Users
+An entity or person that is legally separate from Northeastern that typically purchases goods or services for reasons of convenience, quality, or uniqueness of goods or services offered. Work for external entities should generally be performed with a formal contract executed between Northeastern University and the External Entity.
+F. Strategic Partners
+External partners engaged in collaborative research or ventures of strategic importance to Northeastern University’s research enterprise, including government, non-profit, and corporate entities.
+G. Rates
+Rates are determined by the allowable cost of operating a service or producing goods divided by the anticipated units available. This provides a basis for a fee structure to both internal and external users. The determination of the allowable costs is listed in the Shared Facility Administration Guidelines.
+
+A. General Policy
+
+Shared Research Facilities (SRFs) are units within Northeastern academic units, institutes, or centers that charge for goods or services that directly support the research mission of the university and recover costs through charges to internal and external users.
+All Shared Research Facilities are expected to recover no more than the aggregate allowable costs of their operations through charges to users based on usage. All SRFs must be able to demonstrate compliance with federal requirements and develop rates that do not discriminate against federally supported activities of the institution, including usage by the institution for internal purposes. As a recipient of federal funding, the university must comply with applicable law and regulations, the U.S. Office of Management and Budget Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (2 C.F.R. §200) (“Uniform Guidance”). In accordance with Uniform Guidance, Subpart E (§200.468), university policy requires that all Shared Facilities charging federally sponsored projects may only recover the allocable, allowable, and reasonable direct costs of services provided.
+Any Northeastern University cost center or unit operating as a Shared Research Facility and having total operating expenses of $100,000 or more per year must comply with this policy. NU-RES Finance is responsible for administrating this policy and maintaining appropriate procedures and forms set forth in the Shared Facility Administration Guidelines.
+
+B. Financial Considerations
+
+All Shared Research Facilities shall maintain general ledger index codes that are adequately segregated and detailed to facilitate financial reviews in accordance with this policy. All costs, subsidies, and revenue relating to a shared facility shall be accounted for within the general ledger.
+A Shared Facility shall develop rates such that revenues do not exceed allowable expenses for services provided to customers who use federal funds to pay for services. Rates must be developed using matched revenue and expenses over the same period.
+Deficits or surpluses within 15% of total operating costs may be carried forward as an adjustment to the billing rates of the following year or the next succeeding year. Rates and expenses should be reviewed and adjusted mid-year as necessary to avoid fluctuations exceeding the 15% threshold.
+The local managing units shall evaluate their financial performance throughout the year by performing and documenting at least one interim rate review per fiscal year. Rates shall be adjusted at any point during the year if the Shared Facility determines that current rates and usage will generate a deviation of more than 15% of annual operating expenses. Documentation is required for rates and rate adjustments.
+A Shared Facility must charge all internal users at the same rate, regardless of funding source, for the same level of services or products purchased in the same circumstances. The use of special rates, such as for high-volume work or off-hour usage, is allowed, but the special rates must be equally available to all users.
+Services provided to all users must be accounted for and rates must be based on allowable total costs and actual usage. If an academic unit chooses to provide a service to a particular internal group of users at a subsidized rate, this subsidy cannot result in higher than actual costs for non-subsidized internal users.
+SRFs shall perform and document the rate calculation for each service it provides. SRFs with multiple services shall ensure that there is no cross-subsidization between services or user groups. Combining the revenues of various services is not allowed if the mix of users for each service is different.
+
+N/A
+
+Executive Director, Research Finance Operations
+Northeastern University – Research Enterprise Services
+BV-130
+(617) 373-5600
+Responsible Office/Department(s)
+NU-RES Finance
+Related Policies
+
+OMB Chapter II, Part 200 of the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance)
+(https://www.ecfr.gov/current/title-2/subtitle-A/chapter-II/part-200?toc=1)
+
+Section 200.468 – Specialized Service Facilities
+(https://www.govinfo.gov/content/pkg/CFR-2014-title2-vol1/xml/CFR-2014-title2-vol1-sec200-468.xml)
+Related Procedures
+
+NU Shared Facilities Administrative Guidelines
+
+FAQs for Costing of NIH-Funded Core Facilities, Notice Number: NOT-OD-13, Release Date April 8, 2013 (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-13-053.html)
+Supersedes
+
+N/A
+
+Keywords
+
+Shared Facility; Surplus; Deficit
+Version History
+
+Last Revision Date: December 19, 2023
+Issued: December 15, 2023

@@ -1,0 +1,60 @@
+Policy 602: Policy on Restricted Access and Supervision Requirements for Laboratories and Support Rooms
+
+
+Northeastern University is committed to promoting a safe and healthy environment in which to study, research, live, work and visit. The university places a high priority on endeavoring to conduct its teaching and research activities in compliance with environmental health and safety laws and regulations and in accordance with reasonable practices. Since laboratory research, workshop, and support facilities can involve regulated and potentially hazardous materials, equipment or environmental conditions, access to such areas is restricted to authorized personnel under the supervision requirements set forth in this policy.
+This policy applies to all faculty, staff, students, and visitors, and to all restricted campus work areas, as defined below. The policy does not apply to short off-hours visits to restricted work areas by trained undergraduate students for authorized purposes that do not involve working with hazardous materials, such as to feed fish, adjust or check temperatures or other settings, or read and record data.
+
+For purposes of this policy,
+After hours means from 9 pm to 7 am and during weekends, holidays and other periods when classes are not in session.
+Restricted Area or Restricted Work Area means classrooms, laboratories, workshops, maker spaces and laboratory support rooms where hazardous materials, equipment, tools, or environmental conditions present exposure or injury concerns, including without limitation research laboratories, equipment rooms, environmental rooms, clean rooms, workshops, studios, and photography dark rooms.
+Direct Supervision means that the principal investigator, laboratory manager, faculty member or other assigned Qualified Supervisor is present in the Restricted Area when laboratory workers are present and working in the Restricted Area.
+Indirect Supervision means a Qualified Supervisor is present and available on site, which may be in the same or an adjacent building but not necessarily within the same Restricted Work Area.
+Qualified Supervisor means an investigator, laboratory manager, laboratory staff member, faculty member or graduate student trained in and knowledgeable about the specific hazards and work activities present in the Restricted Work Area.
+Department Safety Officers (DSO) are responsible for monitoring and assessing safety hazards or unsafe conditions within a department that conducts academic teaching or research activities; facilities support functions; or other activities that utilize hazardous materials or equipment. A DSO is appointed by the department chair; may serve as a department representative on safety program committees; coordinates department safety program implementation with Environmental Health and Safety (EH&S) program managers.
+Environmental Health & Safety program managers are qualified by education and professional training to develop and manage specific safety programs; conduct hazard assessments, interpret safety regulations and guidelines; promote best safety management practices: and communicate concerns or other findings to senior management.
+Safety Committees are responsible for overseeing the implementation of specific safety programs such as laboratory safety, biosafety, and radiation safety. Committee members are appointed by senior management and include representatives from departments that must implement the specific safety program as well as a representative from EH&S and senior management. Safety committees review teaching and research protocols, develop safety policy that meets regulatory compliance and support best safety management practice.
+
+It is the policy of Northeastern University to promote a safe and healthy environment for our employees, students, visitors, and contractors, and to comply with state and federal laws and regulations relating to environmental health and safety. While adherence to good safety practices and compliance with law and regulations is the responsibility of all members of the university community, managers and supervisors, including deans, department chairs, principal investigators, and individual faculty members, are responsible for the establishment and maintenance of appropriate health and safety practices within their areas, including developing an access program for Restricted Work Areas.
+A. Access to Restricted Work Areas
+
+Authorization to access Restricted Work Areas is granted by the Principal Investigator, Laboratory Manager, or other assigned supervisor overseeing the Restricted Area.
+Department Chairs are responsible to confirm that access privileges are granted only to qualified faculty, staff, students and/or visitors, and that the assigned supervisor maintains a list in the BioRAFT platform of authorized persons who have access to the Restricted Area(s) under their supervision.
+If access privileges include issuing a key or lock code to work areas that must be secured, then access times and supervision requirements must be set by the Principal Investigator, Laboratory Manager, or other assigned supervisor overseeing the work area, in consultation with the Department Chair and DSO.
+All laboratory workers to be granted access to a Restricted Area must complete an initial safety orientation program. All relevant safety training must be completed before conducting any laboratory work with hazardous materials or equipment.
+B. Supervision of Personnel in Restricted Work Areas
+The Principal Investigator, Laboratory Manager, or other assigned supervisor is responsible for the supervision of those allowed access to their assigned laboratory spaces.
+Supervision may be delegated to qualified faculty, staff, and graduate students familiar with the work activities and associated safety requirements. Under some circumstances, with advance written permission from Environmental Health & Safety, a fourth- or fifth-year undergraduate student with appropriate training and experience may be delegated to serve as supervisor.
+Direct Supervision of undergraduate students is required if the work involves use/storage of hazardous materials or equipment as indicated by the university safety committees.
+Indirect Supervision of undergraduate students may be appropriate when work involves low-level hazardous materials or equipment, and the student has demonstrated competency in such work to the satisfaction of the Principal Investigator, Laboratory Manager or other assigned Qualified Supervisor
+C. High School Students and Other Minors
+No one under the age of twelve is permitted in Restricted Work Areas.
+Non-Northeastern University students who are age twelve to eighteen may not enter a Restricted Work Area to visit or tour unless a Qualified Supervisor is present to provide direct supervision. Supervision may not be delegated to the students’ teacher or trip chaperone.
+High School students in ninth grade or above may only perform work in a restricted work area if the student has received appropriate training, is part of an officially-sanctioned educational program that has been approved by the Department Chair and DSO, and is under Direct Supervision by a Qualified Supervisor.
+In all cases, a consent form signed by the parent or guardian must be obtained by and on file with the responsible department.
+D. Working alone in a Restricted Area
+Working alone in a Restricted Area, especially after hours, can be unsafe and should be avoided whenever possible. Working between midnight and 7 am may require special authorization by the Department Chair and notification to Public Safety via SafeZone check-in.
+The Principal Investigator, Lab manager, or other assigned Qualified Supervisor is responsible for setting and enforcing rules about working alone in the Restricted Area and after-hours access rules that will promote the safety of those in the Restricted Area at all times. The Principal Investigator must determine whether the work requires special safety precautions, such as having two persons in the same room during a particular operation. After conducting a review of the specific hazards, if any, the Principal Investigator, Lab manager or other assigned Qualified Supervisor can approve laboratory workers to work alone.
+When working alone is allowed, procedures to protect laboratory workers in the event of an emergency situation must be followed. Laboratory workers are not allowed to work alone when the hazards associated with their work could incapacitate them such that they could not “self-rescue” or activate SafeZone or other emergency response services. The Environmental Health and Safety Department provides guidance for developing a laboratory specific safety protocol for working alone.
+E. Safety Procedures
+All persons authorized to work in restricted work areas are required to install Safe Zone on their phone. Guidelines and safety procedures in specific areas, as well as plans for working with specific hazardous materials, must be followed and are available from the EH&S website . Newsletters, forms, and training registration are also available at that website. Managers and supervisors are responsible for keeping informed about the policies, practices, programs and requirements posted there.
+
+Failure to abide by this policy, or any of the safety procedures and work rules applicable to a particular area, may result in disciplinary actions, up to and including termination of employment for faculty and staff, or separation for students.
+
+If you need help or information about health and safety, call EH&S at 617-373-2769.
+Department of Public Safety (Campus Police): 617-373-2121
+Office of Risk Services: 617-373-6963
+Facilities Division: 617-373-2754
+Responsible Office/Department(s)
+Environmental Health and Safety
+
+Related Policies
+Policy on Keys and Keycards
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+Laboratory Supervision; Restricted Hours; Access to Labs, Workshops, and Support Rooms; Supervision of Work Requiring Hazardous Materials; Minors in Laboratories and Support Rooms; After-hours Work in Labs
+Version History
+Last Revision Date: April 27, 2020
+Issued: February 12, 2014

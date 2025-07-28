@@ -1,0 +1,59 @@
+Policy 307: Policy on Handling Payments Made to the University
+
+
+In order to prevent financial loss, promote security, facilitate accurate financial reporting, and foster appropriate stewardship of University assets, this Policy defines and outlines University requirements with respect to the handling and depositing of incoming payments. This policy applies to all payment transactions where the university is the recipient and payee. It applies to all colleges, departments, organizations, centers, units and individuals receiving payments. This policy will be maintained by the Vice President & Assistant Treasurer. Exceptions to this policy must be approved by the Vice President & Assistant Treasurer.
+
+For Purposes of this Policy,
+ACH means a funds transfers system governed by the rules of the National Automated Clearing House Association (“NACHA”)
+Credit Card means a payment instrument whereby the buyer makes a purchase on credit underwritten by the seller or by a third-party, usually a bank or other financial institution. Accepted methods of credit card payment are MasterCard, Visa, American Express, Discover and JCB
+Department/Unit mean any individual employee, college, department, organization, center or unit who accepts a payment on behalf of the University
+EFT refers to any electronic funds transfer including ACH and wire payments from domestic and international banks
+Federal Reserve Board Regulation E refers to the Federal Reserve regulation incorporating the provisions of the Electronic Funds Transfer Act that governs EFT’s, including those initiated through point-of-sale (“POS”) terminals, ACH and banking systems
+Lockbox means a collection system in which a 3rd Party receives payments at a specified lockbox address, processes remittances and deposits them into the University’s bank account
+Over-the-Counter Checks means checks that are mailed or hand delivered to a Department/Unit
+Processor is the Department/Unit authorized to directly accept and process payments through the central payment processing infrastructure
+3rd Party Processor means a vendor contracted by the University whose services include processing payments on our behalf or who provide payment methods or applications to the University
+
+Departments that receive payments must have appropriate internal controls and follow documented procedures. Appropriate internal controls include the segregation of duties, safekeeping of payments, prompt deposit of all receipts and accurate recording of revenue into University financial systems. All payments received by departments must be processed according to this policy and deposited to authorized accounts.
+Banking services and the designation of authorized bank or merchant accounts will be managed by the Treasury Department. No individual employee, college, department, organization, center or unit may establish a University bank or other financial account or deposit University funds into an unauthorized account. Requests for any new banking, merchant, 3rd Party Processor and any other financial relationship must be pre-approved by the Treasury Department.
+The following are the University’s authorized collection methods: a. United States dollar-denominated currency and coin b. United States dollar-denominated Over-the-Counter Checks drawn on a US bank c. United States dollar-denominated Lockbox checks drawn on a US bank d. Electronic funds transfer (“EFT”) e. Credit cards, except for undergraduate tuition payments
+Any payments that have been accepted must be processed and accounted for in the University’s financial accounting system in a timely manner. Payments must be sent to Treasury Services (formaly the Department of Financial Services) for processing. They must: a. be submitted within 24 hours of receipt b. be accompanied by documentation that includes contact information for the individual or department that accepted the payment c. include accounting information required to properly post the payment to the correct budget
+Payments may be processed locally only by individuals approved by the Treasury Department or centrally by Treasury Services following the same guidelines noted above.
+There must be a separation of duties between receiving payments, posting, and reconciling of payment activities in the accounting records.
+Units authorized to process transactions to a unit level dedicated bank account must reconcile those accounts on a monthly basis.
+Data transmissions or file delivery of payment related information must be, at a minimum, authenticated in a manner consistent with the University’s guidelines for cyber security.
+Systems used in cash collection and processing must be protected by a password that meets university standards for password complexity. Other controls may be added at the discretion of the Treasury Department,
+
+The following table outlines the Roles and Responsibilities of all parties involved with the payment handling process:
+Approval of Payment Handling Policy and all related updates
+Management responsibility for establishing and maintaining bank and other financial services relationships
+Approval of all 3rd Party Processor contracts
+Oversight of compliance with the policy
+Periodic updates to Payment Handling Policy
+Review and recommend banking and other financial service providers
+Daily operation of bank accounts and related systems
+Management of central processing infrastructure including technology, people and process
+Responsible for seeing that payments are presented to Treasury Services or Processors in a timely manner
+Oversight of 3rd Party Processors contracted for the benefit of their Department/Unit
+Responsible for processing payments in accordance with policy in a timely manner
+Responsible for following all payment handling procedures outlined by Treasury Services
+Requests for exceptions to the policy must be prepared in writing and sent to the Treasury Department. All approved policy exceptions must be documented and will be considered during the next policy review period.
+Internal and external auditors may review performance and make recommendations for changes, as appropriate.
+This Policy is intended to comply with all appropriate regulations, including but not limited to: a. ACH Rules b. Federal Reserve Board Regulation E c. Payment Card Industry/Data Security Standards (“PCI/DSS”)
+Treasury Department: treasury@northeastern.edu
+Treasury Services: deptfinancialsvcs@northeastern.edu
+
+Responsible Office/Department(s)
+Office of the SVP for Finance and Treasurer
+
+Related Policies
+Policy on Professional Standards and Business Conduct
+Related Procedures
+N/A
+Supersedes
+Local policies about payment handling
+Keywords
+Payments, Processing, Processor, Collection
+Version History
+Last Revision Date: April 6, 2018
+Issued: October 6, 2017

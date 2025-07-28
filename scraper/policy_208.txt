@@ -1,0 +1,93 @@
+Policy 208: Policy on Trade Secrets
+
+
+Northeastern University is a nonprofit educational institution devoted to teaching, research, and other scholarly activities in the public interest. The university’s faculty, staff, and students, as part of their normally assigned duties and scholarly activities, carry out research which may be supported in part, or in whole, by the university from its own resources, or by grants or contracts with outside sponsors. The respective rights and obligations of the university, its sponsors, faculty, staff, and students, with respect to Trade Secrets, as defined herein, are delineated by this policy.
+The principal objectives of this policy are to:
+1. Encourage creative research, innovative scholarship, a spirit of inquiry leading to the generation of new knowledge, and the free and creative expression and exchange of ideas and comment;
+2. Facilitate the transfer of university-owned research results to commerce and industry, to facilitate institutional technology agreements with parties external to the university, and to encourage the broadest utilization of the findings of scientific investigation to provide the maximum benefit to the public;
+3. Establish principles for:
+a. Determining the rights and obligations of the university, it’s faculty, staff and students, and research sponsors to safeguard intellectual property until appropriate intellectual property protection is achieved, and to define the equitable disposition of interests therein; and
+b. Equitably sharing income derived from the commercialization of intellectual property discovered at or for the university;
+4. Providing incentives to researchers, inventors, and authors in the form of professional recognition, continuing research support, and direct financial compensation;
+5. Preserve traditional university practices and privileges with respect to the publication of scholarly, instructional, or artistic works; and
+6. Protect the university’s rights and assets.
+This Policy applies to faculty, staff, and students working on research that results Trade Secrets, as defined herein.
+
+For purposes of this Policy,
+
+Computerware means computer software, firmware, and databases.
+
+Covered Trade Secret means a Trade Secret which is discovered, created, conceived and/or reduced to practice:
+1. As a result of University Sponsored Research, as defined herein;
+2. As a result of Externally Sponsored Research, as defined herein; or
+3. As a result of Independent Research, as defined herein, for which all participants have assigned their entire right, title, and interest in the Trade Secret(s) resulting from the Independent Research to the university.
+
+Externally Sponsored Research means a research:
+1. Wholly or partially funded under contracts, grants, or written agreements by industrial, philanthropic or other organizations, or by individuals; or
+2. Funded in whole or in part by an agency of the government (local, state or federal).
+Gross Licensing Revenue means money accrued by the university as a result of royalty revenue, sublicensee income, proceeds resulting from a liquidation of a university equity interest in a licensee, or licensing fees included in a license agreement concerning Inventions, Original Works of Authorship and /or Trade Secrets in which ownership or rights of reproduction and distribution reside in the university pursuant to this Policy on Trade Secrets.
+Invention means any new and useful, process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, which is conceived and/or reduced to practice as patentable subject matter, in accordance with 35 U.S.C. § 100 et seq.
+Net Licensing Revenue means Gross Licensing Revenue minus any costs and expenses incurred by the university in obtaining, defending, enforcing, maintaining, licensing, developing and/or
+marketing rights to Inventions, Original Works of Authorship and/or Trade Secrets in which ownership or rights of reproduction and distribution reside in the university pursuant to this Policy on Trade Secrets and either or both of the university’s Policy on Patents and Policy on Copyright.
+Original Work of Authorship refers to works of authorship that fall within the Copyright Act of 1976, 17 U.S.C. § 101 et seq.
+Significant Use of University Administered Resources means the use of university facilities, equipment, funds, personnel, and other resources that exceeds what is customarily and currently provided to similarly situated faculty/staff colleagues of the inventor/author/originator of the Trade Secret in tht individual’s department or to similarly situated students enrolled in the same course or college. The following examples are intended for guidance purposes only and do not exclude other uses that may be considered significant:
+Use of specialized services or facilities such as equipment, production facilities, service laboratories, studios, specialized computing resources or facilities, wherein fees normally required for access or use are waived.
+Use of financial or other support, including reduction in levels of teaching, service, or other typical university activities (e.g. course load, student advising responsibilities, department meetings, office hours, administrative responsibilities) for the creation of the Invention or Original Work of Authorship that exceeds the typical supplemental pay and offloading from regular duties.
+Use of university personnel (including secretarial, clerical, and administrative staff) and research assistants beyond the level customarily provided to all university faculty and departments.
+Use of university proprietary property that serves as a significant basis for the resulting Invention or Original Work of Authorship.
+The university shall not consider use of facilities, equipment, funds, personnel and other resources to be significant if the university makes them generally available to the university community, provided that such use is not in excess of the amount normally provided.
+Decisions regarding whether use of resources is significant shall be determined by the dean(s) of the author’s/inventor’s college, or by the dean’s designee.
+Trade Secret means information for which the owner has taken reasonable measures to keep secret and the information itself has independent actual or potential economic value that is not readily known to the public. A Trade Secret can include, but is not limited to, Inventions, Original Works of Authorship, Computerware, data, and/or other information.
+Unit means, without limitation, college, department, administrative unit, group, center or institute.
+
+Copyright or patent protection alone may be inadequate for Computerware and certain other information and materials. For this reason, computer software, firmware, and databases owned or controlled by the university shall be maintained as Trade Secrets of the university until released by the University Treasurer upon recommendation by the Provost or the Provost’s designee. In addition, the Provost or the Provost’s designee may identify other materials or classes of materials to be treated as Trade Secrets. Faculty, staff and students who create information and/or materials subject to this section with Significant Use of University Resources or pursuant to an agreement allowing the university to own such information and/or materials hereby assign their entire right, title and interest in such information and/or materials to the university. Where any material is to be treated as a Trade Secret, the following steps shall be taken to protect such status:
+a. The materials and any copies thereof shall be physically secured against access by unauthorized individuals;
+b. Access to the material and any copies thereof shall be limited to designated individuals who shall be as few as possible and who shall be instructed and obligated to protect any such Trade Secret status; and
+c. The material and any copies thereof shall bear a notice as follows: “This material is confidential and proprietary to Northeastern University. Access to this material is limited to authorized individuals. Use, reproduction, or disclosure is prohibited unless authorized in writing by the university.”
+2. Requests for release of Trade Secrets of the university shall be communicated to and reviewed by the Provost or the Provost’s designee. If release is authorized, the principal investigator or other faculty member directing the research in the course of which computer databases, software, firmware, or other trade secrets are developed, may permit their distribution subject to conditions which protect their commercial value and are consistent with any grants or contracts under which such works are developed. Databases so released may be publicly accessed (except in cases where confidential information or privacy considerations are involved, such as student, personnel, and patient records) so long as substantial copying is prevented.
+3. It should be noted that software, firmware, databases, and other Trade Secrets may be provided to the university from outside sources under conditions restricting their use or disclosure. Individuals authorized to access such materials shall treat them as required by the terms under which such Trade Secrets are provided to the university.
+4. Distribution of Net Licensing Revenue
+i. Net Licensing Revenue derived from licesnsed Trade Secrets and paid to the university, shall be distributed as follows:
+I. Thirty percent (30%) directly to the inventor/author/originator of the Trade Secret, or divided equally among multiple inventor/author/originators, unless the such persons provide the university with an alternative revenue distribution of the designated percentage, as agreed upon by them;
+II. Thirty percent (30%), but not in excess of $100,000.00 per year, divided equally between direct support to the inventor/author/originator for the individual’s research and to such individual’s Unit to foster research in the Unit. If distribution of this thirty percent (30%) would otherwise be greater than $100,000.00 per year, the inventor/author/originator and the head of that individual’s Unit shall negotiate with the Provost or the Provost’s designee regarding distribution in excess of that amount between support of the indvidual’s research and Unit. If there are multiple individuals associated with different Units, the license revenue distribution to the Units shall be to the Units jointly to be divided equally, unless the university is provided with an alternative royalty distribution of the designated amount as agreed upon by the heads of the respective Units and the Office of the Provost; and
+III. Forty percent (40%) to the Provost’s Office and the university’s general operating funds.
+IV. If the inventor/author/originator’s employment by the university ends for any reason, that individual’s share of the distribution for direct support of research shall be redistributed, five percent (5%) to the Unit and ten percent (10%) to the Provost’s Office and the university’s general operating funds.
+V. In the event a Unit ceases to exist, the distribution of the Unit’s funds shall be determined by the Senior Vice President for Administration and Finance upon recommendation of the Provost or the Provost’s designee.
+
+b. If the university has entered into an agreement with a third party concerning the disposition of rights to any Trade Secret arising from research financially supported by such party, the distribution of Net Licensing Revenue received from any Trade Secrets based on said research will be governed by the terms of such agreement.
+c. With respect to distributions of Net Licensing Revenue made by the university, the university shall make Net Licensing Revenue distributions in accordance with this policy unless directed otherwise by a court order, and the university shall be held harmless against good faith payment of Net Licensing Revenue made in accordance with this Policy on Trade Secrets.
+d. Net Licensing Revenue shall be disbursed on or about the close of the university’s fiscal year.
+
+
+
+
+A. Employment Agreements
+The university may require faculty, staff, or students to sign agreements implementing this policy as a condition of employment or as a condition of participation in a sponsored project controlled by a written agreement, as may be necessary to comply with the terms of such written agreement, or to establish record title in Trade Secrets owned by the university
+
+N/A
+
+Center for Research Innovation
+Tel: (617) 373 8810
+Email: CRI@Northeastern.edu
+
+Office of the General Counsel
+Tel: (617) 373 2157
+Email: office_of_the_general_counsel@northeastern.edu
+
+Responsible Office/Department(s)
+Center for Research Innovation (CRI)
+Related Policies
+Policy on Copyright (USA)
+Policy on Copyright (CAN)
+Policy on Patents (USA)
+Policy on Patents (CAN)
+
+Related Procedures
+N/A
+Supersedes
+Faculty Handbook section entitled “Patent and Copyright”
+Keywords
+Author; Authorship; Invention; Inventor; Research License; Licensing; Grant; Trade Secret; Sponsor
+Version History
+Last Revision Date: N/A
+Issued: September 7, 2023

@@ -1,0 +1,34 @@
+Policy 408: Policy on Form I-9 Employment Eligibility Verification & E-Verify
+
+Updates to Northeastern University’s Covid-19 Virtual I-9 Protocol can be viewed on the university’s Covid-19 Policies and Protocols webpage here.
+
+This policy is to provide guidance on complying with United States immigration laws, which require employers to verify the identity and employment authorization of individuals hired for employment in the United States. The university must complete and retain a Form I-9 for each employee, and refrain from discriminating against individuals on the basis of national origin or citizenship status. This policy applies to all employees hired to work in the United States, including faculty, staff, part-time, temporary and student employees.
+Effective February 2009, the university is an E-Verify employer for all newly hired employees. Effective May 2010, the university is also an E-Verify federal contract employer for current employees who are working on/assigned to federal contracts with the Federal Acquisition Regulation (FAR) E-Verify clause.
+
+Form I-9 is an employment eligibility verification form that is required to be completed for all employees hired in the United States after November 6, 1986.
+E-Verify is an internet-based system of the U.S. Department of Homeland Security that compares information entered from an employee’s completed Form I-9 to data from U.S. Department of Homeland Security and Social Security Administration records to confirm an employee’s identity and eligibility to work in the United States.
+Assignment to a federal contract is defined at the university as receiving payment from a contract, except for senior personnel listed on a contract who are automatically assigned as working on a contract regardless of payment and the contract award effective date is used to determine assignment date.
+
+Federal law requires the university to verify that all employees are eligible to work in the United States. Accordingly, a Form I-9 and E-Verification must be completed by all employees within the time periods provided by applicable laws. The Form I-9 and E-Verify process cannot be completed until after an offer has been extended and accepted. Newly hired employees must complete and sign Section 1 of the Form I-9 after acceptance of the offer of employment but no later than the first day of employment. Thereafter, every employee must provide appropriate documentation that establishes identity and employment authorization within three business days of the first day of employment. An employee who fails to provide appropriate Form I-9 documentation within the three-day period cannot continue to work at the university.
+The university designee must also certify Section 2 of the Form I-9 and prepare the E-Verify case report within three business days of the employee’s first day of employment.
+Current employees who are working on/assigned to federal contracts with the FAR E-Verify clause must be E-Verified by the appropriate university designee, unless exempt, within 90 calendar days after the date of award or 30 calendar days of the employee’s assignment to the contract, whichever is later.
+If the employee requires a reverification of employment authorization and is unable to present documentation on or before the employment authorization expiration date, the employee cannot continue to work.
+
+Form I-9s for all employees must be retained for either three years after the date of hire or one year after the employment ended, whichever is later.
+
+Human Resources Customer Service Center: 250 Columbus Place; 617-373-2230; hrinfo@northeastern.edu
+Office of Student Employment, Graduate Assistantships and Fellowships; 617-373-3190; seioi9help@northeastern.edu
+Responsible Office/Department(s)
+Human Resources
+
+Related Policies
+N/A
+Related Procedures
+N/A
+Supersedes
+N/A
+Keywords
+I-9 Verification; E-Verify; Form I-9; FAR E-Verify
+Version History
+Last Revision Date: June 21, 2021
+Issued: October 1, 2013

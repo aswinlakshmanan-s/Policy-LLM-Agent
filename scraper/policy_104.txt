@@ -1,0 +1,589 @@
+Policy 104: Policy on Sexual and Gender-Based Harassment and Title IX
+
+
+I.Purpose-and-Scope
+
+II. Definitions
+A. Title IX Prohibited Offenses
+B. SGBH Prohibited Offenses
+III. Policy
+A. Title IX Coordinator
+B. Employee Responsibilities
+C. Reporting Options
+1. Reporting to OUEC 2. Reporting to Law Enforcement 3. Confidential Resources
+D. Supportive Remedial and Protective Measures
+E. Emergency Removal and Administrative Leave
+F. Formal Complaints
+1. Formal Complaints Filed by the Title IX Coordinator 2. Dismissal of Formal Complaints 3. Appeal of Dismissal of Formal Complaints
+G. University and Law Enforcement Investigations
+H. Resolution Option
+1. Informal Resolution 2. Formal Resolution 3. Timeframe for Completion of Resolution Procedures
+I. Sanctions
+1. Student Respondents 2. Employee Respondents 3. Third Party Respondents
+J. Truthfulness and Participation in the Investigatory and Adjudication Processes K. Privacy and Confidentiality L. Impartiality M. Advisors N. Standard of Review O. Amnesty for Alcohol, Marijuana and other Drugs P. Record Retention Q. Pregnancy or Related Conditions R. Training and Education S. Review of Trends and Effectiveness T. Statement on Academic Freedom
+IV. Additional-Information
+
+V. Contact-Information
+University Contact Information External Contact Information Responsible Office/Department(s) Related Policies Related Procedures
+VI. Appendices
+Appendix A: Additional-Definitions Appendix B: Resources Appendix C: Factors Considered in Determining Whether the Title IX Coordinator Will File a Formal Complaint
+
+Northeastern University (the “university”) is committed to providing equal opportunity to its students and employees and to eliminating discrimination when it occurs. In furtherance of this commitment, the university prohibits discrimination and harassment based on protected characteristics as identified in the university’s Policy on Nondiscrimination and Equal Opportunity.
+
+In accordance with this Policy, the university specifically prohibits Sexual Harassment as defined by Title IX, which includes Quid Pro Quo Sexual Harassment, Hostile Environment Sexual Harassment, Sexual Assault, Dating Violence, Domestic Violence, and Stalking on the basis of sex in an education program or activity (“Title IX Prohibited Offenses”). The university also prohibits other forms of sexual and gender-based misconduct, including Sexual Exploitation, Gender-Based Harassment, Sex-Based Discrimination, Failure to Comply and Retaliation under this Policy (“Sexual or Gender-Based Prohibited Offenses”) (collectively, “Prohibited Offenses”).
+
+This Policy articulates how the university will respond to reports of conduct prohibited by this Policy and take prompt action to eliminate such conduct, prevent its recurrence, and remedy adverse effects in Northeastern’s education programs and activities, including, as appropriate, by way of the resolution procedures associated with this Policy, consistent with applicable laws, including Title IX of the Education Amendments of 1972 (“Title IX”), the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, and the Violence Against Women Reauthorization Act of 2022. This Policy also provides a consolidated statement of the rights and responsibilities of university community members and describes how individuals may report allegations of conduct prohibited by this Policy to the university.
+
+This Policy applies to members of the university community, including students, faculty, staff, volunteers, guests, alumni, and third parties who are participating in or attempting to participate in Northeastern’s education programs or activities, including admission and employment.
+
+Vendors and contractors serving the university are subject to the policies and procedures of their employers. When a Respondent under this Policy is an employee of a vendor or contractor, the university will collaborate with the vendor or contractor to address the alleged Prohibited Offense consistent with the company’s policies as well as the university’s obligations under this Policy.
+
+Similarly, the university will assist and support a student or employee Complainant who experiences discrimination while on a co-op or in other academic or work environments external to the university where policies and procedures of the host organization may give the Complainant recourse. If effects of such external conduct impact a student or employee’s work or educational environment, the university often can seek to address those effects if a report is filed with the university.
+
+The university prohibits the conduct defined below under this Policy.
+Federal regulations for the implementation of Title IX provide detailed rules for addressing Formal Complaints about some types of sexual harassment. A Formal Complaint about conduct that falls within Title IX’s definition of Sexual Harassment, which includes Quid Pro Quo Sexual Harassment, Hostile Environment Sexual Harassment, Sexual Assault, Dating Violence, Domestic Violence, Stalking, and Retaliation (“Title IX Prohibited Offenses”) may be addressed using the university’s Informal or Formal Resolution Procedures for Title IX Prohibited Offenses involving Student and Employee Respondents when the alleged conduct occurred in the United States and:
+In the University’s education programs and activities, including but not limited to research, the admission and employment processes, and university co-curricular, athletic, or other programs. This includes conduct that occurs in locations, events, or circumstances, including online conduct, in which the University exercises substantial control over both the Respondent and the context in which the conduct occurred; or In any building owned or controlled by a university-recognized student organization. This does not include buildings owned or controlled by individual members of a recognized student organization or off-campus buildings used, but not owned or controlled, by a recognized student organization.
+In the University’s education programs and activities, including but not limited to research, the admission and employment processes, and university co-curricular, athletic, or other programs. This includes conduct that occurs in locations, events, or circumstances, including online conduct, in which the University exercises substantial control over both the Respondent and the context in which the conduct occurred; or
+In any building owned or controlled by a university-recognized student organization. This does not include buildings owned or controlled by individual members of a recognized student organization or off-campus buildings used, but not owned or controlled, by a recognized student organization.
+Title IX Prohibited Offenses do not apply to conduct alleged by Third Party Complainants against university community members.
+In addition to Title IX Prohibited Offenses, this Policy also prohibits other kinds of sexual and gender-based harassment and misconduct, as described below. All other conduct prohibited by this Policy, including Sexual or Gender-Based Prohibited Offenses and conduct that occurs outside the context of a university education or research program or activity or employment, but which nonetheless creates a hostile environment in a university program or activity, will be addressed using the university’s Sexual and Gender-Based Harassment (“SGBH”) Informal or Formal Resolution Procedure.
+
+A. Title IX Prohibited Offenses
+Sexual Harassment means conduct on the basis of sex that satisfies one or more of the following:
+a. An employee or other community member of the university conditioning the provision of an aid, benefit, or service of the university on an individual’s participation in unwelcome sexual conduct (quid pro quo sexual harassment);
+b. Unwelcome conduct determined by a reasonable person standard to be so severe, pervasive, and objectively offensive that it effectively denies a person equal access to the university’s education program or activity (hostile environment sexual harassment); or
+c. Any of the other Title IX Prohibited Offenses, as defined below.
+
+The term “effectively denies” does not require a Complainant to be entirely or physically excluded from educational opportunities and may be established when the conduct so undermines and detracts from the Complainant’s educational experience that access is effectively denied.
+In evaluating whether the unwelcome conduct is so severe, pervasive, and objectively offensive that it effectively denies a person equal access, the university uses a reasonable person standard that takes into account the totality of known circumstances in a particular situation, including but not limited to:
+The frequency, nature, and severity of the conduct; The age, disability status, and other characteristics of the parties; Whether the conduct was physically threatening; The effect of the conduct on the Complainant’s mental or emotional state; and Whether the conduct unreasonably interfered with the Complainant’s educational or work performance and/or university programs or activities.
+The frequency, nature, and severity of the conduct;
+The age, disability status, and other characteristics of the parties;
+Whether the conduct was physically threatening;
+The effect of the conduct on the Complainant’s mental or emotional state; and
+Whether the conduct unreasonably interfered with the Complainant’s educational or work performance and/or university programs or activities.
+Sexual Assault means any sexual act directed against another person, without the consent of the Complainant, including instances where the Complainant is incapable of giving consent. This includes the penetration, no matter how slight, of the vagina or anus, with any body part or object, or oral penetration by a sex organ of another person, without consent. This also includes any intentional touching of the private body parts of another person for the purpose of sexual gratification, without consent.
+Sexual Assault includes the following conduct:
+a. Rape: The carnal knowledge of a person, without the consent of the Complainant, including instances where the Complainant is incapable of giving consent because of their age or because of their temporary or permanent mental or physical incapacity.
+b. Sodomy: Oral or anal sexual intercourse with another person, without the consent of the Complainant, including instances where the Complainant is incapable of giving consent because of their age or because of their temporary or permanent mental or physical incapacity.
+c. Sexual Assault with an Object: To use an object or instrument to unlawfully penetrate, however slightly, the genital or anal opening of the body of another person, without the consent of the Complainant, including instances where the Complainant is incapable of giving consent because of their age or because of their temporary or permanent mental or physical incapacity.
+d. Fondling: The touching of the private body parts, such as breasts, buttocks, groin, genitals, or the clothing covering them, of another person for the purpose of sexual gratification, without the consent of the Complainant, including instances where the Complainant is incapable of giving consent because of their age or because of their temporary or permanent mental incapacity. Fondling also includes forcing or coercing another person to touch themselves or someone else with or on someone’s breasts, buttocks, groin, genitals, or the clothing covering them.
+e. Incest: Nonforcible sexual intercourse between persons who are related to each other within the degrees wherein marriage is prohibited by law.
+f. Statutory Rape: Unforced sexual intercourse with a person who is under the statutory age of consent in the jurisdiction where the sexual intercourse took place.
+Dating Violence: means the use, attempted use, or threatened use of physical force against a person or property of another committed by a person:
+a. who is or has been in a relationship of a romantic or intimate nature with the Complainant; and
+b. where the existence of such a relationship shall be determined based on a consideration of the following factors:
+i. The length of the relationship;
+ii. The type of relationship;
+iii. The frequency of interaction between the persons involved in the relationship.
+4. Domestic Violence: means the use, attempted use, or threatened use of physical force against a person or property of another:
+a. by a current or former spouse or intimate partner of the Complainant,
+b. by a person with whom the Complainant shares a child in common,
+c. by a person who is cohabitating with or has cohabitated with the Complainant as a spouse or intimate partner, or
+d. by a person similarly situated to a spouse of the Complainant under the family violence laws of the jurisdiction in which the allegation takes place.
+
+Stalking: means engaging in a course of conduct directed at a specific person that would cause a reasonable person to fear for their safety or the safety of others or to suffer substantial emotional distress.
+“Course of conduct” means two or more acts, including, but not limited to, acts in which a person follows, monitors, observes, surveils, or threatens someone, conducted in person directly, indirectly, or through third parties, or by mail, phone, electronically, or social media.
+“Substantial emotional distress” means significant mental suffering or anguish that may, but does not necessarily require, medical or other professional treatment or counseling.
+
+Retaliation: means intimidation, threats, coercion, or discrimination against a person by the university, a student, or employee for the purpose of interfering with any right or privilege secured by this Policy, or because the person has engaged in a process identified in this Policy, including:
+making a good faith report, filing a Formal Complaint, serving as a witness, assisting, or participating or refusing to participate (except as required for employees) in any manner in an investigation, adjudication or resolution procedure under this Policy, including an Informal Resolution procedure, or in any other appropriate steps taken by the university to promptly and effectively end any Prohibited Offense in its education program or activity, prevent its recurrence, and remedy its effects.
+making a good faith report,
+filing a Formal Complaint,
+serving as a witness,
+assisting, or participating or refusing to participate (except as required for employees) in any manner in an investigation, adjudication or resolution procedure under this Policy, including an Informal Resolution procedure, or in any other appropriate steps taken by the university to promptly and effectively end any Prohibited Offense in its education program or activity, prevent its recurrence, and remedy its effects.
+
+Retaliation does not include good faith actions lawfully pursued in response to a report of Prohibited Offenses.
+B. SGBH Prohibited Offenses
+The definitions listed above for Stalking and Retaliation under Title IX Prohibited Offenses also apply for allegations of SGBH Prohibited Offenses when the allegations fall outside of the Title IX jurisdiction.
+Sexual Harassment means conduct on the basis of sex that satisfies one or more of the following and does not fall within the definition of Sexual Harassment under Title IX as outlined in Section II.A:
+a. An employee or other community member of the university conditioning the provision of an aid, benefit, or service of the university on an individual’s participation in unwelcome sexual conduct (quid pro quo sexual harassment); and/or
+b. Unwelcome conduct determined by a reasonable person standard to be so severe, pervasive, and objectively offensive that it creates a hostile environment.
+Domestic Violence means the intentional infliction of physical, sexual, or psychological harm on a current or former partner or spouse that does not fall within the definition of Domestic Violence under Title IX as outlined in Section II.A.
+Gender-Based Harassment includes harassment based on gender, gender identity, gender expression, sexual orientation or pregnancy/pregnancy related conditions that has the effect of creating a hostile living, learning, or working environment.
+Sexual Assault consists of Sexual Contact and/or Sexual Intercourse that occurs without Consent and does not fall within the definition of Sexual Assault under Title IX as outlined in Section II.A.
+a. Non-Consensual Sexual Contact is any intentional touching of a sexual nature performed by a person upon another person, without the consent of all parties involved, including:
+i. the intentional touching of the intimate body parts of another, such as breasts, buttocks, groin, genitals, or the clothing covering them, or
+ii. forcing or coercing another person to touch another or themselves with or on someone’s breasts, buttocks, groin, genitals, or the clothing covering them.
+b. Non-Consensual Sexual Intercourse is:
+i. any actual or attempted oral, anal, or vaginal penetration, however slight, by an inanimate object, penis, or other bodily part without the consent of all parties involved, or
+ii. forcing or coercing another person to penetrate someone else.
+Sexual Exploitation: means when a person(s) takes non-consensual sexual advantage of another, for any purpose. Sexual Exploitation includes but is not limited to:
+a. Inducing Incapacitation for the Purpose of Sexual Activity: Providing drugs, alcohol, or other substances to a person with or without their knowledge, with the intent to impair their ability to withhold consent or their ability to knowingly consent to sexual activity.
+b. Photographing or Video/Audio Taping of Sexual Activity: The intentional viewing, filming, photographing, and/or recording in any manner or by any means transmitting and/or disseminating any recording of any type of sexual acts, partial or full nudity, and/or related materials, sounds, or images of another person without the consent of all parties involved.
+c. The distribution of images, including video or photograph, or audio of another person’s sexual activity or private body parts, if the individual distributing the images or audio knows or should have known that the person depicted in the images or audio did not consent to the disclosure.
+d. Creating or disseminating synthetic media, including images, videos, or audio representations of individuals engaging in sexual acts or conduct that never happened, or placing identifiable real people in fictitious pornographic or nude situations without their consent (i.e., Deepfakes).
+e. Creating or disseminating images or videos of child sexual abuse
+f. Voyeurism: The act of intentionally observing, spying on or listening to a person(s) involved in sexual activity or in any state of undress, in a place where that other person would have a reasonable expectation of privacy, without that person’s consent. Voyeurism also occurs when an individual allows others to observe this behavior without the consent of all parties involved.
+g. The prostituting of another person.
+h. The trafficking of another person, defined as the inducement of a person to perform a commercial sex act, or labor or services, through force, fraud, or coercion.
+
+Sex-based discrimination: means inequitable treatment with respect to a person’s employment or participation in an education program or activity that:
+a. Is based, in whole or in part, upon the person’s actual or perceived sex or gender, including gender identity, gender expression, sexual orientation or pregnancy/pregnancy related conditions;
+b. Adversely affects a term or condition of the person’s employment or participation in a university program or activity; and
+c. Does not fall within the scope of any of the Prohibited Offenses defined above.
+
+Failure to Comply/Process Interference refers to any of the following:
+a. Intentional failure to comply with the reasonable directives of university officials in the performance of their official duties, including with the terms of a No Contact Order issued related to an alleged violation of this Policy
+b. Intentional failure to comply with Emergency Removal conditions
+c. Intentional failure to adhere to the terms of an agreement achieved through an Informal Resolution
+d. Intentional failure to comply with Mandatory University Reporting duties as defined in this Policy
+e. Intentional interference with an OUEC Resolution Procedure, including but not limited to:
+i. Destruction or concealing of evidence
+ii. Actual or attempted solicitation of knowingly false testimony or providing false testimony or evidence
+iii. Intimidating or bribing a witness or party
+
+Other definitions applicable in this Policy and the Informal and Formal Resolution Procedures are included in Appendix A.
+The university does not discriminate on the basis of sex and prohibits sex discrimination in its education programs and activities, including in admissions and employment, as required by Title IX, its regulations, and other federal, state, and provincial laws. The university is committed to maintaining a safe and respectful learning, living, and working environment for all members of the university community free from sex discrimination.
+The university will take prompt and equitable action to resolve Formal Complaints of Prohibited Offenses using the university’s Formal and Informal Resolution Procedures, as appropriate.
+
+A. Title IX Coordinator
+The University’s Title IX Coordinator, with the assistance and support of designees, is responsible for coordinating the university’s compliance with federal, state, provincial, and local civil rights laws and regulations related to discrimination, harassment, and retaliation. The Title IX Coordinator leads the university’s efforts related to compliance with Title IX, reviewing and resolving complaints of Prohibited Offenses, delivery of related training and education, and the assessment of the university’s effectiveness in responding to and remedying the effects of Prohibited Offenses. Because the Title IX Coordinator may designate any qualified person to assume or assist in performing the Title IX Coordinator’s duties under this Policy, where the Policy identifies a specific role of the Title IX Coordinator, such provision should be read with the understanding that the role may be performed by any of the Title IX Coordinator’s designees.
+The Title IX Coordinator oversees the Office for University Equity and Compliance (OUEC). The OUEC is responsible for reviewing and resolving allegations of Prohibited Offenses, as defined in this Policy. No other university individual, office, group, club, organization or community member has investigative authority unless authorized by OUEC.
+The Title IX Coordinator may be contacted as follows:
+Title IX Coordinator: Mark Jannoni
+Email: ouec@northeastern.edu
+Phone: 617.373.4644
+Address: 360 Huntington Ave, 125 Richards Hall, Boston, MA 02115
+
+B. Employee Responsibilities
+University employees, except Confidential Employees (whose positions are identified in Appendix B, are Mandatory University Reporters and are obligated to immediately report information they receive about potential Prohibited Offenses to the OUEC. OUEC will offer support resources, pathways towards a resolution through the university and/or options to report crimes to law enforcement.
+
+C. Reporting Options
+
+1. Reporting to OUEC
+Northeastern strongly encourages any individual who has experienced, observed, or has knowledge of a Prohibited Offense to report to the Title IX Coordinator through OUEC. Reporting conduct that may constitute Prohibited Offenses to the Title IX Coordinator does not necessarily obligate the reporter to participate in any subsequent proceedings, nor is such participation required for an individual to request and receive Supportive Measures. A report is not a Formal Complaint, as outlined in Section III.F, and does not require the Complainant to file a Formal Complaint. In some cases, however, such as patterns of behavior, allegations of severe misconduct, or a compelling threat to health and/or safety, the Title IX Coordinator may file a Formal Complaint to initiate a resolution process even where the Complainant has decided not to do so.
+The university strongly encourages anyone with information about a possible Prohibited Offense to report such information to the OUEC as soon as possible to facilitate an effective response. Although there is no time limit for making a report to the OUEC, it may be more difficult for the university to gather relevant and reliable evidence or to take corrective action the longer a report is delayed. If a Respondent is no longer a student, employee, or person who is participating or attempting to participate in a university program or activity at the time of the report, the university’s ability to take action against the Respondent under the Policy may be limited. In these cases, however, the university will assist a Complainant to identify and access external reporting options, if applicable, and will provide support and resources.
+The university’s preferred mechanism to report Prohibited Offenses to the Title IX Coordinator is by completing the online reporting form on the OUEC’s website. Reports may be made anonymously through this form. Anonymous reports may limit the university’s ability to investigate, respond, and provide remedies, depending on what information is shared. Measures intended to protect the community or redress or mitigate harm may be established at the discretion of the Title IX Coordinator.
+Reports can also be made to the Title IX Coordinator using the contact information listed in Section III.A.
+As soon as is practicable after receiving a report of conduct that may constitute a Prohibited Offense, an Investigator from the OUEC will contact the Complainant identified in the report to schedule an initial meeting to refer them to this Policy and review rights and support options, as described in more detail in the Informal and Formal Resolution procedures under this Policy.
+2. Reporting to Law Enforcement
+Community members impacted by or aware of possible Prohibited Offenses are strongly encouraged, but not required, to report any information about possible Prohibited Offenses directly to Northeastern University Police Department (“NUPD”) as soon as possible, regardless of where the offense took place and whether the Respondent is known to the Complainant. As Mandatory University Reporters, NUPD officers will report Prohibited Offenses to the Title IX Coordinator.
+Investigations by OUEC and criminal investigations by law enforcement, including NUPD, may proceed simultaneously as discussed below in Section III.G. Reporting a Prohibited Offense to NUPD or other local law enforcement does not commit the Complainant to future legal action.
+NUPD can be contacted at 617-373-3333 for immediate emergency assistance. For general, non-emergency inquiries and reports, call 617-373-2121.
+3. Confidential Resources
+Certain Northeastern employees are designated as Confidential Employees pursuant to this Policy. A list of confidential employee positions is provided in Appendix B. Such positions include those to whom a privilege or confidentiality applies under applicable federal or state laws, as well as certain positions that have been designated by the university as confidential for the purpose of providing services related to sex discrimination.
+Confidential Employees are not required to disclose to the Title IX Coordinator any information from reports of sex discrimination they receive from an individual while performing their Confidential Employee role.
+While Confidential Employees will maintain confidentiality under this Policy and the Resolution Procedures, they may be required to disclose personally identifiable information by law or a court order or when the reporting individual gives written consent for disclosure.
+Confidential Employees who receive notice of Prohibited Offenses within the scope of their confidential roles will timely submit anonymous information to the university for the purpose of reporting crime statistics in compliance with applicable federal and state laws.
+
+D. Supportive Remedial and Protective Measures
+The university offers reasonable and appropriate measures to protect community members who are Complainants, Respondents, and witnesses, as appropriate, and to facilitate their continued access to university education programs and activities for students and work environment for employees, while maintaining the integrity of any resolution procedure into an allegation of a Prohibited Offense. The university will inform the Complainant(s) and Respondent(s) of, and promptly provide access to, the following supportive, remedial and protective measures as appropriate:
+options for on- and/or off-campus medical, counseling, and other related services, including access to a Sexual Assault Nurse Examiner;
+options for temporary alternate housing arrangements, including immediate relocation to different university housing (students only);
+options for requesting a residential hall ban (students only);
+options for altering academic class schedules/obligations (students only);
+options for a leave of absence, if qualifications are met;
+visa and immigration assistance;
+options for altering student organization schedules/obligations;
+options for altering work schedule or job assignment;
+referral to the Employee Assistance Program (employees only);
+Emergency Removal and/or, for employee Respondents, administrative leave with or without pay);
+options for alternative transportation to the hospital or court (when possible) as well as a campus escort service;
+options for seeking assistance from local law enforcement, including safety planning, safety escorts, increased security and monitoring of certain areas of campus when possible and as deemed appropriate by the Title IX Coordinator;
+options for seeking disciplinary action against a Respondent who is a Northeastern community member;
+options for receiving a university No Contact Order;
+options for seeking a Judicial Harassment Protection Order or a Restraining Order; and
+any other actions deemed appropriate by the Title IX Coordinator.
+Additionally, if the Title IX Coordinator determines that a report of Prohibited Offenses reveals involvement of a recognized student club or organization, the Title IX Coordinator will consult with appropriate university officials regarding any appropriate interim university action pending outcome of a university investigation, including, but not limited to, training or prevention programs or modification of status, or interim suspension.
+The above supportive, remedial and protective measures may be temporary or permanent and are available to Complainants even if they do not wish to participate in a resolution procedure through the OUEC or criminal investigation of the alleged Prohibited Offense. Except under extraordinary circumstances as determined by the Title IX Coordinator, the university does not provide protective and remedial measures to Third Parties.
+The parties may timely request modification or reversal of the university’s decision to provide, deny, modify, or terminate supportive measures applicable to them. A request to do so should be made in writing to the Title IX Coordinator. An impartial employee other than the employee who implemented the supportive measures, who has authority to modify or reverse the decision, will determine whether to provide, deny, modify, or terminate the supportive measures if they are inconsistent with the definition of supportive measures under this Policy. The university will also provide the parties with the opportunity to seek additional modification or termination of supportive measures applicable to them if circumstances change materially. The university typically renders decisions on supportive measures within seven (7) business days of receiving a request and provides a written determination to the impacted party.
+The OUEC will maintain the confidentiality of the supportive measures to the extent that maintaining such confidentiality does not impair the OUEC’s ability to provide those supportive measures.
+E. Emergency Removal and Administrative Leave
+Emergency Removal is the process for removing a student Respondent from the university’s education program or activity or an employee Respondent from their employment, partially or entirely, on an emergency basis. The university will conduct an individualized safety and risk analysis to determine whether there exists an immediate threat to the health and safety of a Complainant or any student, employee, or other individual arising from the allegations of the Prohibited Offense(s). When Respondents are removed through this process, the university will provide the Respondent with notice of the Emergency Removal through their university email. This notice will include Respondent’s opportunity to appeal the decision within five (5) business days of the date the notice was sent, absent extenuating circumstances. The procedures for an Emergency Removal are detailed here.
+The university may also place employees on administrative leave with or without pay pending the outcome of any investigative process, as deemed appropriate by the university.
+F. Formal Complaints
+A Formal Complaint is a document filed and signed by a Complainant or signed by the Title IX Coordinator alleging a Prohibited Offense against a Respondent and requesting that the university initiate either a Formal or Informal Resolution procedure. A Formal Complaint filed by a Complainant must have the Complainant’s physical or digital signature, or otherwise indicate that the Complainant is the person filing the Formal Complaint.
+A Formal Complaint is separate from a report. After a Formal Complaint has been filed by the Complainant or Title IX Coordinator, OUEC will commence the appropriate resolution procedure.
+For the purposes of allegations of Title IX Prohibited Offenses, at the time of filing a Formal Complaint, a Complainant must be participating in or attempting to participate in the education program or activity of the university. For the purposes of allegations of SGBH Prohibited Offenses, Third Party Complainants may file a Formal Complaint with the OUEC. In cases where a student Complainant was participating in or attempting to participate in an education program or activity of the university at the time of the incident and during the University resolution process, but leaves the University prior to the hearing process, the Complainant may choose to participate fully as a student Complainant would.
+If a Complainant pursues a Formal Complaint for an alleged Prohibited Offense, Respondent will receive a Notice of Allegations which includes the identity of the Complainant, if known. Accordingly, if the OUEC knows a Complainant’s identity at the time a Formal Complaint is filed, the Title IX Coordinator will not be able to honor a Complainant’s request to remain anonymous while pursuing a Resolution Option under this Policy.
+Although the university is not able to honor requests for anonymity with respect to Formal Complaints, the Title IX Coordinator will notify the Complainant if the university intends to proceed with a Formal or Informal Resolution Process in the Complainant’s absence, and the possibility that during the investigation, the Complainant’s identity may have to be disclosed to individuals who may have relevant information regarding the allegation. The university will also take immediate steps to provide Complainant with supportive, remedial and protective measures, as described in this Policy, as appropriate.
+The university reserves the right to consolidate Formal Complaints of Prohibited Offenses against more than one Respondent, or by more than one Complainant against one or more Respondents, or by one party against another party, when the allegations of Prohibited Offenses arise out of the same facts or circumstances.
+
+1. Formal Complaints Filed by the Title IX Coordinator
+If a Complainant chooses not to file a Formal Complaint against a Respondent or withdraws any or all of the allegations in a Formal Complaint, and in the absence or termination of an Informal Resolution Procedure, the Title IX Coordinator will offer supportive measures and determine whether to initiate a Formal Complaint. To make this determination, the Title IX Coordinator will refer the matter to the Title IX Coordinating Committee for assessment. The Title IX Coordinating Committee will review the facts available to determine if there is a potential hostile environment in a university education program or activity, a threat to the health or safety of the Complainant or other person, or if the University cannot provide equal access based on sex to its education program or activity without initiating a Formal Complaint. In making this determination, the Title IX Coordinating Committee will review the allegations of Prohibited Offenses and consider the non-exhaustive factors listed in Appendix C to determine whether the Title IX Coordinator will file a Formal Complaint.
+The Title IX Coordinator will notify the Complainant if a determination is made to proceed with a Formal Resolution Procedure and explain the Complainant’s right to participate or not participate in the investigation or in any other actions undertaken by the university.
+When the Title IX Coordinator signs a Formal Complaint, the Title IX Coordinator is not a Complainant or otherwise a party of the Formal Resolution Procedure.
+2. Dismissal of Formal Complaints
+The Title IX Coordinator may dismiss a Formal Complaint when:
+The conduct alleged in the Formal Complaint, if proved, would not constitute a Prohibited Offense as defined in this Policy;
+The university is unable to identify the Respondent after taking reasonable steps to do so; or
+The Respondent is not participating in the university’s education program or activity or is not employed by the University; or
+The Complainant voluntarily withdraws any or all allegations in the Formal Complaint and the Title IX Coordinator declines to initiate a Formal Complaint.
+Before dismissing the Formal Complaint, the university will make reasonable efforts to clarify the allegations with the Complainant.
+Upon any dismissal, the OUEC will promptly notify the Complainant in writing of the basis for the dismissal. If the dismissal of a Formal Complaint occurs after the Respondent has received notice of the allegations, the OUEC will also notify the Respondent of the dismissal.
+When a Formal Complaint is dismissed, OUEC will:
+Offer supportive measures to the Complainant and Respondent as appropriate; and
+Take other prompt and effective steps, as appropriate, through the Title IX Coordinator to ensure that a Prohibited Offense does not continue or recur within the university’s education program or activity.
+3. Appeal of Dismissal of Formal Complaints
+The Complainant may appeal a dismissal of their Formal Complaint. The Respondent may also appeal the dismissal of the Formal Complaint if dismissal occurs after the Respondent has received notice of the allegations. All appeals of dismissals of Formal Complaints must be filed with the Title IX Coordinator within two (2) business days of the notification of the dismissal. The appeal must specify the grounds for appeal and include supporting evidence regarding the basis for the appeal. The grounds for an appeal of a dismissal of a Formal Complaint are limited to:
+Procedural irregularity that would change the outcome;
+New evidence that would change the outcome and that was not reasonably available when the dismissal was decided; and/or
+The Title IX Coordinator, Investigator, or Decision-Maker had a conflict of interest or bias for or against Complainant or Respondent that would change the outcome.
+The Title IX Coordinator will assign a Dismissal Appeal Officer who did not take part in any resolution procedure in this Policy for the allegations or dismissal of the Complaint. The Dismissal Appeal Officer will notify the Parties of any appeal of the dismissal of the Formal Complaint. If the Complainant appeals, but the Respondent was not yet notified of the Formal Complaint, the Dismissal Appeal Officer may then provide the Respondent with a notice of the allegation and may notify the Respondent of the Complainant’s appeal with an opportunity to respond. The Dismissal Appeal Officer will provide two (2) business days for the other Party to respond to the appeal.
+Throughout the appeal process for dismissals of Formal Complaints, the Dismissal Appeal Officer will provide the Parties a reasonable and equal opportunity to make a statement in support of or challenging the dismissal and notify the Parties of the result of the appeal and the rationale for the result.
+In most cases, appeals are confined to a review of the written documentation or record of the original determination and pertinent documentation regarding the specific appeal grounds. The Dismissal Appeal Officer has five (5) business days to review and decide on the appeal, though extensions can be granted at the discretion of the Dismissal Appeal Officer, and the Parties will be notified of any extension.
+The dismissal of a Formal Complaint will only be reversed on appeal if there is a compelling justification for such reversal on the grounds described in this Policy. Otherwise, the Dismissal Appeal Officer will deny the appeal and notify the Parties and the Title IX Coordinator in writing of the rationale for the denial. If this appeal is granted, the Dismissal Appeal Officer will notify the Parties and the Title IX Coordinator in writing of the decision and rationale. The effect of a reversal on appeal will be to reinstate the Formal Complaint.
+G. University and Law Enforcement Investigations
+The OUEC will investigate allegations of Prohibited Offenses when the Respondent is a Northeastern student, faculty or staff member and a Formal Complaint is filed by a Complainant or the Title IX Coordinator.
+The Title IX Coordinator will assign one or more impartial and trained investigators to the case. The investigator(s) may be from the OUEC, the NUPD, and/or external investigator(s) selected in the university’s sole discretion. If needed, the investigator(s) may be assisted in conducting investigation functions by additional qualified individuals.
+During the investigation, the investigator will collect information from the parties and any witnesses, as appropriate. The investigative process is described in more detail in the Formal Resolution Procedures for Title IX Prohibited Offenses Involving Student Respondents, the Formal Resolution Procedures for Title IX Prohibited Offenses Involving Employee Respondents, and the Formal Resolution Procedures for SGBH Prohibited Offenses. After completion of an investigation, the university will provide each party and the party’s Advisor, if any, a written Investigative Report. The Investigative Report may reference or rely upon facts gathered by prior investigators, including but not limited to the Northeastern University Police Department, local law enforcement or external investigators.
+Investigations and any subsequent adjudicatory proceedings under this Policy may be carried out prior to, simultaneously with, or following legal proceedings, whether civil or criminal. Neither a decision by law enforcement regarding prosecution nor the outcome of any criminal or civil proceeding will be considered determinative of whether a violation of this Policy occurred. At the request of either NUPD or another law enforcement agency, the Title IX Coordinator may delay the investigation into an alleged Prohibited Offense for a reasonable period during the initial stages of a criminal investigation. In such cases, OUEC investigations will commence after law enforcement notifies the Title IX Coordinator that it has completed the initial criminal investigatory stages. Neither a decision by law enforcement regarding prosecution nor the outcome of any criminal or civil proceeding will be considered determinative of whether a violation of this Policy occurred.
+H. Resolution Options
+To provide options for pathways towards a resolution that consider the needs of students and employees involved in allegations of Prohibited Offenses, the university offers two forms of resolution for Formal Complaints of Prohibited Offenses: Informal and Formal Resolutions.
+In both the Informal and Formal Resolution Procedures, interviews may be conducted in person, via online video platforms (e.g., Zoom, Microsoft Teams, etc.), or, in limited circumstances, by telephone.
+1. Informal Resolution
+The Informal Resolution Procedure is a voluntary and remedy-driven pathway to a complaint resolution that is acceptable to the Complainant, Respondent, and the OUEC without a full university investigation and without official findings of fact.
+Possible options of an Informal Resolution may include, but are not limited to:
+Facilitated Dialogue: a structured conversation between the parties, facilitated by a third person who can assist in an agreed solution;
+Educational Conversations;
+Restorative Conferences;
+Impact statement: a letter written by the Complainant and read by the Respondent.
+Complainants and Respondents are not required to communicate directly with each other, unless requested and agreed to by all parties, including OUEC.
+The university may determine that certain forms of Informal Resolution are not appropriate given the specific facts or allegations. Additionally, if the allegation includes sexual violence that occurred in California, mediation is not allowed.
+The procedures for the Informal Resolution Procedure of reports of Prohibited Offenses are detailed here.
+2. Formal Resolution
+The Formal Resolution Procedure provides a structured process for investigating and resolving complaints that includes official findings of fact.
+The Formal Resolution Procedure includes a neutral, thorough and reliable investigation by the OUEC into the allegations articulated in the Formal Complaint to reach a determination as to whether the Respondent(s) has violated this Policy. Complainants may initiate the Formal Resolution Procedure by filing a Formal Complaint with OUEC, regardless of whether resolution under the Informal Resolution Procedure has been attempted.
+The university follows the Formal Resolution procedures detailed in the Title IX Formal Resolution Procedures regarding student Respondents, regarding employee Respondents, and SGBH Resolution Procedures, as appropriate. However, there may be circumstances that support a departure from these procedures. Should such circumstances arise, OUEC will advise the parties. If a Respondent is both a student and an employee, the Title IX Coordinator will determine which of the procedures applies based on the facts and circumstances, including which of the respondent’s roles predominates in the context of the Prohibited Offense.
+3. Timeframe for Completion of Resolution Procedures
+Both Informal and Formal Resolution Procedures will be completed in a reasonably prompt and equitable manner. The goal is to have any Resolution Procedures completed in approximately 90 days after a Formal Complaint is made. However, the specific circumstances (e.g., availability and cooperation of parties and witnesses, etc.) and complexity of each case could lead to Resolution Procedures taking longer.
+Any time frame set forth in this Policy may be extended for good cause, which may exist if additional time is necessary: to support the integrity and completeness of a resolution procedure; to comply with a request by external law enforcement for temporary delay to gather evidence for a criminal investigation; to accommodate the availability of witnesses or an advisor, within reason; to account for university and semester breaks; to account for complexities of a case, including the number of witnesses and volume of information provided by the parties; to accommodate the need for language assistance; or for other legitimate reasons. The university will update the parties verbally or in writing of any extension of this timeframe and the reason for such extension.
+I. Sanctions
+1. Student Respondents
+When a violation of this Policy is found at the conclusion of a Formal Resolution Procedure, OSCCR may impose one or more sanctions. Sanctions may include any of the sanctions that are available for violations of the university’s Code of Student Conduct, including but not limited to expulsion, suspension, deferred suspension, disciplinary probation, letter of warning, cancellation of the Residence Hall and Dining License Agreement, counseling evaluation, and other sanctions or restrictions deemed appropriate by the university to address the conduct.
+Northeastern reserves the right to delay the awarding of a degree, certificate, badge, or other credential pending the resolution of any university process resulting from a report of alleged violation of the Code of Student Conduct or the Policy on Sexual and Gender-Based Harassment and Title IX that has the potential to result in expulsion. In the instance that a student is found responsible for violating university policy, and the sanction is expulsion, the student will not be eligible to be awarded their pending credential.
+In determining the appropriate sanction(s), OSCCR will consider relevant factors including:
+The severity, persistence or pervasiveness of the Prohibited Offense;
+The nature or violence (if applicable) of the Prohibited Offense;
+The impact of the Prohibited Offense on the Complainant;
+The impact or implications of the Prohibited Offense within the university community;
+Prior misconduct by the Respondent, including the Respondent’s relevant prior disciplinary history, at the university or elsewhere, and any criminal convictions;
+Whether the Respondent has accepted responsibility for the Prohibited Offense;
+The maintenance of a safe, non-discriminatory and respectful environment conducive to learning; and
+Any other mitigating, aggravating, or compelling factors.
+A Respondent who is both an employee and student may be subject to any of the sanctions applicable to students and employees.
+2. Employee Respondents
+An employee found responsible for a Prohibited Offense will be subject to appropriate sanctions and/or disciplinary action in accordance with applicable university policies, which may include, but is not limited to, verbal and written warnings, suspension, and/or separation from the university.
+3. Third Party Respondents
+The university’s ability to take appropriate corrective action against a Third Party will be determined by the nature of the relationship of the Third Party to the university. The Title IX Coordinator will determine the appropriate manner of resolution consistent with this Policy.
+If the Respondent is a Third Party, the OUEC will offer to assist the Complainant in identifying appropriate university and local resources and support options and will implement appropriate supportive measures and/or remedial actions (e.g., trespassing a person from campus). When the Respondent is a Third Party, NUPD or local law enforcement may investigate the allegations. The university will assist the Complainant in making a report to the appropriate law enforcement agency with jurisdiction over the incident, and will provide appropriate supportive, remedial and protective measures as well as ongoing assistance to the Complainant to facilitate their participation in the criminal process.
+When the Respondent is enrolled in or employed by another institution, the OUEC can assist Complainant in contacting the appropriate individual at Respondent’s institution, as it may be possible to pursue action under that institution’s policies.
+J. Truthfulness and Participation in the Investigatory and Adjudication Processes
+Complainants and Respondents have the right, and are strongly encouraged, to meet with an OUEC investigator to provide relevant information and identify relevant witnesses.
+Complainants, Respondents and Witnesses are required to be truthful in any report or proceeding under this Policy and to follow the directions of university staff and administrators. Destroying or concealing evidence, actual or attempted solicitation of knowingly false testimony or providing knowingly false testimony or evidence is prohibited by this Policy. This provision does not apply to reports made or information provided in good faith, even if the facts alleged in the report are not later substantiated.
+Notwithstanding this requirement, Complainants and Respondents may choose to participate or not in the investigation, hearing and adjudication, if applicable, of alleged Prohibited Offenses. Those who choose not to participate in an investigation forgo their opportunity to present information and witnesses to be included in the Investigative Report, upon which potential further proceedings will be based.
+Student Witnesses and Witnesses from outside the university community are not required to participate but are encouraged to cooperate with university’s investigations and adjudication processes and to share what they know about a Formal Complaint. Witnesses may receive an excused absence from a university obligation (class, work, etc.) to participate in an Administrative Hearing.
+Parties and the Decision-Maker may request to invite Witnesses to participate in the Administrative Hearing to the extent credibility is in dispute and relevant to one or more of the allegations or to answer questions that have not previously been posed to the Witness. Parties are required to notify the Decision-Maker of their request to invite a Witness that includes their reason for the invitation at least four (4) business days prior to the Administrative Hearing. If the Decision-Maker determines that a Witness may be present at a hearing, the Decision-Maker will contact the Witness to make them aware that their participation was requested. If the Witness agrees to participate, the Decision-Maker will inform the parties of the names of Witnesses that have agreed to participate two (2) business days before the Administrative Hearing.
+While the university reserves the right to proceed with investigation, hearing, adjudication and any resulting disciplinary action in the absence of either party or any Witness, the Decision-Maker cannot draw any inference about the determination regarding responsibility based solely on a Party’s or Witness’s absence from any investigation, hearing and/or adjudication in a Formal Resolution Procedure.
+
+K. Privacy and Confidentiality
+The university will take reasonable steps to protect the privacy of parties and witnesses and will treat their information in accordance with the university’s privacy policy and Policy on Confidentiality of University Records and Information. These steps will not restrict the ability of the parties to obtain and present evidence, including by speaking to witnesses, consult with their family members, confidential resources, or Advisors; or otherwise prepare for or participate in the resolution procedures.
+All parties and Advisors are prohibited from unauthorized disclosure of evidence or a summary of evidence obtained by the university through a resolution procedure or adjudication process. All parties and Advisors are required to destroy such documents and information at the direction of the university (except for outcome letters). Disclosing documents outside of the investigation and adjudication processes or publicly disclosing another person’s personally identifiable information without authorization or consent may be considered Retaliation. Violation of this section of the Policy is subject to significant sanctions. However, this Policy does not restrict the ability of either party to discuss the allegations under investigation or their participation in procedures under this Policy.
+
+L. Impartiality
+No individual materially involved in the administration of a Resolution Process under this Policy, including the Title IX Coordinator, Investigator(s), and Decision-Maker(s), may have a conflict of interest or bias for a party generally, or for a specific Complainant or Respondent. At any time during a Resolution Procedure, the Parties may raise a concern regarding bias or conflict of interest, and the Title IX Coordinator will determine whether the concern is reasonable and supportable. If so, another official will be assigned and the impact of the bias or conflict, if any, will be remedied. If the source of the conflict of interest or bias is the Title IX Coordinator, concerns should be raised with the Senior Vice Chancellor for Student Affairs.
+
+M. Advisors
+Complainants and Respondents may choose an Advisor to provide support and guidance through the Formal and Informal Procedures under this Policy, including during interviews, meetings and hearings. The Advisor may be any person, including an attorney, who is not otherwise a party or witness involved in the resolution procedure. Advisors are not required to disclose information about Prohibited Offenses to the Title IX Coordinator without prior consent of the party. For university employees serving as Advisors, this exemption from reporting is only with respect to information received while the employee is functioning as an Advisor.
+The Complainant, Respondent and Witnesses may be accompanied by their respective Advisors at any meeting or interview related to a resolution procedure or adjudication of a report under this Policy. While Advisors may provide support and advice to the parties during the meeting or interview, they may not speak on behalf of the parties or otherwise actively participate in such meetings and/or proceedings, except as permitted in the cross-examination portion of a live hearing.
+If a party does not have an Advisor present at the live hearing, the university will provide an Advisor of the university’s choice, without fee or charge to that party, to conduct cross-examination on behalf of that party.
+An Advisor may not delay or otherwise interfere with or disrupt the investigatory and adjudication process under this Policy. Because the university’s process is not the same as a formal, external legal process, the Advisor, although they may be an attorney, does not represent the party in a legal capacity in the university’s process. Absent accommodation for a disability, a Complainant, Respondent or Witness may not be accompanied by more than one Advisor or by other individuals during meetings or interviews.
+Throughout the Formal Resolution procedure of a Formal Complaint under this Policy, all official university communications (both verbal and written) will be between the university and the parties directly. The two exceptions to this will be (1) at the conclusion of the investigative process when the Investigator shares a Draft Summary of Facts gathered during the investigation with the Complainant, Respondent and their Advisors for their review and response and (2) during the pre-hearing meeting where they review the Investigative Report. The university will not communicate with an Advisor on behalf of a party.
+For students, Advisors in the adjudication process are bound by the conditions established for Advisors within the Code of Student Conduct.
+
+N. Standard of Review
+The university utilizes a “preponderance of the evidence” standard in the adjudication of Prohibited Offenses. A preponderance of the evidence means the evidence establishes that it is more likely than not that conduct occurred in violation of the Policy.
+The burden of proof and the burden of gathering evidence sufficient to reach a determination regarding responsibility rest on the university.
+O. Amnesty for Alcohol, Marijuana and other Drugs
+
+The university seeks to remove any barriers to reporting allegations of Prohibited Offenses. Accordingly, students involved in a Resolution Procedure under the Policy will not be subject to disciplinary sanctions for alleged violations of the Code of Student Conduct related to alcohol or drug use connected to the incident unless the university determines that the report was not made in good faith or that the violation was egregious. An egregious violation shall include, but not be limited to, taking an action that places the health and safety of another person at risk.
+For students in California: If the allegation is sexual assault, domestic violence, dating violence, or stalking, a student will not be subject to disciplinary sanctions for a violation of the Code of Student Conduct at or near the time of the incident, unless the university determines that the violation was egregious, including, but not limited to, an action that places the health or safety of any other person at risk. In addition to the amnesty outlined under this policy, please see the Code of Student Conduct for additional information about Medical Amnesty Policy.
+P. Record Retention
+Records created and maintained pursuant to this Policy will be retained for a period of seven years by the OUEC.
+Records include:
+Reports and Formal Complaints of an alleged Prohibited Offense
+An articulation of the reason for an Emergency Removal, if any, and the result of any challenge
+Investigative Reports for an alleged Prohibited Offense that issues a determination regarding responsibility
+Any audio or audiovisual recording or transcript
+Documentation of any supportive measures taken
+Documentation of any remedies provided to the parties or actions designed to restore or preserve equal access to the university’s education program or activity
+Documentation of any Resolution process, including Informal and Formal, the findings and any sanction imposed on Respondent
+Any appeal and the result
+All materials used to train Title IX Coordinators, investigators, Decision-Makers, and any person who facilitates an Informal Resolution Procedure
+
+Q. Pregnancy or Related Conditions
+Upon notification of a student’s pregnancy or related condition, the Title IX Coordinator or designee will contact the student and inform the student of available resources and supports, including this Policy and resolution procedures, the availability of reasonable modifications or accommodations, as necessary, lactation space, and leaves of absence.
+Any student seeking Reasonable Modifications must contact the Title IX Coordinator or Disability Access Services to discuss appropriate and available Reasonable Modifications based on their individual needs. Students are encouraged to request Reasonable Modifications as promptly as possible. Depending on the circumstances, Reasonable Modifications may include:
+Breaks during class to express breast milk, breastfeed, or attend to health needs associated with pregnancy or related conditions, including eating, drinking, or using the restroom
+Intermittent absences to attend medical appointments
+Access to online or homebound education
+Changes in schedule or course sequence
+Time extensions for coursework and rescheduling of tests and examinations
+Allowing a student to sit or stand, or carry or keep water nearby
+Counseling
+Changes in physical space or supplies (for example, access to a larger desk or a footrest)
+Elevator access
+A larger uniform or other required clothing or equipment
+Other changes to policies, practices, or procedures determined by the Title IX Coordinator
+The university may require supporting documentation when necessary and reasonable under the circumstances to determine which Reasonable Modifications to offer and to determine other specific actions to take to ensure equal access.
+Information about pregnant students’ requests for modifications will be shared with faculty and staff only to the extent necessary to provide the Reasonable Modification.
+Students are encouraged to work with their faculty members and the university’s support systems to devise a plan for how to best address their needs as the pregnancy progresses, anticipate the need for leave, minimize the academic impact of their absence, and get back on track as efficiently and comfortably as possible. The Title IX Coordinator will assist with plan development and implementation as needed.
+Information about resources for employees experiencing pregnancy and pregnancy-related conditions is available in the university’s Policy on Pregnancy and Pregnancy-Related Conditions.
+
+R. Training and Education
+The university offers ongoing education to students and employees to promote awareness of this Policy and promoting an environment free from sex-based discrimination and Prohibited Offenses. Such education will include definitions of Prohibited Offenses and consent; best practices for risk reduction; safe and positive bystander intervention; reporting procedures and options; and information concerning rights under Title IX and other relevant laws and this Policy.
+Additionally, Decision-Makers receive training on this Policy and their responsibilities related to the resolution procedures, as well as applicable laws. Such trainings address, among other things, the impact of trauma on a Complainant’s ability to recollect specific facts and events, common examples of predatory behavior associated with Prohibited Offenses, the definition of consent, the impact of alcohol and drugs on consent, and the application of the “preponderance of the evidence” standard.
+S. Review of Trends and Effectiveness
+To assess the effectiveness of the overall university training, education, and Prohibited Offense response protocols under this Policy, the university will bi-annually survey the campus climate, community attitudes, and awareness of its student population regarding sex discrimination prohibited by this Policy. The Title IX Coordinating Committee will review the results of the annual survey and make recommendations intended to enhance the effectiveness of the university’s training and education programs, prevention efforts, investigations and adjudication proceedings.
+
+T. Statement on Academic Freedom
+The university promotes an educational and employment environment that is free of discrimination, harassment, and retaliation. This Policy is not meant to inhibit or prohibit educational content or discussions inside or outside of the classroom that include germane, but controversial or sensitive subject matters protected by academic freedom.
+The university is committed to academic freedom and supports community members to express themselves, while protecting and respecting the rights of others to learn, conduct research, and carry out the essential functions of the university free from unreasonable interference, disruption or obstruction. When addressing complaints of violations of this Policy, the university will take steps to respond appropriately while respecting the rights of academic freedom in accordance with applicable university policy.
+When speech or conduct is protected by academic freedom, university policy and/or the university’s Statement on Free Expression, it will not be considered a violation of this Policy, though supportive measures will be offered to those impacted.
+
+
+Reporting concerns of discrimination, harassment and retaliation falling outside the scope of this Policy: Reports of discrimination based on a Protected Characteristic (race, color, religion, religious creed, genetic information, age, national origin, ancestry, veteran or disability status, and other characteristics protected by law) are addressed by the university’s Policy on Nondiscrimination and Equal Opportunity. All reports of alleged discrimination can be reported to the OUEC at https://www.northeastern.edu/ouec/file-a-complaint/.
+In the event of any conflict or inconsistency between this Policy and other university policies or procedures that may relate to the same subject matter, the Title IX Coordinator will determine which policy provisions apply.
+
+University Contact Information
+Office for University Equity and Compliance – northeastern.edu/ouec
+Richards Hall #125, Boston, MA 02115
+617.373.4644 || ouec@northeastern.edu
+Northeastern University Police Department (NUPD) – northeastern.edu/police
+716 Columbus Ave, Boston, MA 02115
+Emergency: 617.373.3333 || Non-Emergency: 617.373.2121
+For campus-specific resources, visit ouec.northeastern.edu/resources/
+External Contact Information
+Concerns about the university’s application of this policy and compliance with certain U.S. federal civil rights laws may also be addressed to:
+Office for Civil Rights (OCR)
+U.S. Department of Education
+400 Maryland Avenue, SW
+Washington, DC 20202-1100
+Customer Service Hotline #: (800) 421-3481
+Facsimile: (202) 453-6012
+TDD#: (877) 521-2172
+Email: OCR@ed.gov
+Web: http://www.ed.gov/ocr
+
+For complaints involving employee-on-employee conduct:
+U.S. Equal Employment Opportunity Commission
+John F. Kennedy Federal Building
+475 Government Center
+25 Sudbury Street
+Boston, MA 02203
+Phone: (800) 669-4000
+Web: https://www.eeoc.gov/contact-eeoc
+Responsible Office/Department(s)
+Office for University Equity and Compliance
+Related Policies
+Policy on Nondiscrimination and Equal Opportunity
+Policy on Non-Fraternization
+Code of Student Conduct
+
+Related Procedures
+Informal Resolution Procedures
+Formal Resolution Procedures for Title IX Prohibited Offenses involving Student Respondents
+Formal Resolution Procedures for Title IX Prohibited Offenses involving Employee Respondents
+Formal Resolution Procedures for SGBH Prohibited Offenses
+Protocol for Emergency Removals
+
+VI. Appendices
+
+Appendix A – Additional Definitions
+Administrative Hearing is the adjudication process for cases where students or employees are the Respondent in a Formal Resolution procedure under this Policy and provides the opportunity for live cross-examination of the parties for cases involving Title IX Prohibited Offenses. The Administrative Hearing is conducted by a single Hearing Officer, who will serve as the Decision-Maker, selected from a pool of University employees and, at the discretion of the Title IX Coordinator, external professionals, who are trained to adjudicate allegations of Prohibited Offenses. If a potential violation is referred by the Title IX Coordinator to an Administrative Hearing, the Decision-Maker will review the Investigative Report and facilitate the hearing to determine whether a preponderance of the evidence establishes that a Policy violation occurred and, if applicable, determine any appropriate sanction(s). Each party has the opportunity to present a written or oral statement to the Decision-Maker and to respond to the Decision-Maker’s questions, and during a Title IX Administrative Hearing, have the party’s advisor cross-examine the other party and any witness.
+
+Advisors are described in Section III.M of this Policy.
+
+Allegation is a concern reported to the university about conduct that may constitute a Prohibited Offense.
+
+Case Manager refers to the university employee responsible for facilitating access to supportive, remedial and protective resources and measures, as listed in Section III.D of this Policy, for student Complainants and student Respondents.
+
+Charged Student means any student charged by the university with a violation of this Policy. This designation is made at the conclusion of an investigation under this policy if the Title IX Coordinator determines that the Investigative Report contains information that if true, constitutes an allegation of a Prohibited Offense. The Director of the Office of Student Conduct and Conflict Resolution or designee will notify the Charged Student of charges during a pre-hearing meeting.
+
+Coercion means the use of an unreasonable amount of pressure to initiate or continue sexual activity against an individual’s will. Coercion is more than an effort to gain consent, or persuade, entice, or attract another person to engage in sexual activity.
+
+A person subject to Coercion is unable to give Consent to sexual activity. Coercive conduct, if sufficiently severe, can render a person’s consent ineffective, because it is not voluntary. When someone makes clear that they do not want to engage in sexual activity, that they want to stop, or that they do not want to go past a certain point of sexual interaction, continued pressure beyond that point can be coercive. In evaluating whether coercion was used, the university will consider: (1) the frequency of the application of the pressure, including severe and/or pervasive intimidation, manipulation, threats, and blackmail, which causes a person to engage in unwelcome sexual activity, (2) the intensity of the pressure, (3) the degree of isolation of the person being pressured, and (4) the duration of the pressure.
+
+Complainant means a student or employee of Northeastern who is alleged to have been subjected to conduct that could constitute a Prohibited Offense under Title IX or this Policy; or a person other than a student or employee of Northeastern who is alleged to have been subjected to conduct that could constitute a Prohibited Offense under this Policy and who was participating in or attempting to participate in the university’s education program or activity at the time of the conduct.
+
+Confidential Employees are employees whose communications are privileged or confidential under the applicable law and who are not required to disclose information about Prohibited Offenses to the Title IX Coordinator without prior consent of the Reporting Party. The employee’s confidential status is only with respect to information received while the employee is functioning within the scope of their duties to which privilege or confidentiality applies. Additional information about Confidential Employees can be found in Section III.C.3 of this Policy.
+
+Confidential Employees include:
+
+1) Privileged Employees are those with confidentiality bestowed by law, such as medical professionals, and counselors (including employees within the University Health and Counseling Services (UHCS) and Counseling and Psychological Services Office (CAPS));
+
+2) Confidential Resources are those who the university has specifically designated as confidential for purposes of providing support and resources to the parties of an OUEC Resolution procedure;
+These employees include:
+The Office of Prevention and Education at Northeastern (OPEN)
+Sexual Violence Resource Center (SVRC)
+Confidential Resource Advising (CRA)
+Spiritual Advisors through the Center for Spirituality, Dialogue, and Service
+Athletic trainers
+Ombuds for Faculty and Staff
+Ombuds for Graduate Students
+
+Consent means a voluntary, affirmative agreement to engage in sexual activity proposed by another. It requires mutually understandable and communicated words and/or actions that would demonstrate to a reasonable person agreement by both parties to participate in sexual activity.
+
+Silence, a lack of resistance, previous sexual relationships or experiences and/or a current relationship, may not in and of themselves, demonstrate Consent. The initiator, or the person who wants to engage in the specific sexual activity, must obtain Consent from the partner(s) for each sexual act. Each participant may be an initiator at different points of sexual activity. If confusion or ambiguity arises during sexual activity, participants are encouraged to stop and clarify a mutual willingness to continue that activity.
+
+A person’s initiation of a sexual act constitutes Consent to that act, but not necessarily to subsequent acts. Consent to sexual activity may be withdrawn at any time and the withdrawal must be communicated in mutually understandable words and/or actions. If consent is withdrawn, sexual activity must cease immediately. Consent may never be given by minors (the relevant age of consent will be determined by the location in which the sexual activity takes place), or those who are unable to understand the who, what, when, where, why, or how of their sexual activities as a result of incapacitation due to a cognitive disability, intoxication by alcohol or other drug consumption (voluntary or involuntary), or those who are unconscious, or otherwise physically helpless.
+
+Engaging in sexual activity while under the influence of alcohol or drugs may create ambiguity for either party as to whether Consent has been sought or given. A person who has consumed alcohol and/or drugs still has a responsibility to obtain Consent for any sexual activity with another person(s). Being impaired by alcohol or other drugs is no defense to any violation of this Policy.
+
+A Decision-Maker is a member of a standing pool of trained members of the university community or, at the discretion of the Title IX Coordinator, an external professional, who facilitates the Administrative Hearing Process, oversees the process of cross-examination during Title IX live hearings and makes rulings on relevance and establishes a finding at the conclusion of the Administrative Hearing process. The Decision-Maker will not be the Title IX Coordinator or the Investigator(s) assigned to investigate the Formal Complaint.
+
+Discrimination means, for the purposes of this Policy, inequitable treatment with respect to an individual’s employment or participation in an education program or activity, based in whole or in part, upon the individual’s actual or perceived sex, pregnancy or related conditions, sexual orientation, gender expression or gender identity.
+
+Force is the use of physical violence and/or physical imposition to gain sexual access. Sexual activity that is forced is, by definition, non-consensual, but non-consensual sexual activity is not necessarily forced. Force is conduct that, if sufficiently severe, can negate consent. Force also includes threats, intimidation (implied threats), and coercion that is intended to overcome resistance or produce consent (e.g., “Have sex with me or I will hurt you.”).
+
+Formal Complaint is an allegation of Prohibited Offenses, filed in good faith and in accordance with this Policy (see Section III.F).
+
+Incapacitation means a state where someone cannot make a rational, reasonable decision because they lack the ability to understand the who, what, when, where, why, or how of their sexual activities.
+
+A person who is incapacitated is unable, temporarily or permanently, to give Consent to sexual activity because of mental or physical helplessness, sleep, unconsciousness, or lack of awareness that sexual activity is taking place. A person may be incapacitated as a result of the consumption of alcohol or other drugs, or due to a temporary or permanent physical or mental health condition.
+
+Incapacitation is a state beyond drunkenness or intoxication. A person is not necessarily incapacitated as a result of drinking alcohol or using drugs. The impact of alcohol, medication, and other drugs varies from person to person. Although every individual may manifest signs of incapacitation differently, signs could include, but are not limited to, some or all of the following:
+confusion or lack of understanding;
+disorientation to place, time and/or location;
+vomiting;
+incontinence; and/or
+unconsciousness.
+
+A person who is incapacitated may not be able to understand some, or all, of the following questions:
+“Do you know where you are?”
+“Do you know how you got here?”
+“Do you know what is happening?”
+“Do you know whom you are with?”
+
+Incapacitation is determined through consideration of all relevant indicators of a person’s state and is not synonymous with intoxication, impairment, blackout, and/or being drunk.
+For purposes of evaluating Consent, the university considers two questions:
+Did the person initiating sexual activity know that their partner was incapacitated? If not,
+Would a reasonable person in the same situation have known that their partner was incapacitated?
+If the answer to either of these questions is “yes,” Consent was absent.
+Intercourse means vaginal or anal penetration by a penis, object, tongue, or finger, and oral copulation (mouth to genital contact), no matter how slight the penetration or contact. Vaginal penetration occurs when the penis, other body part, or object touches the vulva or the labia majora, which is the outermost part of the female genital organ.
+
+Investigative Report means the written document produced by the OUEC after completion of the university’s investigation into a report of an alleged Prohibited Offense. The Investigative Report may reference or rely upon facts gathered by prior investigators, including but not limited to the Northeastern University Police Department, local law enforcement or external investigators.
+
+Mandatory University Reporter refers to any university employee (excluding Confidential Employees) who is required to immediately report allegations of Prohibited Offenses to the Title IX Coordinator. Certain student workers who assume roles which other students may reasonably believe obligate that student worker to report allegations of a Prohibited Offense will be considered Mandated University Reporters. This includes but is not limited to Resident Assistants in Residential Life, Graduate Research Assistants or Teaching Assistants.
+
+No Contact Order (NCO) is a university directive available when the university determines the severity of an incident rises to the level where continued contact between the involved community members could lead to further incidents and/or the creation of an unhealthy, unsafe, and/or hostile environment. OSCCR has authority to issue these orders to students while the OUEC has authority to issue them to employees. The terms of an NCO will be communicated via email to the community member’s Northeastern email account.
+
+For purposes of alleged Prohibited Offenses, the university will consider the specific circumstances on a case by case basis to determine whether a unilateral or mutual NCO is appropriate. Any NCO issued after a finding of responsibility has been made shall be unilateral and apply only against the party found responsible.
+
+Pattern Offenses: A pattern may exist and be investigated when there is a potential substantial similarity to incidents where the proof of one could make it more likely that the other(s) occurred, and vice-versa. Patterns may exist based on target selection, similarity of offense, or other factors. Where a pattern is found, it can be the basis to enhance sanctions.
+
+Pregnancy and Related Conditions include pregnancy, childbirth, termination of pregnancy, stillbirth, miscarriage, lactation, and medical conditions related to any of these statuses and/or recovery from any of these statuses (see Section III.Q).
+
+Privacy means the extent to which information related to a report of a Prohibited Offense will be shared. For the purposes of this Policy, information related to a report of a Prohibited Offense will be shared with limited university employees who “need to know” to assist in the assessment, investigation, and resolution of the report.
+Relevant means related to the allegations of Prohibited Offenses under investigation as part of the resolution procedures referred to in this Policy. Questions are relevant when they seek evidence that may aid in showing whether the alleged Prohibited Offense occurred, and evidence is relevant when it may aid a decisionmaker in determining whether the alleged Prohibited Offense occurred.
+Respondent means a person alleged to have committed a Prohibited Offense.
+
+Supportive Measures means individualized measures offered as appropriate, as reasonably available, without unreasonably burdening a Complainant or Respondent, not for punitive or disciplinary reasons, and without fee or charge to the Complainant or Respondent to: (1) Restore or preserve that party’s access to the university’s education program or activity, including measures that are designed to protect the safety of the parties or the university’s educational environment; or (2) Provide support during the university’s resolution procedures or during an informal resolution process. Supportive Measures are addressed further in Section III.D.
+
+Third Party refers to any individual who is not a Northeastern University student, faculty member, or staff member (e.g., vendors, alumni, students at another college or university or local residents).
+
+Title IX is a federal law that prohibits discrimination based on sex in educational institutions that receive federal financial aid.
+
+Title IX Coordinating Committee promotes a coordinated response to alleged incidents of Prohibited Offenses. Accordingly, the Committee serves in an advisory capacity to the Title IX Coordinator with respect to the university’s Title IX compliance efforts. Chaired by the Title IX Coordinator, the Committee consists of representatives from Student Life, and the Northeastern University Police Department, and is advised by the Office of the General Counsel.
+
+Violence, for purposes of this Policy, is defined as intentionally or recklessly causing the Complainant physical, emotional, or psychological harm. Legitimate use of violence for self-defense is not chargeable under this Policy because the purpose is safety, not harm. Consensual use of violence, such as in kink relationships, would also not meet this definition, in most circumstances.
+
+
+
+
+Appendix B – Resources
+The following represent some of the resources and services available to Northeastern students, faculty and staff. For additional Northeastern and off-campus resources, please visit:
+https://ouec.northeastern.edu/resources/
+
+On-Campus Resources
+
+Confidential Resources
+University Health and Counseling Services (UHCS) Email: uhcs@northeastern.edu Phone: 617-373-2772
+Email: uhcs@northeastern.edu
+Phone: 617-373-2772
+Counseling and Psychological Services Office (CAPS) Email: oakland-counseling@northeastern.edu Phone: 510-430-2111
+Email: oakland-counseling@northeastern.edu
+Phone: 510-430-2111
+Sexual Violence Resource Center (SVRC) Email: open@northeastern.edu Phone: 617-373-4459 Access Services
+Email: open@northeastern.edu
+Phone: 617-373-4459
+Access Services
+The Office of Prevention and Education at Northeastern Email: open@northeastern.edu Phone: 617-373-4459 Access Services
+Email: open@northeastern.edu
+Phone: 617-373-4459
+Access Services
+Confidential Resource Advising Services (CRA) Email: open@northeastern.edu Phone: 617-373-4459 Access Services
+Email: open@northeastern.edu
+Phone: 617-373-4459
+Access Services
+Center for Spirituality, Dialogue and Service (CSDS) – Spiritual Advising Email: kern@northeastern.edu Phone: 617-373-4931
+Email: kern@northeastern.edu
+Phone: 617-373-4931
+Athletic Trainers Email: sportsperformance@northeastern.edu
+Email: sportsperformance@northeastern.edu
+Ombuds for Faculty and Staff Email: levin@northeastern.edu. Phone: 617-373-3362
+Email: levin@northeastern.edu.
+Phone: 617-373-3362
+Ombuds for Graduate Students Email: wong@northeastern.edu Phone: 617-373-6904
+Email: wong@northeastern.edu
+Phone: 617-373-6904
+
+Non-Confidential Resources
+Note: These employees are required to provide all information about conduct that reasonably may constitute a Prohibited Offense under the Policy to the Title IX Coordinator.
+Title IX Coordinator and Deputy Coordinator(s)
+Mark Jannoni
+ouec@northeastern.edu
+617.373.4644
+360 Huntington Avenue
+125 Richards Hall
+Boston, MA 02115
+
+
+Brigid Hart-Molloy
+Liz Weber
+ouec@northeastern.edu
+617.373.4644
+360 Huntington Avenue
+125 Richards Hall
+Boston, MA 02115
+
+
+Northeastern University Police Department
+o Emergency Phone: 617-373-3333 o Non-Emergency Phone: 617-373-2121 o Location: 716 Columbus Avenue Boston, MA 02115 o Campus Police Officers are available 24 hours a day, seven days a week.
+Department of Public Safety – Oakland
+o 24/7 Phone: 510.430.3333. o Location: 5000 MacArthur Blvd, CPM 11 Oakland, CA 94613
+
+For a list of Off-Campus Resources available on each campus, visit OUEC’s Website.
+
+
+
+Appendix C -Factors Considered in Determining Whether the Title IX Coordinator Will File a Formal Complaint
+In determining whether the Title IX Coordinator will file a Formal Complaint in cases where the Complainant chooses not to do so, the Title IX Coordinating Committee will consider the non-exhaustive factors:
+
+The Complainant’s request not to proceed with initiation of a Formal Complaint;
+The Complainant’s reasonable safety concerns regarding initiation of a Formal Complaint;
+The risk that additional acts of Prohibited Offenses would occur if a Formal Complaint is not initiated;
+Whether a hostile environment may exist in a university education program as a result of the alleged Prohibited Offense;
+The severity of the alleged sex discrimination, including whether: the discrimination, if established, would require the removal of a Respondent from campus or imposition of another disciplinary sanction to end the discrimination and prevent its recurrence; the Respondent displayed any signs of predatory behavior; violence or any weapons were used by the Respondent; or other individuals were involved in the commission of the Prohibited Offense;
+the discrimination, if established, would require the removal of a Respondent from campus or imposition of another disciplinary sanction to end the discrimination and prevent its recurrence;
+the Respondent displayed any signs of predatory behavior;
+violence or any weapons were used by the Respondent; or
+other individuals were involved in the commission of the Prohibited Offense;
+The age and relationship of the parties, including whether the respondent is an employee of the university;
+The scope of the alleged Prohibited Offense, including information suggesting: a pattern of Prohibited Offenses committed by an individual Respondent or by a specific Respondent group or organization, including whether Respondent has a prior record of Prohibited Offenses; ongoing Prohibited Offenses; Prohibited Offenses alleged to have impacted multiple individuals; or The availability of evidence to assist a Decision-Maker in determining whether a Prohibited Offense occurred;
+a pattern of Prohibited Offenses committed by an individual Respondent or by a specific Respondent group or organization, including whether Respondent has a prior record of Prohibited Offenses;
+ongoing Prohibited Offenses;
+Prohibited Offenses alleged to have impacted multiple individuals; or
+The availability of evidence to assist a Decision-Maker in determining whether a Prohibited Offense occurred;
+Whether the University could end the alleged Prohibited Offense and prevent its recurrence without initiating a Formal or Informal Process; and
+Whether the Respondent presents a continuing threat to the university community.
+Supersedes
+Policy 105 – Policy Prohibiting Sexual and Gender-Based Harassment (08/28/2020)
+Keywords
+
+Sexual Harassment; Sexual Assault; Discrimination; Domestic Violence; Dating Violence; Stalking; Title IX
+Version History
+
+Last Revision Date: September 24, 2024
+Issued: January 15, 2014

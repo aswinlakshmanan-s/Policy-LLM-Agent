@@ -1,0 +1,72 @@
+Policy 110: Policy on Export Control
+
+
+Northeastern University is committed to the principles of open scholarly exchange of ideas and academic freedom, including broad access to research data and results. As a center of higher education, many of Northeastern University’s activities involve research on cutting-edge technologies, some of which may come under federal law and regulation restricting the export of certain goods, information, technology and services for reasons relating to U.S. national security, economic interests, and foreign policy goals.
+Northeastern University is committed to full compliance with the laws and regulations of the United States Government, including those controlling the export of technologies, services, and products.
+Export regulators have placed the responsibility on universities to understand and comply with export controls. While maintaining its commitment to the ideals of freedom of inquiry and open exchange of knowledge for the public good, Northeastern University recognizes that for some research, the compelling societal interests underlying export control laws may necessitate exceptions to the university’s Policy on Openness in Research.
+This policy applies to all members of the university community in the conduct of university business, including faculty, staff, students, visiting scientists and scholars, post-doctoral fellows, and all other persons retained by or working at the university to conduct research, teach, or provide services at or on behalf of the University.
+
+For the purposes of this policy:
+Export means both (i) the physical shipment or transmittal of a controlled item such as equipment, material, or technology to persons and entities outside of the U.S., or (ii) any disclosure (whether oral, written, electronic or visual) of a controlled item such as information or software, including the transfer of “knowledge,” to a foreign person in the U.S. or abroad. Such disclosures are referred to as “Deemed Exports.”
+Export Administration Regulations (EAR) are written and promulgated by the Bureau of Industry and Security (BIS), Department of Commerce. These regulations control certain exports, re-exports, “deemed exports” and other activities related to the access and use of “dual-use” (civilian and military application) items listed on the Commerce Control List (CCL) as well as commercial items. Dual-use items are identified by an Export Control Classification Number (ECCN) which is an alphanumerical designation used in the CCL.
+International Traffic in Arms Regulations (ITAR), are written and promulgated by the Directorate of Defense Trade Controls (DDTC), Department of State. These regulations restrict and control certain exports, re-exports, and other activities related to the use of defense services and/or defense articles listed on the United States Munitions List (USML).
+Office of Foreign Assets Control (OFAC), agency within Department of the Treasury, assigned with the implementation, administration and enforcement of the Foreign Assets Control Regulations which establish economic and trade sanctions based on U.S. foreign policy and national security interests. OFAC sanctions may be issued against targeted foreign countries (comprehensive and/or limited embargos), foreign persons and/or U.S. persons who either support otherwise sanctioned countries/persons or who have violated U.S. export control laws, regulations or guidelines.
+U.S. person means a person who is a U.S. citizen by birth or naturalization, a lawful permanent resident as defined by 8 U.S.C. 1101(a)(20), or who is a protected individual as defined by 8 U.S.C. 1324b(a)(3). It also means any corporation, business association, partnership, society, trust, or any other entity organization or group that is incorporated to do business in the United States. It also includes any governmental (federal, state or local) entity.
+Fundamental Research Exclusion (FRE). Export control regulations have a variety of exclusions and exemptions. For universities, the most relevant is the Fundamental Research Exclusion, which is defined by National Security Decision Directive 189, as “basic and applied research in science and engineering, the results of which ordinarily are published and shared broadly within the scientific community, as distinguished from proprietary research and from industrial development, design, production, and product utilization, the results of which ordinarily are restricted for proprietary or national security concerns.” Generally speaking, the results of fundamental research performed on campus within the U.S. are not subject to U.S. export control laws and regulations (the “Fundamental Research Exclusion”).
+Educational Information Exclusion. As an institute of higher education as defined in 20 U.S.C. § 1001, the University takes advantage of the Educational Information Exclusion. This exclusion shields general educational information that is typically taught in schools and universities from Export Controls. The Educational Information Exclusion allows for disclosure of information concerning general scientific, mathematical, or engineering principles commonly taught in schools, colleges, and universities or disclosure of information released by instructions in catalog courses and associated teaching laboratories of academic institutions.
+Publicly Available/Public Domain. Information and data that have been lawfully published and are accessible or available to the public are subject to the Public Information Exclusion and therefore not subject to Export Controls. The terms “Published” or in the “Public Domain” are applied as they are defined in the ITAR and the EAR.
+
+It is the Policy of the Northeastern University to understand and comply with all applicable U.S. laws, including any and all relevant applicable laws, regulations and guidelines governing the export of goods, information or services. University faculty, staff, administrators, and students are responsible for compliance with export control laws and regulations that apply to their activities. In general, export control laws are implicated when, among other circumstances:
+The university will partner with a non-U.S. company or institution;
+Host international visiting scholars for the purpose of research involving, use or development of technology which is subject to export controls, or where a non-U.S. person will be participating in the activity;
+Research involving military or defense related applications;
+Shipping or hand carrying tangible items, material, biologicals, or scientific equipment for research abroad. Some restrictions may also apply to laptops, GPS equipment or devices with encrypted software;
+Travel to, or remote work/classes with certain sanctioned or embargoes countries to teach or perform research; or
+Foreign collaboration or transactions associated with any embargoed country or restricted party/person.
+In any of these circumstances, or under other circumstances where there is a question whether export control laws might apply, the faculty, staff, student, or other member of the university community engaged in research or other activity that is potentially subject to export control regulations, is responsible for consulting with the appropriate university office and determining the appropriate actions. Research Compliance, NU Research Enterprise Services (NU-RES), Information Security, Environmental Health & Safety, General Counsel, or the Compliance Department can assist as needed in resolving questions arising under export control regulations.
+The university requires that:
+(a) A faculty, staff member, student, or other member of the university community engaged in research or other activity of the university involving an export by or on behalf of the university, shall comply with the applicability of export control laws and regulations, including the applicability of any exclusion or exemption, prior to the export; and
+(b) A faculty or staff member, student, or other member of the university community who anticipates their research or activity involving export controls activities with a country, entity or person subject to restrictions under the EAR, ITAR or OFAC regulations, shall comply with the applicability of such restrictions or license requirements before traveling or entering into any negotiations or agreements with such country, entity or person.
+(c) It is NU policy that a Technology Control Plan (TCP) shall be implemented for export-controlled research regulated under the ITAR or which contains Covered Defense Information (CDI), other export controls research such as EAR research (dual-use, where a deemed export of knowledge and technology could take place) or DOE research involving Unclassified Controlled Nuclear Information, under the Atomic Energy Act (AEA).
+i. The Principal Investigator (PI) and all approved personnel, including NU researchers, faculty, staff, and students listed on a TCP, must sign, and agree to abide by the TCP requirements.
+ii. All personnel, including researchers, faculty, staff, and students involved in export-controlled research with a TCP must complete export control training requirements.
+iii. The PI and other approved personnel that require GCC accounts for research that involves CUI (CDI and export controlled information) must also complete required training as outlined in other university policies.
+iv. PIs with export controlled research or activities that require a TCP, will need to have the final TCP approved prior to beginning their research.
+v. The export control office may require routine reviews, to ensure the continued accuracy of the TCP.
+(d) All personnel, including researchers, faculty, staff, and students involved in other export-controlled activities, may also be required to complete export control training (e.g., travel to an embargoes country, hosting visiting scholars from an institution on a RPL or from an embargoed country).
+Failure to comply with export control laws and regulations may result in severe criminal and civil penalties (incarceration and fines) for the affected employees and students, as well as administrative sanctions (fines, loss of research funding and/or export privileges) for the university.
+
+
+Although BIS, DDTC, and OFAC are the three main export control agencies Northeastern will most often encounter, there are other agencies involved in export regulations including but not limited to the Bureau of Customs and Border Protection, Department of Energy, Nuclear Regulatory Commission, Department of Justice, Department of Defense, Environmental Protection Agency, and Patent and Trademark Office.
+A Technology Control Plan (TCP) is required to prevent unauthorized exports or transfers of controlled items, materials, information, or technology. The TCP will outline the security measures used to manage and safeguard the export-controlled items and/or information. The TCP will also document all personnel authorized to participate in export-controlled activities and access export-controlled items and information. The Export Control staff will determine when a TCP will be required for an activity or research and will work with the PI and research team to develop a TCP to protect the export-controlled research. Security measures and safeguards shall be appropriate to the export classification involved.
+Export Control Information and Covered Defense Information (CDI) are categories of CUI (Controlled Unclassified Information). Note, that all CUI requires some form of safeguarding, however, some groups of CUI must also comply with export control regulations to protect the information as detailed in university policy.
+Resources: If you have a question whether export control laws apply to your project or activity, please contact exportcontrol@northeastern.edu
+Information, training, and FAQs on export control basics are available from the relevant government websites.
+If export control training and other security training will be required, the Research Compliance office will assign, conduct or coordinate the relevant training.
+Other trainings may be available from time to time by or upon request from the Office of the General Counsel, NU_RES, and/or the Compliance Department.
+For additional resources, please consult: Northeastern University’s Export Control Compliance Manual
+Agreements relating to import-export of research-related material (e.g., Material Transfer Agreement), must be uploaded to and routed through NU-RES via e-CLAWS.
+
+For any export control-related inquiries: NU-RES (617) 373-5600 or exportcontrol@northeastern.edu
+For all other inquiries:
+Compliance Department: rps@northeastern.edu (questions regarding Restricted Party Screening)
+Office of the General Counsel: (617) 373-2157
+Office of Information Security: ois@northeastern.edu (for travel with electronic devices)
+Environmental Health & Safety: (617) 373-2769 (for questions related to shipping and imports)
+Responsible Office/Department(s)
+Office of the Provost
+Vice Provost for Research and Graduate Education
+
+Related Policies
+Policy on Appropriate Use of Computer and Network Resources
+Policy in Openness in Research
+Related Procedures
+Export Control Compliance Manual
+NU-RES Export Control Resources (Decision Tree, Manuals, Other Resources)
+Supersedes
+N/A
+Keywords
+Export Control; OFAC; DDTC; BIS; ITAR; EAR; Shipment; Deemed Export; Technology Control Plan; Biologicals; ECCN; Dual Use; Re-Export
+Version History
+Last Revision Date: September 7, 2022
+Issued: August 5, 2014
