@@ -2,43 +2,37 @@ package com.northeastern.scraper;
 
 import akka.actor.typed.*;
 import akka.actor.typed.javadsl.*;
+import ai.djl.translate.TranslateException;
 
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.util.*;
-import java.util.stream.Collectors;
+import java.io.Serializable;
+import java.util.List;
+import java.util.concurrent.CompletableFuture;
 
 public class PolicySearchActor extends AbstractBehavior<PolicySearchActor.SearchMsg> {
-    public interface SearchMsg {}
+    public interface SearchMsg extends Serializable {}
+
     public static class Query implements SearchMsg {
         public final String query;
         public final ActorRef<Response> replyTo;
-        public Query(String query, ActorRef<Response> replyTo) {
-            this.query = query; this.replyTo = replyTo;
-        }
-    }
-    public static class Response {
-        public final List<Match> results;
-        public Response(List<Match> results) { this.results = results; }
-    }
-    public static class Match {
-        public final String filename;
-        public final String snippet;
-        public Match(String filename, String snippet) {
-            this.filename = filename; this.snippet = snippet;
-        }
+        public Query(String query, ActorRef<Response> replyTo) { this.query = query; this.replyTo = replyTo; }
     }
 
-    private final List<File> policyFiles;
-
-    public static Behavior<SearchMsg> create() {
-        return Behaviors.setup(PolicySearchActor::new);
+    public static class Response implements Serializable {
+        public final List<QdrantClient.PolicyMatch> results;
+        public Response(List<QdrantClient.PolicyMatch> results) { this.results = results; }
     }
 
-    private PolicySearchActor(ActorContext<SearchMsg> ctx) {
+    private final QdrantClient qdrant;
+    private final EmbeddingService embedder;
+
+    public static Behavior<SearchMsg> create(QdrantClient client, EmbeddingService embedder) {
+        return Behaviors.setup(ctx -> new PolicySearchActor(ctx, client, embedder));
+    }
+
+    private PolicySearchActor(ActorContext<SearchMsg> ctx, QdrantClient client, EmbeddingService embedder) {
         super(ctx);
-        File dir = new File("data/policies");
-        policyFiles = Arrays.asList(Objects.requireNonNull(dir.listFiles((d, n) -> n.endsWith(".txt"))));
+        this.qdrant   = client;
+        this.embedder = embedder;
     }
 
     @Override
@@ -49,22 +43,38 @@ public class PolicySearchActor extends AbstractBehavior<PolicySearchActor.Search
     }
 
     private Behavior<SearchMsg> onQuery(Query msg) {
-        String q = msg.query.toLowerCase();
-        List<Match> hits = new ArrayList<>();
-        for (File file : policyFiles) {
-            try {
-                String text = new String(java.nio.file.Files.readAllBytes(file.toPath()), StandardCharsets.UTF_8);
-                if (text.toLowerCase().contains(q)) {
-                    // Find the line/snippet containing the keyword
-                    for (String line : text.split("\n")) {
-                        if (line.toLowerCase().contains(q)) {
-                            hits.add(new Match(file.getName(), line.trim()));
-                        }
+        System.out.println("[Search] received query: " + msg.query);
+
+        // Offload the heavy embedding + search so we don't block the actor thread.
+        CompletableFuture
+                .supplyAsync(() -> {
+                    try {
+                        System.out.println("[Search] Embedding start");
+                        long t0 = System.nanoTime();
+                        float[] embedding = embedder.embed(msg.query);
+                        System.out.println("[Search] Embedding done in " + ((System.nanoTime()-t0)/1_000_000) + " ms");
+
+                        System.out.println("[Search] Qdrant search start");
+                        List<QdrantClient.PolicyMatch> results = qdrant.search(embedding, 3);
+                        System.out.println("[Search] Qdrant search done, hits=" + results.size());
+                        return results;
+                    } catch (TranslateException te) {
+                        te.printStackTrace();
+                        return java.util.List.<QdrantClient.PolicyMatch>of();
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                        return java.util.List.<QdrantClient.PolicyMatch>of();
                     }
-                }
-            } catch (IOException ignored) {}
-        }
-        msg.replyTo.tell(new Response(hits.stream().limit(3).collect(Collectors.toList())));
+                })
+                .whenComplete((results, err) -> {
+                    if (err != null) {
+                        System.out.println("[Search] failed: " + err);
+                        msg.replyTo.tell(new Response(java.util.List.of()));
+                    } else {
+                        msg.replyTo.tell(new Response(results));
+                    }
+                });
+
         return this;
     }
 }

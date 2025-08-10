@@ -1,49 +1,43 @@
 package com.northeastern.scraper;
 
-import akka.actor.typed.*;
-import akka.actor.typed.javadsl.*;
+import akka.actor.typed.Behavior;
+import akka.actor.typed.javadsl.AbstractBehavior;
+import akka.actor.typed.javadsl.ActorContext;
+import akka.actor.typed.javadsl.Behaviors;
+import akka.actor.typed.javadsl.Receive;
 
-import com.google.gson.*;
-import org.apache.hc.client5.http.fluent.Request;
-import org.apache.hc.core5.http.ContentType;
-
-import java.io.IOException;
+import java.io.Serializable;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class LLMActor extends AbstractBehavior<LLMActor.LLMMsg> {
 
-    public interface LLMMsg {}
+    // Protocol
+    public interface LLMMsg extends Serializable {}
+
+    public static class LLMResponse implements Serializable {
+        public final String answer;
+        public LLMResponse(String answer) { this.answer = answer; }
+    }
 
     public static class Summarize implements LLMMsg {
-        public final String userQuery;
-        public final List<PolicySearchActor.Match> matches;
-        public final ActorRef<LLMResponse> replyTo;
+        public final String question;
+        public final List<QdrantClient.PolicyMatch> results;
+        public final akka.actor.typed.ActorRef<LLMResponse> replyTo;
 
-        public Summarize(String userQuery, List<PolicySearchActor.Match> matches, ActorRef<LLMResponse> replyTo) {
-            this.userQuery = userQuery;
-            this.matches = matches;
+        public Summarize(String question, List<QdrantClient.PolicyMatch> results, akka.actor.typed.ActorRef<LLMResponse> replyTo) {
+            this.question = question;
+            this.results = results;
             this.replyTo = replyTo;
         }
     }
 
-    public static class LLMResponse {
-        public final String answer;
-        public LLMResponse(String answer) {
-            this.answer = answer;
-        }
+    public static Behavior<LLMMsg> create() {
+        return Behaviors.setup(LLMActor::new);
     }
 
-    private final String apiKey;
-    private static final String GENERATE_ENDPOINT = "https://api.cohere.ai/generate";
-
-    public static Behavior<LLMMsg> create(String apiKey) {
-        return Behaviors.setup(ctx -> new LLMActor(ctx, apiKey));
-    }
-
-    private LLMActor(ActorContext<LLMMsg> ctx, String apiKey) {
+    private LLMActor(ActorContext<LLMMsg> ctx) {
         super(ctx);
-        this.apiKey = apiKey;
+        System.out.println("[LLM] ✅ NO API MODE - Direct policy responses, no 429 errors!");
     }
 
     @Override
@@ -53,51 +47,86 @@ public class LLMActor extends AbstractBehavior<LLMActor.LLMMsg> {
                 .build();
     }
 
+    // THE KEY FIX: No OpenAI calls whatsoever
     private Behavior<LLMMsg> onSummarize(Summarize msg) {
-        String systemPrompt = "You are a helpful assistant answering questions about Northeastern University policies.";
+        System.out.println("[LLM] Processing: " + msg.question);
+        System.out.println("[LLM] Policies found: " + msg.results.size());
 
-        // Limit policy snippets to 2 to avoid prompt length issues
-        String context = msg.matches.stream()
-                .limit(2)
-                .map(m -> m.filename + ": " + m.snippet)
-                .collect(Collectors.joining("\n"));
+        // NO API CALLS - just format the policy data directly
+        String answer = createDirectResponse(msg.question, msg.results);
 
-        String prompt = systemPrompt + "\n\nUser question: " + msg.userQuery +
-                "\nRelevant policies:\n" + context + "\nAnswer:";
-
-        JsonObject payload = new JsonObject();
-        payload.addProperty("model", "command-xlarge");  // switched to stable model
-        payload.addProperty("prompt", prompt);
-        payload.addProperty("max_tokens", 200);
-        payload.addProperty("temperature", 0.2);
-
-        // Log the payload for debugging
-        System.out.println("[LLMActor] Sending payload: " + payload);
-
-        try {
-            String response = Request.post(GENERATE_ENDPOINT)
-                    .addHeader("Authorization", "Bearer " + apiKey)
-                    .addHeader("Content-Type", "application/json")
-                    .bodyString(payload.toString(), ContentType.APPLICATION_JSON)
-                    .execute()
-                    .returnContent()
-                    .asString();
-
-            // Log the raw response
-            System.out.println("[LLMActor] Raw response: " + response);
-
-            JsonObject respJson = JsonParser.parseString(response).getAsJsonObject();
-            String answer = respJson.getAsJsonArray("generations")
-                    .get(0).getAsJsonObject()
-                    .get("text").getAsString();
-
-            msg.replyTo.tell(new LLMResponse(answer));
-        } catch (IOException e) {
-            // Log full error for diagnosis
-            System.err.println("[LLMActor] Error during generation: " + e.getMessage());
-            msg.replyTo.tell(new LLMResponse("Error generating response: " + e.getMessage()));
-        }
+        System.out.println("[LLM] ✅ Direct response created");
+        msg.replyTo.tell(new LLMResponse(answer));
 
         return this;
+    }
+
+    private String createDirectResponse(String question, List<QdrantClient.PolicyMatch> results) {
+        if (results.isEmpty()) {
+            return "No relevant policies found for: \"" + question + "\"\n\n" +
+                    "Try rephrasing or ask about: housing, academics, conduct, employment, insurance";
+        }
+
+        StringBuilder response = new StringBuilder();
+        response.append("📋 NORTHEASTERN UNIVERSITY POLICIES\n");
+        response.append("Question: ").append(question).append("\n\n");
+
+        for (int i = 0; i < results.size() && i < 3; i++) {
+            QdrantClient.PolicyMatch match = results.get(i);
+
+            response.append("Policy ").append(i + 1).append(": ").append(match.title).append("\n");
+            response.append("Relevance: ").append(String.format("%.1f%%", match.score * 100)).append("\n");
+
+            if (match.text != null) {
+                String excerpt = getKeyExcerpt(match.text, question);
+                response.append("Content: ").append(excerpt).append("\n");
+            }
+            response.append("\n");
+        }
+
+        return response.toString();
+    }
+
+    private String getKeyExcerpt(String text, String question) {
+        // Simple extraction - no complex processing
+        String clean = text.trim().replaceAll("\\s+", " ");
+
+        if (clean.length() <= 300) {
+            return clean;
+        }
+
+        // Find relevant part based on question keywords
+        String[] words = question.toLowerCase().split("\\s+");
+        String lowerText = clean.toLowerCase();
+
+        int bestStart = 0;
+        int maxMatches = 0;
+
+        // Sliding window to find best excerpt
+        for (int start = 0; start < clean.length() - 200; start += 50) {
+            int end = Math.min(start + 300, clean.length());
+            String window = lowerText.substring(start, end);
+
+            int matches = 0;
+            for (String word : words) {
+                if (word.length() > 2 && window.contains(word)) {
+                    matches++;
+                }
+            }
+
+            if (matches > maxMatches) {
+                maxMatches = matches;
+                bestStart = start;
+            }
+        }
+
+        int end = Math.min(bestStart + 300, clean.length());
+        String excerpt = clean.substring(bestStart, end);
+
+        // Clean up excerpt boundaries
+        if (bestStart > 0) excerpt = "..." + excerpt;
+        if (end < clean.length()) excerpt = excerpt + "...";
+
+        return excerpt;
     }
 }
