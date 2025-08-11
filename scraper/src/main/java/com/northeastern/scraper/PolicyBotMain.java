@@ -25,7 +25,6 @@ public class PolicyBotMain {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("🤖 Policy Bot is ready! Ask questions about Northeastern University policies.");
-        System.out.println("Note: Due to API rate limits, please wait 10-15 seconds between questions.\n");
 
         while (true) {
             System.out.print("Ask a policy question (or 'exit'): ");
@@ -236,14 +235,6 @@ public class PolicyBotMain {
                 System.out.println("✅ Vector collection verified with size: " + testEmbedding.length);
             } catch (Exception e) {
                 System.err.println("⚠️ Could not verify vector collection: " + e.getMessage());
-            }
-
-            // Check OpenAI API key
-            String apiKey = System.getenv("OPENAI_API_KEY");
-            if (apiKey == null || apiKey.isBlank()) {
-                System.err.println("⚠️ OPENAI_API_KEY not set - LLM generation will use fallback mode");
-            } else {
-                System.out.println("✅ OpenAI API key configured");
             }
 
             System.out.println("All systems go! 🤖\n");
