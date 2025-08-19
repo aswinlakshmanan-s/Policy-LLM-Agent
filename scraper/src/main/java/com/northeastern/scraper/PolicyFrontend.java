@@ -2,7 +2,10 @@ package com.northeastern.scraper;
 
 import akka.actor.typed.ActorRef;
 import akka.actor.typed.Behavior;
-import akka.actor.typed.javadsl.*;
+import akka.actor.typed.javadsl.AbstractBehavior;
+import akka.actor.typed.javadsl.ActorContext;
+import akka.actor.typed.javadsl.Behaviors;
+import akka.actor.typed.javadsl.Receive;
 import akka.actor.typed.receptionist.Receptionist;
 import akka.cluster.ClusterEvent;
 import akka.cluster.Member;
@@ -54,10 +57,12 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
 
     private static final class SearchResultReceived implements Command {
         public final String queryId;
+        public final String originalQuery;  // FIXED: Store original query
         public final PolicyBackendWorker.PolicySearchResponse searchResponse;
 
-        public SearchResultReceived(String queryId, PolicyBackendWorker.PolicySearchResponse searchResponse) {
+        public SearchResultReceived(String queryId, String originalQuery, PolicyBackendWorker.PolicySearchResponse searchResponse) {
             this.queryId = queryId;
+            this.originalQuery = originalQuery;  // FIXED: Store original query
             this.searchResponse = searchResponse;
         }
     }
@@ -93,7 +98,7 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
 
         System.out.println("🌐 Policy Frontend started on " + nodeAddress);
 
-        // Start user interface immediately (no timer delay)
+        // Start user interface immediately
         context.getSelf().tell(new StartUserInterface());
     }
 
@@ -116,7 +121,7 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
         System.out.println("🎯 Demonstrating: tell, ask, and forward patterns");
         System.out.println("=====================================\n");
 
-        // FIXED: Simple synchronous user input (no async complications)
+        // Start simple user interface
         startSimpleUserInterface();
 
         return this;
@@ -137,8 +142,10 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
                     }
 
                     if (!input.trim().isEmpty()) {
-                        // Process the actual user input
+                        // FIXED: Process the actual user input, not query ID
                         String queryId = "query-" + queryCounter.incrementAndGet();
+                        System.out.println("DEBUG - QueryID: " + queryId);
+                        System.out.println("DEBUG - Question: " + input.trim());
                         getContext().getSelf().tell(new UserQuery(queryId, input.trim()));
 
                         // Give some time for processing
@@ -158,14 +165,14 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
 
     private Behavior<Command> onUserQuery(UserQuery query) {
         System.out.println("\n" + "=".repeat(70));
-        System.out.println("🎯 PROCESSING QUERY: " + query.question);
+        System.out.println("🎯 PROCESSING QUERY: " + query.question);  // FIXED: Use query.question
         System.out.println("🆔 Query ID: " + query.queryId);
         System.out.println("=".repeat(70));
 
         // DEMONSTRATE: tell pattern
         System.out.println("\n--- 📤 DEMONSTRATING TELL PATTERN ---");
         ActorRef<PolicyLogger.Command> logger = getContext().spawn(PolicyLogger.create(), "logger-" + query.queryId);
-        logger.tell(new PolicyLogger.LogEvent("User query: " + query.question, "frontend"));
+        logger.tell(new PolicyLogger.LogEvent("User query: " + query.question, "frontend"));  // FIXED: Use query.question
         logger.tell(new PolicyLogger.LogEvent("Starting cluster processing", "frontend"));
         System.out.println("✅ TELL: Query logged with fire-and-forget messages");
 
@@ -189,13 +196,13 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
                         ActorRef<PolicyBackendWorker.Command> worker = workers.iterator().next();
                         System.out.println("✅ ASK-1: Found backend, requesting search for: " + query.question);
 
-                        // Request search results
+                        // FIXED: Request search results with proper query
                         ActorRef<PolicyBackendWorker.PolicySearchResponse> searchAdapter =
                                 getContext().messageAdapter(PolicyBackendWorker.PolicySearchResponse.class,
-                                        response -> new SearchResultReceived(query.queryId, response));
+                                        response -> new SearchResultReceived(query.queryId, query.question, response));  // FIXED: Pass original query
 
                         worker.tell(new PolicyBackendWorker.PolicySearchRequest(
-                                query.queryId, query.question, searchAdapter));
+                                query.queryId, query.question, searchAdapter));  // FIXED: Use query.question, not query.queryId
 
                         logger.tell(new PolicyLogger.LogEvent("Search request sent to backend", "frontend"));
 
@@ -204,7 +211,6 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
                         System.out.print("\nAsk a policy question (or 'exit'): ");
                     }
 
-                    // FIXED: Remove dummy return that caused loops
                     return new ProcessUserInput(""); // Empty input to avoid processing
                 });
 
@@ -234,8 +240,9 @@ public class PolicyFrontend extends AbstractBehavior<PolicyFrontend.Command> {
                                 getContext().messageAdapter(PolicyLLMService.GenerationResponse.class,
                                         response -> new LLMResultReceived(event.queryId, response));
 
+                        // FIXED: Use original query, not query ID
                         llmService.tell(new PolicyLLMService.GenerateResponse(
-                                event.queryId, event.queryId, event.searchResponse.results, llmAdapter));
+                                event.queryId, event.originalQuery, event.searchResponse.results, llmAdapter));
 
                     } else {
                         System.out.println("❌ ASK-2: No LLM services found");
