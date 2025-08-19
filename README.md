@@ -23,9 +23,6 @@ Built with **Akka Cluster (Java, Akka Typed)**, **RAG** (vector search + LLM), a
 - [Benchmarks](#benchmarks)
 - [Production Hardening](#production-hardening)
 - [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
